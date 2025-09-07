@@ -1,0 +1,27 @@
+# Hugo output
+/public/
+/resources/
+hugo_stats.json
+
+# Node stuff
+/node_modules/
+/package-lock.json
+npm-debug.log
+
+
+# Personal folders (e.g. previously used "save")
+/save/
+
+# System junk
+.DS_Store
+Thumbs.db
+
+# Backup/temp files
+*.bak
+*.tmp
+*.swp
+*.swo
+
+# Editor-specific folders
+.vscode/
+.idea/
