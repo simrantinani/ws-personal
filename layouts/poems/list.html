@@ -1,91 +1,55 @@
 {{ define "main" }}
-<main id="main" class="{{ .Section }}">
-  <div class="publications-page">
-    {{ $categoryOrder := slice
-      "Cryptography"
-      "Systems, Applications, Security"
-      "AI and Machine Learning"
-      "Theoretical Computer Science"
-      "Mathematics"
-    }}
+<main id="main" class="poems">
+  <div class="poems-page">
 
-    <!-- Icon map: match via urlized keys -->
-    {{ $iconMap := dict
-      "ai-and-machine-learning" "fas fa-microchip"
-      "cryptography" "fas fa-lock"
-      "mathematics" "fas fa-square-root-alt"
-      "systems-applications-security" "dual"
-      "theoretical-computer-science" "fas fa-project-diagram"
-    }}
+    <header class="poems-header">
+      <h1>Poems</h1>
+      <p class="poems-subhead">A small collection of poems</p>
+    </header>
 
-    <!-- Category Scroll Nav using $categoryOrder -->
-    <nav class="category-scroll-nav" id="categoryNav">
-      {{ range $categoryOrder }}
-        {{ $catKey := . | urlize }}
-        <a href="#{{ $catKey }}">
-          {{ if eq (index $iconMap $catKey) "dual" }}
-            <i class="fas fa-desktop nav-icon"></i>
-            <i class="fas fa-shield-alt nav-icon"></i>
-          {{ else }}
-            <i class="{{ index $iconMap $catKey | default "fas fa-tag" }} nav-icon"></i>
-          {{ end }}
-          {{ . }}
-        </a>
-      {{ end }}
-    </nav>
+    {{/* Build a list of poem pages (newest first). Skip any node/index pages. */}}
+    {{ $poems := .Pages.ByDate.Reverse }}
+    {{ $poems = where $poems "IsNode" "ne" true }}
 
-    <!-- Collect & sort categories -->
-    {{ $allPosts := .Pages }}
-    {{ $categorySet := slice }}
-    {{ range $allPosts }}
-      {{ range .Params.categories }}
-        {{ $categorySet = $categorySet | append . }}
-      {{ end }}
+    {{ if gt (len $poems) 0 }}
+      
+      <!-- Poems Grid -->
+      <div class="poems-grid">
+        {{ range $poems }}
+          <a href="{{ .RelPermalink }}" class="poem-card">
+            <div class="poem-card-image">
+              {{ with .Params.image }}
+                <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy" />
+              {{ else }}
+                {{ with $.Site.Params.defaultPoemThumb }}
+                  <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy" />
+                {{ else }}
+                  <div class="poem-placeholder">
+                    <i class="fas fa-feather-alt"></i>
+                  </div>
+                {{ end }}
+              {{ end }}
+            </div>
+            
+            <div class="poem-card-content">
+              <h3 class="poem-card-title">{{ .Title }}</h3>
+              {{ with .Date }}
+                <time datetime="{{ .Format "2006-01-02" }}" class="poem-card-date">
+                  {{ .Format "Jan 2, 2006" }}
+                </time>
+              {{ end }}
+              {{ with .Summary }}
+                <p class="poem-card-excerpt">{{ . }}</p>
+              {{ end }}
+            </div>
+          </a>
+        {{ end }}
+      </div>
+
+    {{ else }}
+      <p class="no-poems">No poems yet.</p>
     {{ end }}
-    {{ $uniqueCategories := $categorySet | uniq | sort }}
 
-    <!-- Render section for each category -->
-    {{ range $categoryOrder }}
-      {{ $currentCat := . }}
-      {{ $catKey := $currentCat | urlize }}
-
-      <section class="pub-section-card">
-        <h2 id="{{ $catKey }}" class="pub-section-title">
-          {{ if eq (index $iconMap $catKey) "dual" }}
-            <i class="fas fa-desktop pub-type-icon"></i>
-            <i class="fas fa-shield-alt pub-type-icon"></i>
-          {{ else }}
-            <i class="{{ index $iconMap $catKey | default "fas fa-tag" }} pub-type-icon"></i>
-          {{ end }}
-          {{ $currentCat }}
-        </h2>
-
-        <div class="pub-section">
-          {{ range $allPosts }}
-            {{ if in .Params.categories $currentCat }}
-              {{ partial "blog-entry.html" . }}
-            {{ end }}
-          {{ end }}
-        </div>
-      </section>
-    {{ end }}
-    <script>
-      // Remove focus from clicked category links to prevent styling retention
-      document.addEventListener("DOMContentLoaded", function () {
-        const navLinks = document.querySelectorAll(".category-scroll-nav a");
-    
-        navLinks.forEach(link => {
-          link.addEventListener("click", function () {
-            // Allow hash to apply, then blur
-            setTimeout(() => this.blur(), 100);
-          });
-        });
-      });
-    </script>
-    
   </div>
 </main>
-
-
-
 {{ end }}

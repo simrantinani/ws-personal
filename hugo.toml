@@ -27,10 +27,13 @@ customJS = []
 dateFormat = "2 January 2006"
 emphasisWithDots = true
 toc = true
-rootFontSize = "105%"
+rootFontSize = "115%"
 math = true
 #enableDuckDuckGoSearchBox = false
 numberedSubtitles = true
+themeToggle = false
+defaultTheme = "light"
+
 
 [menu]
 
@@ -54,16 +57,16 @@ numberedSubtitles = true
   weight = 4
 
 [[menu.main]]
-  name = "Among Animals"
-  url = "/among-animals/"
+  name = "Links"
+  url = "/links/"
   identifier = "among-animals"
-  weight = 4
+  weight = 5
 
 [[menu.main]]
-  name = "Seasons Within"
+  name = "Essays"
   url = "/seasons-within/"
   identifier = "seasons-within"
-  weight = 4
+  weight = 3
 
 
 [markup]
