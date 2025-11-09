@@ -30,7 +30,7 @@
 
 .poems-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
   gap: 2rem;
   margin: 2rem 0;
 }
@@ -63,7 +63,9 @@
 
 .poem-card-image {
   width: 100%;
+/* =====   max-height: 210px;  /* Caps the image height */ 
   height: 220px;
+  /* aspect-ratio: 1 / 1;  /* Clean, symmetric look */
   overflow: hidden;
   background: linear-gradient(135deg, #f5dfe8 0%, #e8dce2 100%);
   display: flex;
@@ -206,6 +208,6 @@
 
 @media (min-width: 1400px) {
   .poems-grid {
-    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
   }
 }

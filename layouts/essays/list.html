@@ -1,0 +1,88 @@
+{{ define "main" }}
+<main id="main" class="essays">
+  <div class="essays-page">
+
+    {{/* ---- Category order (display labels) ---- */}}
+    {{ $categoryOrder := slice
+      "Personal"
+      "Mind and Self"
+      "World and Society"
+      "Book Revisits"
+    }}
+
+    {{/* ---- Icon map for categories ---- */}}
+    {{ $iconMap := dict
+      "personal" "fas fa-user"
+      "mind-and-self" "fas fa-brain"
+      "world-and-society" "dual"
+      "book-revisits" "fas fa-book-open"
+    }}
+
+    {{/* ---- Optional: map many categories -> a bucket label ---- */}}
+    {{/* Lowercase keys; values MUST be one of $categoryOrder items */}}
+  {{ $bucketMap := dict }}  <!-- empty dict -->
+
+    {{/* ---- Category Scroll Nav ---- */}}
+    <nav class="category-scroll-nav" id="essayNav">
+      {{ range $categoryOrder }}
+        {{ $catKey := . | urlize }}
+        <a href="#{{ $catKey }}">
+          {{ if eq (index $iconMap $catKey) "dual" }}
+            <i class="fas fa-users nav-icon"></i>
+            <i class="fas fa-globe nav-icon"></i>
+          {{ else }}
+            <i class="{{ index $iconMap $catKey | default "fas fa-tag" }} nav-icon"></i>
+          {{ end }}
+          {{ . }}
+        </a>
+      {{ end }}
+    </nav>
+
+    {{/* ---- Render each bucket section ---- */}}
+ {{ range $categoryOrder }}
+  {{ $label := . }}
+  {{ $key   := urlize $label }}        {{/* taxonomy term key */}}
+  {{ with index site.Taxonomies.categories $key }}
+    <section class="pub-section-card" id="{{ $key }}">
+      <h2 class="pub-section-title">
+        {{ $icon := index $iconMap $key | default "fas fa-tag" }}
+        {{ if eq $icon "dual" }}
+          <i class="fas fa-users"></i><i class="fas fa-globe"></i>
+        {{ else }}
+          <i class="{{ $icon }}"></i>
+        {{ end }}
+        {{ $label }}
+      </h2>
+<div class="pub-section">
+        {{ range .Pages.ByDate.Reverse }}
+          {{ $p := . }}
+          <div class="pub-entry">
+            <a href="{{ $p.RelPermalink }}" class="pub-title">{{ $p.Title }}</a>
+            {{ with $p.Date }}
+              <span class="pub-meta">{{ .Format "January 2, 2006" }}</span>
+            {{ end }}
+            {{ with $p.Summary }}
+              <p class="pub-description">{{ . }}</p>
+            {{ end }}
+          </div>
+        {{ end }}
+      </div>
+    </section>
+  {{ end }}
+{{ end }}
+
+  </div>
+</main>
+
+<script>
+  // Remove focus from clicked category links
+  document.addEventListener("DOMContentLoaded", function () {
+    const navLinks = document.querySelectorAll(".category-scroll-nav a");
+    navLinks.forEach(link => {
+      link.addEventListener("click", function () {
+        setTimeout(() => this.blur(), 100);
+      });
+    });
+  });
+</script>
+{{ end }}

@@ -1,0 +1,27 @@
+title: "Comical? musings"
+author: "Simran Tinani"
+date: 2023-02-01
+categories: ["Computer Science", "Machine Learning"]
+tags: ["perceptron", "pocket-algorithm", "linear-classification", "r-programming", "machine-learning", "from-scratch"]
+draft: false
+math: true
+noNumbering: false
+summary: "An examination of large language models (LLMs) as a new paradigm in human-computer interaction, offering unprecedented flexibility in understanding human instructions."
+
+
+Today I spent a while remembering my favourite childhood comic. Tickled by the numerous happy memories attached to “Tinkle”, I made this drawing to recreate the light-hearted craziness of Suppandi that delighted me as a child. It’s hard to forget Suppandi, the lovable simpleton who was always creating trouble, yet blissfully unaware of his own buffoonery.
+
+
+The highlight and spirit in all Suppandi stories is in the closing dialogue, which demonstrates Suppandi’s adorable dim-wittedness, as happens in this one page I copied. But ironically, my initial idea was to copy just the drawing and leave out the dialogue bubble. I thought that the cutesy figures and expressions would be perfect visual nostalgia to hang up somewhere in my room, but I could (and should!) exclude the “silly, childish pun” that I’d clearly outgrown. Admittedly, I even felt a tinge of shame at enjoying the remnants of this joke. The sudden awareness of this drastically changed sentiment caught me off guard and forced me to think about how truly stupid we have become as adults.
+
+Not many of us adults can still giggle at Suppandi’s antics. We could maybe manage a snicker at the mere silliness of this pun, or amuse ourselves thinking that we once actually found it funny. In a bad mood we’d probably scoff at its ridiculousness. In contrast, do you remember how, as children, we held an endless hoard of simple and guiltless joy, and generously handed out parts of it as laughter without reserve, discrimination, or thought? How there was a day when anything and everything was funny, even when our knees were bruised and our homework undone?
+
+Somewhere along our way, we traded our free supply of joy for bouts of superficial and fleeting amusement that come at an expense paid by ourselves and others. Laughter went from a bountiful gift we loved to share to a possession we protect with all our miserliness. From our strength, it became our vulnerability – something to conceal, control, and be ashamed of. We now stipulate a heavy fee to be paid in full view of the world, before we carefully and reluctantly part with some of this vulnerability. We now demand that humour be complex, intellectual, realistic, pragmatic, meaningful, dark, satirical, or even belittling of others or ourselves. We despise simplicity, and anyone deriving joy from it becomes a fool in our sad eyes.
+
+Suppandi jokes can no longer inspire a loud, spontaneous laugh in me, and maybe they even never did in the past. What they did, however, was make me happy. I remember vividly how they made my tired mind sigh a breath of relief, smoothed out my nerves and created a world of cute, feel-good, light-hearted fiction that I loved to dive into. Even when I wasn’t laughing, I wasn’t smirking at the naivety of the stories and jokes, or wondering if my friends would find them stupid, or complaining about them not being funny enough. I did not feel entitled to humour in exchange for my time, but simply enjoyed the warm, fuzzy moments of being engrossed in the comic.
+
+Places, times, stories and humour can be outgrown, but happiness cannot. When we shed our outer pretenses, presumptions, and mental occupation with conforming to the ways of society, we can get back the simple and untainted feelings of thoughtless happiness and life in the moment, which may now seem so lost in our childhood. Soon enough, we also come to the realization that at times, “stupid” is amazing. “Stupid” is fun, “stupid” is relaxing, “stupid” can give our minds the break they probably need. “Stupid” isn’t stupid if it makes us feel good. What’s truly stupid is to think that everything we consume and perform has to be deep, intellectual and meaningful, that laughter is a currency to be stowed away and carefully exchanged for social validation and entertainment.
+
+Life was simpler back when I naturally smiled endlessly without a thought while relishing jokes like this. I could not do just that today, but now that I have reflected on my initial superficial thoughts, I can see how much this joke on dried oranges actually makes my nostalgic heart laugh with glee. And isn’t nostalgia just that – the treasure of all feelings we can no longer directly feel, a touch from the grooves of our heart that our hands are now too big to reach?
+
+However, I love this comic page for more than just that. Not only did it remind me of my childhood and revive memories of the pure joy we have all perhaps forgotten to feel – but it is also my reminder that the ability to recreate that joy is still inside me, as it is in everyone else. It showed me that the unpleasant parts of growing up are curses we cast on ourselves, but they are not irreversible. We cannot get back the exact same feelings of the past, but it is in our power to recreate them in a form that’s just as good.     

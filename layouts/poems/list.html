@@ -2,11 +2,6 @@
 <main id="main" class="poems">
   <div class="poems-page">
 
-    <header class="poems-header">
-      <h1>Poems</h1>
-      <p class="poems-subhead">A small collection of poems</p>
-    </header>
-
     {{/* Build a list of poem pages (newest first). Skip any node/index pages. */}}
     {{ $poems := .Pages.ByDate.Reverse }}
     {{ $poems = where $poems "IsNode" "ne" true }}

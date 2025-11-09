@@ -51,21 +51,21 @@ defaultTheme = "light"
   weight = 3
 
 [[menu.main]]
-  name = "Book Revisits"
-  url = "/book-revisits/"
-  identifier = "book-revisits"
+  name = "Bookshelf"
+  url = "/bookshelf/"
+  identifier = "bookshelf"
   weight = 4
 
 [[menu.main]]
   name = "Links"
   url = "/links/"
-  identifier = "among-animals"
+  identifier = "links"
   weight = 5
 
 [[menu.main]]
   name = "Essays"
-  url = "/seasons-within/"
-  identifier = "seasons-within"
+  url = "/essays/"
+  identifier = "essays"
   weight = 3
 
 
