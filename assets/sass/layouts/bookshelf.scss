@@ -1,0 +1,104 @@
+.bookshelf-page {
+  max-width: 960px;
+  margin: 3rem auto 4rem;
+  padding: 2.5rem 3rem;
+  background: #fff7f4;
+  border-radius: 18px;
+  box-shadow: 0 18px 40px rgba(0,0,0,0.04);
+}
+
+.bookshelf-hero h1 {
+  font-family: var(--serif-heading, "Georgia", serif);
+  font-size: clamp(2rem, 3vw, 2.5rem);
+  margin-bottom: 0.4rem;
+}
+
+.bookshelf-hero p {
+  margin-bottom: 1.5rem;
+  max-width: 40rem;
+}
+
+.bookshelf-search {
+  width: 100%;
+  max-width: 20rem;
+  padding: 0.5rem 0.75rem;
+  border-radius: 999px;
+  border: 1px solid rgba(0,0,0,0.12);
+  background: #fff;
+  font-size: 0.95rem;
+}
+
+.bookshelf-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin: 2rem 0 1rem;
+  border-top: 1px solid rgba(0,0,0,0.06);
+  padding-top: 1rem;
+  font-size: 0.9rem;
+}
+
+.bookshelf-nav a {
+  padding: 0.2rem 0.9rem;
+  border-radius: 999px;
+  text-decoration: none;
+  border: 1px solid transparent;
+}
+
+.bookshelf-nav a:hover {
+  border-color: rgba(0,0,0,0.16);
+  background: rgba(255,255,255,0.7);
+}
+
+.bookshelf-section {
+  margin: 1.5rem 0;
+}
+
+.bookshelf-section details {
+  border-radius: 12px;
+  background: rgba(255,255,255,0.7);
+  padding: 0.75rem 1rem 0.6rem;
+  border: 1px solid rgba(0,0,0,0.06);
+}
+
+.bookshelf-section summary {
+  font-weight: 600;
+  font-family: var(--serif-heading, "Georgia", serif);
+  cursor: pointer;
+  list-style: none;
+}
+
+.bookshelf-section summary::-webkit-details-marker {
+  display: none;
+}
+
+.bookshelf-section ul {
+  margin: 0.5rem 0 0;
+  padding-left: 1.1rem;
+  list-style: none;
+}
+
+.bookshelf-section li {
+  padding: 0.1rem 0;
+}
+
+.book-title {
+  font-weight: 500;
+}
+
+.book-author {
+  opacity: 0.8;
+  font-style: italic;
+}
+
+/* Mobile */
+@media (max-width: 720px) {
+  .bookshelf-page {
+    margin: 1.5rem 1rem 3rem;
+    padding: 1.5rem 1.25rem;
+  }
+  .bookshelf-nav {
+    overflow-x: auto;
+    white-space: nowrap;
+  }
+}

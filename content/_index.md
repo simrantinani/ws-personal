@@ -24,5 +24,8 @@ Topics vary, but so far include (formatting of the posts is still immature and w
 - [Book Revisits](/book-revisits)  
 - [Links](/links/)  
 
-### Quiet Threads
-Two animals I follow at a nearby sanctuary — their daily lives and recoveries have become quiet anchors of meaning in my days.
+### Distant Kindred
+Two animals at nearby sanctuaries whose care I support. Being able to support their care and follow their lives adds a great deal of meaning to mine.
+
+- [Coco the sheep (Lebenshof Tiermensch)](https://www.tiermensch.ch/lebenshof-tier/coco/)
+- [Marita the hen (Hof Narr)](https://www.hof-narr.ch/huehner)

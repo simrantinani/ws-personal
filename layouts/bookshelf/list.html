@@ -1,0 +1,124 @@
+{{ define "main" }}
+<main id="main" class="bookshelf">
+  <div class="bookshelf-page">
+
+    <header class="bookshelf-hero">
+      <h1>Bookshelf</h1>
+      <p>A partial catalogue of books I’ve read, loosely grouped by theme.</p>
+      <input
+        id="bookSearch"
+        class="bookshelf-search"
+        type="search"
+        placeholder="Filter by title or author…" />
+    </header>
+
+    {{/* ---- Category order + labels ---- */}}
+    {{ $categoryOrder := slice
+      "psychology"
+      "mindfulness"
+      "ethics"
+      "health"
+      "productivity"
+      "economics"
+      "classics"
+      "philosophy"
+      "fiction"
+      "math"
+      "infosec"
+    }}
+
+    {{ $categoryLabels := dict
+      "psychology"  "Psychology, Behavior & Healing"
+      "mindfulness" "Mindfulness, Spirituality & Self-Mastery"
+      "ethics"      "Ethics, Compassion & Society"
+      "health"      "Health, Nutrition & Lifestyle"
+      "productivity" "Productivity, Focus & Attention"
+      "economics"   "Economics, Society & Human Behavior"
+      "classics"    "Classic Literature & Modern Thought"
+      "philosophy"  "Philosophy, Religion & Classical Wisdom"
+      "fiction"     "Fiction, Drama & Humor"
+      "math"        "Mathematics, Logic & Cryptography"
+      "infosec"     "Information Security & Networking"
+    }}
+
+    {{ $allBooks := site.Data.books }}
+
+    {{ if $allBooks }}
+
+      {{/* ---- Category nav ---- */}}
+      <nav class="bookshelf-nav" id="bookshelfNav">
+        {{ range $categoryOrder }}
+          {{ $key := . }}
+          {{ $label := index $categoryLabels $key }}
+          <a href="#{{ $key }}">{{ $label }}</a>
+        {{ end }}
+      </nav>
+
+      <div class="bookshelf-content">
+        {{/* ---- Render each category section from data ---- */}}
+        {{ range $index, $key := $categoryOrder }}
+          {{ $label := index $categoryLabels $key }}
+          {{ $booksInCat := where $allBooks "category" $key }}
+
+          {{ if gt (len $booksInCat) 0 }}
+            <section id="{{ $key }}" class="bookshelf-section">
+              <details {{ if eq $key "psychology" }}open{{ end }}>
+                <summary>{{ $label }}</summary>
+                <ul>
+                  {{ range sort $booksInCat "title" }}
+                    <li>
+                      <span class="book-title">{{ .title }}</span>
+                      {{ with .author }}
+                        — <span class="book-author">{{ . }}</span>
+                      {{ end }}
+                    </li>
+                  {{ end }}
+                </ul>
+              </details>
+            </section>
+          {{ end }}
+        {{ end }}
+      </div>
+
+    {{ else }}
+
+      <p class="bookshelf-empty-state">
+        No book data found. Create <code>data/books.yml</code> with entries like:
+      </p>
+      <pre><code>- title: "Becoming Myself: A Psychiatrist's Memoir"
+  author: "Irvin D. Yalom"
+  category: "psychology"</code></pre>
+
+    {{ end }}
+
+  </div>
+</main>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const navLinks = document.querySelectorAll(".bookshelf-nav a");
+  navLinks.forEach(link => {
+    link.addEventListener("click", () => setTimeout(() => link.blur(), 100));
+  });
+
+  const input = document.getElementById("bookSearch");
+  if (!input) return;
+
+  const sections = document.querySelectorAll(".bookshelf-section");
+
+  input.addEventListener("input", function () {
+    const q = this.value.toLowerCase().trim();
+    sections.forEach(section => {
+      let matchesInSection = false;
+      section.querySelectorAll("li").forEach(li => {
+        const text = li.textContent.toLowerCase();
+        const match = !q || text.includes(q);
+        li.style.display = match ? "" : "none";
+        if (match) matchesInSection = true;
+      });
+      section.style.display = matchesInSection ? "" : "none";
+    });
+  });
+});
+</script>
+{{ end }}
