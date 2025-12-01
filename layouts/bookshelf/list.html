@@ -3,43 +3,26 @@
   <div class="bookshelf-page">
 
     <header class="bookshelf-hero">
-      <h1>Bookshelf</h1>
       <p>A partial catalogue of books I’ve read, loosely grouped by theme.</p>
-      <input
-        id="bookSearch"
-        class="bookshelf-search"
-        type="search"
-        placeholder="Filter by title or author…" />
     </header>
 
     {{/* ---- Category order + labels ---- */}}
-    {{ $categoryOrder := slice
+{{ $categoryOrder := slice
       "psychology"
-      "mindfulness"
-      "ethics"
       "health"
-      "productivity"
-      "economics"
-      "classics"
-      "philosophy"
       "fiction"
       "math"
-      "infosec"
-    }}
+      "world"
+}}
 
-    {{ $categoryLabels := dict
-      "psychology"  "Psychology, Behavior & Healing"
-      "mindfulness" "Mindfulness, Spirituality & Self-Mastery"
-      "ethics"      "Ethics, Compassion & Society"
-      "health"      "Health, Nutrition & Lifestyle"
-      "productivity" "Productivity, Focus & Attention"
-      "economics"   "Economics, Society & Human Behavior"
-      "classics"    "Classic Literature & Modern Thought"
-      "philosophy"  "Philosophy, Religion & Classical Wisdom"
-      "fiction"     "Fiction, Drama & Humor"
-      "math"        "Mathematics, Logic & Cryptography"
-      "infosec"     "Information Security & Networking"
-    }}
+{{ $categoryLabels := dict
+      "psychology"  "Psychology & Self-Help"
+      "health"      "Health & Well-Being"
+      "fiction"     "Fiction, Literature & Classics"
+      "math"        "Math, Cryptography & Infosec"
+      "world"       "World & Society"
+}}
+
 
     {{ $allBooks := site.Data.books }}
 
@@ -62,7 +45,7 @@
 
           {{ if gt (len $booksInCat) 0 }}
             <section id="{{ $key }}" class="bookshelf-section">
-              <details {{ if eq $key "psychology" }}open{{ end }}>
+              <details open>
                 <summary>{{ $label }}</summary>
                 <ul>
                   {{ range sort $booksInCat "title" }}

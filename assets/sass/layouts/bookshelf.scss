@@ -1,10 +1,7 @@
 .bookshelf-page {
-  max-width: 960px;
-  margin: 3rem auto 4rem;
-  padding: 2.5rem 3rem;
-  background: #fff7f4;
-  border-radius: 18px;
-  box-shadow: 0 18px 40px rgba(0,0,0,0.04);
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
 }
 
 .bookshelf-hero h1 {
@@ -18,36 +15,110 @@
   max-width: 40rem;
 }
 
-.bookshelf-search {
-  width: 100%;
-  max-width: 20rem;
-  padding: 0.5rem 0.75rem;
-  border-radius: 999px;
-  border: 1px solid rgba(0,0,0,0.12);
-  background: #fff;
-  font-size: 0.95rem;
-}
 
+/* Update your bookshelf nav to match essays styling */
 .bookshelf-nav {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.4rem;
-  margin: 2rem 0 1rem;
-  border-top: 1px solid rgba(0,0,0,0.06);
-  padding-top: 1rem;
-  font-size: 0.9rem;
+  gap: 0.6rem;
+  justify-content: center;
+  background: transparent;
+  border: none;
+  border-top: none;
 }
 
+/* BASE LINK STYLES - matching essays */
 .bookshelf-nav a {
-  padding: 0.2rem 0.9rem;
-  border-radius: 999px;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.6rem 0.99rem;
+  font-family: "Lora", serif;
+  font-size: 0.95rem;
+  font-weight: 500;
   text-decoration: none;
-  border: 1px solid transparent;
+  border-radius: 20px;
+  transition: all 0.2s ease;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.08);
+  white-space: nowrap;
 }
 
-.bookshelf-nav a:hover {
-  border-color: rgba(0,0,0,0.16);
-  background: rgba(255,255,255,0.7);
+/* BASE ICON STYLES */
+.bookshelf-nav .nav-icon {
+  font-size: 1rem;
+  color: inherit !important;
+}
+
+/* ===== CATEGORY-SPECIFIC COLORS ===== */
+
+/* Psychology & Self-Help - purple */
+.bookshelf-nav a[href="#psychology"] {
+  background: linear-gradient(135deg, #f3e5f5, #e1bee7) !important;
+  color: #6a1b9a !important;
+  border: 2px solid #ab47bc !important;
+}
+
+.bookshelf-nav a[href="#psychology"]:hover {
+  background: linear-gradient(135deg, #e1bee7, #ce93d8) !important;
+  border-color: #8e24aa !important;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(106, 27, 154, 0.3);
+}
+
+/* Health & Well-Being - pink */
+.bookshelf-nav a[href="#health"] {
+  background: linear-gradient(135deg, #fce4ec, #f8bbd0) !important;
+  color: #c2185b !important;
+  border: 2px solid #ec407a !important;
+}
+
+.bookshelf-nav a[href="#health"]:hover {
+  background: linear-gradient(135deg, #f8bbd0, #f48fb1) !important;
+  border-color: #d81b60 !important;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(194, 24, 91, 0.3);
+}
+
+/* Fiction, Literature & Classics - amber */
+.bookshelf-nav a[href="#fiction"] {
+  background: linear-gradient(135deg, #fff8e1, #ffecb3) !important;
+  color: #f57f17 !important;
+  border: 2px solid #fbc02d !important;
+}
+
+.bookshelf-nav a[href="#fiction"]:hover {
+  background: linear-gradient(135deg, #ffecb3, #ffe082) !important;
+  border-color: #f9a825 !important;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(245, 127, 23, 0.3);
+}
+
+/* Math, Cryptography & Infosec - teal */
+.bookshelf-nav a[href="#math"] {
+  background: linear-gradient(135deg, #e0f2f1, #b2dfdb) !important;
+  color: #00695c !important;
+  border: 2px solid #26a69a !important;
+}
+
+.bookshelf-nav a[href="#math"]:hover {
+  background: linear-gradient(135deg, #b2dfdb, #80cbc4) !important;
+  border-color: #00897b !important;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0, 105, 92, 0.3);
+}
+
+/* World & Society - green/teal (slightly different shade) */
+.bookshelf-nav a[href="#world"] {
+  background: linear-gradient(135deg, #e8f5e9, #c8e6c9) !important;
+  color: #2e7d32 !important;
+  border: 2px solid #66bb6a !important;
+}
+
+.bookshelf-nav a[href="#world"]:hover {
+  background: linear-gradient(135deg, #c8e6c9, #a5d6a7) !important;
+  border-color: #43a047 !important;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(46, 125, 50, 0.3);
 }
 
 .bookshelf-section {
@@ -97,8 +168,16 @@
     margin: 1.5rem 1rem 3rem;
     padding: 1.5rem 1.25rem;
   }
+  
   .bookshelf-nav {
+    padding: 1rem 1rem;
+    gap: 0.6rem;
     overflow-x: auto;
     white-space: nowrap;
+  }
+  
+  .bookshelf-nav a {
+    font-size: 0.88rem;
+    padding: 0.25rem 1rem;
   }
 }

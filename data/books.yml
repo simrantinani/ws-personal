@@ -461,3 +461,130 @@
 - title: "The Stock Market for Dummies"
   author: "Paul Mladjenovic"
   category: "math"
+
+
+##############################
+# EXTRA: Psychology & Self-Help
+##############################
+- title: "How to Do Nothing: Resisting the Attention Economy"
+  author: "Jenny Odell"
+  category: "psychology"
+
+- title: "Make Time: How to Be Focused on What Matters Every Day"
+  author: "Jake Knapp & John Zeratsky"
+  category: "psychology"
+
+- title: "Digital Minimalism: Choosing a Focused Life in a Noisy World"
+  author: "Cal Newport"
+  category: "psychology"
+
+- title: "The Subtle Art of Not Giving a F*ck"
+  author: "Mark Manson"
+  category: "psychology"
+
+- title: "The Seven Habits of Highly Effective People"
+  author: "Stephen R. Covey"
+  category: "psychology"
+
+- title: "The Power of Habit: Why We Do What We Do in Life and Business"
+  author: "Charles Duhigg"
+  category: "psychology"
+
+- title: "Why Has Nobody Told Me This Before?"
+  author: "Julie"
+  category: "psychology"
+
+- title: "All the Feels"
+  author: "Elizabeth Laing Thompson"
+  category: "psychology"
+
+- title: "Happy Sexy Millionaire"
+  author: "Steven Bartlett"
+  category: "psychology"
+
+- title: "Brain Over Binge"
+  author: "Kathryn Hansen"
+  category: "psychology"
+
+- title: "The Psychology of Self-Esteem"
+  author: "Nathaniel Branden"
+  category: "psychology"
+
+- title: "Solitude: In Pursuit of a Singular Life in a Crowded World"
+  author: "Michael Harris"
+  category: "psychology"
+
+- title: "Solitude: A Return to the Self"
+  author: "Anthony Storr"
+  category: "psychology"
+
+- title: "Suicide: A Study in Sociology"
+  author: "Émile Durkheim"
+  category: "psychology"
+
+##############################
+# EXTRA: Health & Well-Being
+##############################
+- title: "ROAR: How to Match Your Food and Fitness to Your Unique Female Physiology"
+  author: "Stacy T. Sims & Selene Yeager"
+  category: "health"
+
+- title: "The Effortless Sleep Method"
+  author: "Sasha Stephens"
+  category: "health"
+
+
+##############################
+# World & Society (econ, history, culture, big ideas)
+##############################
+- title: "Freakonomics"
+  author: "Steven D. Levitt & Stephen J. Dubner"
+  category: "world"
+
+- title: "Economics in One Lesson"
+  author: "Henry Hazlitt"
+  category: "world"
+
+- title: "Salt Sugar Fat: How the Food Giants Hooked Us"
+  author: "Michael Moss"
+  category: "world"
+
+- title: "Catching Fire: How Cooking Made Us Human"
+  author: "Richard Wrangham"
+  category: "world"
+
+- title: "A Short History of Nearly Everything"
+  author: "Bill Bryson"
+  category: "world"
+
+- title: "The Rise and Fall of the Third Reich"
+  author: "William L. Shirer"
+  category: "world"
+
+- title: "Sapiens: A Brief History of Humankind"
+  author: "Yuval Noah Harari"
+  category: "world"
+
+- title: "The Communist Manifesto"
+  author: "Karl Marx & Friedrich Engels"
+  category: "world"
+
+- title: "Orientalism"
+  author: "Edward Said"
+  category: "world"
+
+- title: "Defending the West: A Critique of Edward Said's Orientalism"
+  author: "Ibn Warraq"
+  category: "world"
+
+- title: "Woke: A Guide to Social Justice"
+  author: "Titania McGrath"
+  category: "world"
+
+- title: "Extraordinary Popular Delusions and the Madness of Crowds"
+  author: "Charles Mackay"
+  category: "world"
+
+- title: "Suicide: A Study in Sociology"
+  author: "Émile Durkheim"
+  category: "world"
