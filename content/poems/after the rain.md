@@ -4,39 +4,40 @@ author: "Simran Tinani"
 date: 2023-02-01
 categories: ["Computer Science", "Machine Learning"]
 tags: ["perceptron", "pocket-algorithm", "linear-classification", "r-programming", "machine-learning", "from-scratch"]
+image: "/images/after_rain.png"
 draft: false
 math: true
 noNumbering: false
 summary: "An examination of large language models (LLMs) as a new paradigm in human-computer interaction, offering unprecedented flexibility in understanding human instructions."
 ---
 
-The earth sparkles as new again 
-Drying in the cozy warmth of the sun 
-Now bathed clean by the tender rain. 
-With their job now done, 
-Graceful and suave, yet never vain, 
-The gallant clouds flaunt their contours
-In a battle of charm
-With the nimble peacocks 
-Whose dance beguiles and allures 
-So much that the dazed sky now unlocks
+The earth sparkles as new again  
+Drying in the cozy warmth of the sun  
+Now bathed clean by the tender rain.  
+With their job now done,  
+Graceful and suave, yet never vain,  
+The gallant clouds flaunt their contours  
+In a battle of charm  
+With the nimble peacocks  
+Whose dance beguiles and allures  
+So much that the dazed sky now unlocks  
 Her long, sumptuous band of colours.
 
-Far off from plain and rocky terrains, 
-People take on voyages 
-To behold these mighty mountains
-With the skyscrapers and the little cottages 
-And the clouds, lakes, and the trees 
-And all the other human assemblages, 
-Posing together in exquisite harmony. 
-They gape at the horizon’s unending expanse,
-This home in its glorious entirety, 
-Reveling in this magnanimity of chance 
-That brought together in one picture 
-Every bright colour, 
-Every shape, 
-Every grand structure, 
-Of this townscape, 
+Far off from plain and rocky terrains,  
+People take on voyages  
+To behold these mighty mountains  
+With the skyscrapers and the little cottages  
+And the clouds, lakes, and the trees  
+And all the other human assemblages,  
+Posing together in exquisite harmony.  
+They gape at the horizon’s unending expanse,  
+This home in its glorious entirety,  
+Reveling in this magnanimity of chance  
+That brought together in one picture  
+Every bright colour,  
+Every shape,  
+Every grand structure,  
+Of this townscape,  
 Painted on a canvas handcrafted by nature.
 
 

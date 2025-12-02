@@ -2,6 +2,7 @@
 title: "Tethered Ship"
 author: "Simran Tinani"
 date: 2023-02-01
+image: "/images/tethered-ship.jpg"
 categories: ["Computer Science", "Machine Learning"]
 tags: ["perceptron", "pocket-algorithm", "linear-classification", "r-programming", "machine-learning", "from-scratch"]
 draft: false
