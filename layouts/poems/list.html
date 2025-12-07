@@ -28,11 +28,6 @@
             
             <div class="poem-card-content">
               <h3 class="poem-card-title">{{ .Title }}</h3>
-              {{ with .Date }}
-                <time datetime="{{ .Format "2006-01-02" }}" class="poem-card-date">
-                  {{ .Format "Jan 2, 2006" }}
-                </time>
-              {{ end }}
               {{ with .Summary }}
                 <p class="poem-card-excerpt">{{ . }}</p>
               {{ end }}

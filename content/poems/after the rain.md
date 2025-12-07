@@ -3,12 +3,12 @@ title: "After the rain"
 author: "Simran Tinani"
 date: 2023-02-01
 categories: ["Computer Science", "Machine Learning"]
-tags: ["perceptron", "pocket-algorithm", "linear-classification", "r-programming", "machine-learning", "from-scratch"]
+tags: ["nature", "rain", "mountains", "landscape", "rainbow", "beauty"]
 image: "/images/after_rain.png"
 draft: false
 math: true
 noNumbering: false
-summary: "An examination of large language models (LLMs) as a new paradigm in human-computer interaction, offering unprecedented flexibility in understanding human instructions."
+summary: "A portrait of the world renewed after rain, where earth, sky, and mountains come together in perfect composition—a fortunate arrangement of colors, shapes, and life in a single view."
 ---
 
 The earth sparkles as new again  
@@ -40,5 +40,6 @@ Every grand structure,
 Of this townscape,  
 Painted on a canvas handcrafted by nature.
 
+----
 
-Here is a picture of how the city looked from Waid. This scenery, though quite beautiful, was not what stimulated my creativity. I was more affected by the darker, tree-covered trails where I walked within the forest, which didn't seem to make for such a magnificent picture due to the monotony in colour (mostly green and brown) and the lower brightness. Objectively, this scenery of the entire city, with its background of the sky, lake, and mountains, probably does have more to offer to the eye. However, I can assure you that the green-covered shadowy, endless paths of the thick forest were far more appealing to the senses.
+Here is a picture of how the city of Zürich looked from Waid. This scenery, though quite beautiful, was not what stimulated my creativity. I was more affected by the darker, tree-covered trails where I walked within the forest, which didn't seem to make for such a magnificent picture due to the monotony in colour (mostly green and brown) and the lower brightness. Objectively, this scenery of the entire city, with its background of the sky, lake, and mountains, probably does have more to offer to the eye. However, I can assure you that the green-covered shadowy, endless paths of the thick forest were far more appealing to the senses.

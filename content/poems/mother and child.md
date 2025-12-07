@@ -2,13 +2,13 @@
 title: "Mother and Child"
 author: "Simran Tinani"
 date: 2023-02-01
-image: "/images/tethered-ship.jpg"
+image: "/images/mothersday2.png"
 categories: ["Computer Science", "Machine Learning"]
 tags: ["perceptron", "pocket-algorithm", "linear-classification", "r-programming", "machine-learning", "from-scratch"]
 draft: false
 math: true
 noNumbering: false
-summary: "An examination of large language models (LLMs) as a new paradigm in human-computer interaction, offering unprecedented flexibility in understanding human instructions."
+summary: "A reflection on the bond between a mother and her child, told through the lens of another species. An honest look at the hidden cost of daily rituals."
 ---
 
 Her child is born, so tender, so sweet

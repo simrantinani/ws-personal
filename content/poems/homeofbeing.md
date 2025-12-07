@@ -2,12 +2,13 @@
 title: "In the Home of Being"
 author: "Simran Tinani"
 date: 2023-02-01
+image: "/images/being.jpg"
 categories: ["Computer Science", "Machine Learning"]
 tags: ["perceptron", "pocket-algorithm", "linear-classification", "r-programming", "machine-learning", "from-scratch"]
 draft: false
 math: true
-noNumbering: false
-summary: "An examination of large language models (LLMs) as a new paradigm in human-computer interaction, offering unprecedented flexibility in understanding human instructions."
+noNumbering: true
+summary: "A meditation on the self as a home, inhabited by the constant arrival and departure of emotions. A reflection on presence and the impermanence of internal experience."
 ---
 
 
