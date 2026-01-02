@@ -85,7 +85,8 @@ body {
   padding: 0 1rem;
   text-align: center;
   white-space: nowrap;
-  pointer-events: none;
+  pointer-events: auto;
+  cursor: pointer;
 }
 
 .navbar a,
@@ -105,6 +106,7 @@ body {
   color: #000;
 }
 
+.active a,
 .active span {
   position: relative;
   color: #000000;

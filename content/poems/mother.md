@@ -1,10 +1,9 @@
 ---
 title: "Mother"
 author: "Simran Tinani"
-date: 2023-02-01
+date: 2023-01-01
 image: "/images/mother.jpg"
 categories: ["Computer Science", "Machine Learning"]
-tags: ["perceptron", "pocket-algorithm", "linear-classification", "r-programming", "machine-learning", "from-scratch"]
 draft: false
 math: true
 noNumbering: false
@@ -32,11 +31,11 @@ was younger,
 and as I grow old.  
 
 An endless sea of empathy flows  
-through her heart
-She is God's greatest gift,
-A blessing and a work of art,
-Like her there is by far no other
-An embodiment of wisdom, love, and dedication,
+through her heart  
+She is God's greatest gift,  
+A blessing and a work of art,  
+Like her there is by far no other  
+An embodiment of wisdom, love, and dedication,  
 My pure and beautiful mother!
 
 ---

@@ -1,5 +1,5 @@
 <header class="navbar-container">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" integrity="..." crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 
   <div class="signature">Simran Tinani</div>
   <!-- Hamburger (mobile toggle) -->
@@ -12,13 +12,20 @@
   {{ $menuItems := .Site.Menus.main }}
   {{ $activeIndex := -1 }}
 
-  <!-- Find active item index -->
-  {{ range $i, $item := $menuItems }}
-{{ if or ($currentPage.IsMenuCurrent $item.Menu $item) (eq $currentPage.RelPermalink $item.URL) }}
-  {{ $activeIndex = $i }}
-{{ end }}
-
+<!-- Find active item index -->
+{{ range $i, $item := $menuItems }}
+  {{ $isActive := false }}
+  
+  {{ if eq $currentPage.RelPermalink $item.URL }}
+    {{ $isActive = true }}
+  {{ else if and $item.Identifier (eq $currentPage.Section $item.Identifier) }}
+    {{ $isActive = true }}
   {{ end }}
+  
+  {{ if $isActive }}
+    {{ $activeIndex = $i }}
+  {{ end }}
+{{ end }}
 
   {{ if ge $activeIndex 0 }}
     {{ $activeItem := index $menuItems $activeIndex }}
@@ -42,10 +49,10 @@
           <a href="{{ .URL }}">{{ .Name }}</a>
         {{ end }}
       </div>
-
-      <div class="nav-center active">
-        <span>{{ $activeItem.Name }}</span>
-      </div>
+      
+<div class="nav-center active">
+  <a href="{{ $activeItem.URL }}">{{ $activeItem.Name }}</a>
+</div>
 
       <div class="nav-right">
         {{ range $rightItems }}
@@ -54,16 +61,24 @@
       </div>
     </nav>
 
-  {{ else }}
-    <!-- fallback if nothing is active -->
+{{ else }}
+    <!-- fallback if nothing is active - keep centered layout -->
     <nav id="main-nav" class="navbar">
+      {{ $half := div (len $menuItems) 2 }}
+      {{ $leftItems := first $half $menuItems }}
+      {{ $rightItems := after $half $menuItems }}
+      
       <div class="nav-left">
-        {{ range $menuItems }}
+        {{ range $leftItems }}
           <a href="{{ .URL }}">{{ .Name }}</a>
         {{ end }}
       </div>
       <div class="nav-center inactive"><span>&nbsp;</span></div>
-      <div class="nav-right"></div>
+      <div class="nav-right">
+        {{ range $rightItems }}
+          <a href="{{ .URL }}">{{ .Name }}</a>
+        {{ end }}
+      </div>
     </nav>
   {{ end }}
   <script>

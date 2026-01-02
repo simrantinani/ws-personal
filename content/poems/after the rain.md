@@ -3,7 +3,6 @@ title: "After the rain"
 author: "Simran Tinani"
 date: 2023-02-01
 categories: ["Computer Science", "Machine Learning"]
-tags: ["nature", "rain", "mountains", "landscape", "rainbow", "beauty"]
 image: "/images/after_rain.png"
 draft: false
 math: true

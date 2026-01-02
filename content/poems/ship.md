@@ -4,11 +4,10 @@ author: "Simran Tinani"
 date: 2023-02-01
 image: "/images/tethered-ship.jpg"
 categories: ["Computer Science", "Machine Learning"]
-tags: ["poems", "animals", "tourism"]
 draft: false
 math: true
 noNumbering: false
-summary: "A reflection on majesty and bondange, and the unfortunate transformation of animals into attractions and utilities. A quiet look at the suffering masked by ceremony."
+summary: "On majesty and bondange, and the unfortunate transformation of animals into attractions and utilities. A quiet look at the suffering masked by ceremony."
 ---
 
 A crimson pink shawl embroidered in gold  

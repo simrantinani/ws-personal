@@ -4,7 +4,6 @@ author: "Simran Tinani"
 date: 2023-02-01
 image: "/images/moon2-cut.png"
 categories: ["Computer Science", "Machine Learning"]
-tags: ["perceptron", "pocket-algorithm", "linear-classification", "r-programming", "machine-learning", "from-scratch"]
 draft: false
 math: true
 noNumbering: true

@@ -1,226 +1,125 @@
 ##############################
-# Psychology & Self-Help
+# health & Self-Help
 ##############################
 - title: "Becoming Myself: A Psychiatrist’s Memoir"
   author: "Irvin D. Yalom"
-  category: "psychology"
+  category: "world"
 
 - title: "Self-Compassion: The Proven Power of Being Kind to Yourself"
   author: "Kristin Neff"
-  category: "psychology"
+  category: "health"
 
 - title: "The Psychopath Inside"
   author: "James Fallon"
-  category: "psychology"
+  category: "science"
 
 - title: "Without Conscience: The Disturbing World of the Psychopaths Among Us"
   author: "Robert D. Hare"
-  category: "psychology"
+  category: "science"
 
 - title: "Snakes in Suits: When Psychopaths Go to Work"
   author: "Paul Babiak & Robert Hare"
-  category: "psychology"
+  category: "world"
 
-- title: "Games People Play"
-  author: "Eric Berne"
-  category: "psychology"
-
-- title: "The Selfish Gene"
-  author: "Richard Dawkins"
-  category: "psychology"
-
-- title: "Emotional Intelligence"
-  author: "Daniel Goleman"
-  category: "psychology"
-
-- title: "Thinking, Fast and Slow"
-  author: "Daniel Kahneman"
-  category: "psychology"
 
 - title: "The Man Who Mistook His Wife for a Hat"
   author: "Oliver Sacks"
-  category: "psychology"
+  category: "science"
 
 - title: "You Are Not Your Brain"
   author: "Jeffrey Schwartz & Rebecca Gladding"
-  category: "psychology"
+  category: "science"
 
 - title: "The Drama of the Gifted Child"
   author: "Alice Miller"
-  category: "psychology"
+  category: "health"
 
 - title: "The Body Keeps the Score"
   author: "Bessel van der Kolk"
-  category: "psychology"
+  category: "health"
 
-- title: "Man’s Search for Meaning"
-  author: "Viktor Frankl"
-  category: "psychology"
-
-- title: "Man and His Symbols"
-  author: "Carl Jung"
-  category: "psychology"
-
-- title: "The Moral Animal"
-  author: "Robert Wright"
-  category: "psychology"
 
 - title: "The Intelligence Trap"
   author: "David Robson"
-  category: "psychology"
+  category: "science"
 
 - title: "The Power of Unwavering Focus"
   author: "Dandapani"
-  category: "psychology"
-
-- title: "Range: Why Generalists Triumph"
-  author: "David Epstein"
-  category: "psychology"
+  category: "health"
 
 - title: "Dopamine Nation"
   author: "Anna Lembke"
-  category: "psychology"
-
-- title: "Breaking Free from OCD"
-  author: "Paul Salkovskis, Fiona Challacombe & Victoria Bream Oldfield"
-  category: "psychology"
-
-- title: "When Food Is Comfort"
-  author: "Julie M. Simon"
-  category: "psychology"
-
-- title: "How to Be Single and Happy"
-  author: "Jenny Taitz"
-  category: "psychology"
-
-- title: "Filling Up: The Psychology of Eating"
-  author: "Justine J. Reel"
-  category: "psychology"
+  category: "science"
 
 - title: "The Highly Sensitive Person"
   author: "Elaine Aron"
-  category: "psychology"
+  category: "health"
 
 - title: "The Courage to Be Disliked"
   author: "Ichiro Kishimi & Fumitake Koga"
-  category: "psychology"
+  category: "health"
 
 - title: "Fully Present: The Science, Art, and Practice of Mindfulness"
   author: "Susan L. Smalley & Diana Winston"
-  category: "psychology"
-
-- title: "The Power of Now"
-  author: "Eckhart Tolle"
-  category: "psychology"
-
-- title: "A New Earth"
-  author: "Eckhart Tolle"
-  category: "psychology"
+  category: "health"
 
 - title: "Radical Acceptance"
   author: "Tara Brach"
-  category: "psychology"
+  category: "health"
 
 - title: "The Surrender Experiment"
   author: "Michael A. Singer"
-  category: "psychology"
-
-- title: "The Untethered Soul"
-  author: "Michael A. Singer"
-  category: "psychology"
-
-- title: "Wherever You Go, There You Are"
-  author: "Jon Kabat-Zinn"
-  category: "psychology"
-
-- title: "Waking Up"
-  author: "Sam Harris"
-  category: "psychology"
-
-- title: "Peace Is Every Step"
-  author: "Thich Nhat Hanh"
-  category: "psychology"
+  category: "health"
 
 - title: "Thus Spoke Zarathustra"
   author: "Friedrich Nietzsche"
-  category: "psychology"
+  category: "world"
 
 - title: "Beyond Beliefs"
   author: "Melanie Joy"
-  category: "psychology"
+  category: "world"
 
 - title: "Why We Love Dogs, Eat Pigs, and Wear Cows"
   author: "Melanie Joy"
-  category: "psychology"
-
-- title: "Eating Animals"
-  author: "Jonathan Safran Foer"
-  category: "psychology"
-
-- title: "The Empath’s Survival Guide"
-  author: "Judith Orloff"
-  category: "psychology"
-
-- title: "Stolen Focus"
-  author: "Johann Hari"
-  category: "psychology"
+  category: "world"
 
 - title: "Are We Smart Enough to Know How Smart Animals Are?"
   author: "Frans de Waal"
-  category: "psychology"
+  category: "science"
 
 - title: "Animals and Society"
   author: "Margo DeMello"
-  category: "psychology"
+  category: "world"
 
 - title: "The Emotional Lives of Animals"
   author: "Marc Bekoff"
-  category: "psychology"
-
-- title: "Extraordinary Popular Delusions and the Madness of Crowds"
-  author: "Charles Mackay"
-  category: "psychology"
+  category: "science"
 
 - title: "The Righteous Mind"
   author: "Jonathan Haidt"
-  category: "psychology"
+  category: "world"
 
 - title: "Orientalism"
   author: "Edward Said"
-  category: "psychology"
-
-- title: "Defending the West"
-  author: "Ibn Warraq"
-  category: "psychology"
+  category: "world"
 
 - title: "Woke: A Guide to Social Justice"
   author: "Titania McGrath"
-  category: "psychology"
+  category: "world"
 
-- title: "Write It Down, Make It Happen"
-  author: "Henriette Anne Klauser"
-  category: "psychology"
-
-- title: "The Power of Writing It Down"
-  author: "Allison Fallon"
-  category: "psychology"
-
+- title: "Hello Sleep: The Science and Art of Overcoming Insomnia Without Medications"
+  author: "Jade Wu"
+  category: "health"
 ##############################
 # Health & Well-Being
 ##############################
-- title: "How Not to Die"
+- title: "How Not to Die(t) "
   author: "Michael Greger"
   category: "health"
 
-- title: "How Not to Diet"
-  author: "Michael Greger"
-  category: "health"
+
 
 - title: "The Starch Solution"
-  author: "John McDougall"
-  category: "health"
-
-- title: "McDougall Maximum Weight Loss"
   author: "John McDougall"
   category: "health"
 
@@ -236,28 +135,8 @@
   author: "Evelyn Tribole & Elyse Resch"
   category: "health"
 
-- title: "Mindful Eating"
-  author: "Jan Chozen Bays"
-  category: "health"
-
-- title: "French Women Don’t Get Fat"
-  author: "Mireille Guiliano"
-  category: "health"
-
-- title: "Why We Eat (Too Much)"
-  author: "Andrew Jenkinson"
-  category: "health"
-
 - title: "When the Body Says No"
   author: "Gabor Maté"
-  category: "health"
-
-- title: "No Period, Now What?"
-  author: "Nicola Rinaldi"
-  category: "health"
-
-- title: "The Book of Sleep: 75 Strategies"
-  author: "Suhas Kshirsagar"
   category: "health"
 
 - title: "The Sleep Solution"
@@ -291,6 +170,10 @@
   author: "Jane Austen"
   category: "fiction"
 
+- title: "A Christmas Carol"
+  author: "Charles Dickens"
+  category: "fiction"
+
 - title: "Little Women"
   author: "Louisa May Alcott"
   category: "fiction"
@@ -311,7 +194,7 @@
   author: "Leo Tolstoy"
   category: "fiction"
 
-- title: "Kholstomer: The Story of a Horse"
+- title: "Kholstomer (Strider): The Story of a Horse"
   author: "Leo Tolstoy"
   category: "fiction"
 
@@ -351,9 +234,6 @@
   author: "Gabriel García Márquez"
   category: "fiction"
 
-- title: "Sapiens"
-  author: "Yuval Noah Harari"
-  category: "fiction"
 
 - title: "Romeo and Juliet"
   author: "William Shakespeare"
@@ -379,11 +259,15 @@
   author: "George Orwell"
   category: "fiction"
 
+- title: "The Road to Wigan Pier"
+  author: "George Orwell"
+  category: "fiction" 
+
 - title: "Hard Times"
   author: "Charles Dickens"
   category: "fiction"
 
-- title: "Three Plays"
+- title: "Three Plays (Altona/Men without Shadows/The Flies)"
   author: "Jean-Paul Sartre"
   category: "fiction"
 
@@ -395,7 +279,7 @@
   author: "P. G. Wodehouse"
   category: "fiction"
 
-- title: "Wodehouse Omnibus"
+- title: "Uncle Fred: An Omnibus"
   author: "P. G. Wodehouse"
   category: "fiction"
 
@@ -464,69 +348,48 @@
 
 
 ##############################
-# EXTRA: Psychology & Self-Help
+# EXTRA: health & Self-Help
 ##############################
 - title: "How to Do Nothing: Resisting the Attention Economy"
   author: "Jenny Odell"
-  category: "psychology"
+  category: "health"
 
-- title: "Make Time: How to Be Focused on What Matters Every Day"
-  author: "Jake Knapp & John Zeratsky"
-  category: "psychology"
 
 - title: "Digital Minimalism: Choosing a Focused Life in a Noisy World"
   author: "Cal Newport"
-  category: "psychology"
-
-- title: "The Subtle Art of Not Giving a F*ck"
-  author: "Mark Manson"
-  category: "psychology"
+  category: "health"
 
 - title: "The Seven Habits of Highly Effective People"
   author: "Stephen R. Covey"
-  category: "psychology"
+  category: "health"
+
+- title: "Facing Codependence"
+  author: "Pia Mellody"
+  category: "health"
+
+
+- title: "Atomic Habits"
+  author: "James Clear"
+  category: "health"
 
 - title: "The Power of Habit: Why We Do What We Do in Life and Business"
   author: "Charles Duhigg"
-  category: "psychology"
+  category: "health"
 
 - title: "Why Has Nobody Told Me This Before?"
-  author: "Julie"
-  category: "psychology"
-
-- title: "All the Feels"
-  author: "Elizabeth Laing Thompson"
-  category: "psychology"
-
-- title: "Happy Sexy Millionaire"
-  author: "Steven Bartlett"
-  category: "psychology"
-
-- title: "Brain Over Binge"
-  author: "Kathryn Hansen"
-  category: "psychology"
-
-- title: "The Psychology of Self-Esteem"
-  author: "Nathaniel Branden"
-  category: "psychology"
-
-- title: "Solitude: In Pursuit of a Singular Life in a Crowded World"
-  author: "Michael Harris"
-  category: "psychology"
+  author: "Julie Smith"
+  category: "health"
 
 - title: "Solitude: A Return to the Self"
   author: "Anthony Storr"
-  category: "psychology"
+  category: "health"
 
 - title: "Suicide: A Study in Sociology"
   author: "Émile Durkheim"
-  category: "psychology"
+  category: "world"
 
-##############################
-# EXTRA: Health & Well-Being
-##############################
-- title: "ROAR: How to Match Your Food and Fitness to Your Unique Female Physiology"
-  author: "Stacy T. Sims & Selene Yeager"
+- title: "Codependent No More"
+  author: "Melody Beattie"
   category: "health"
 
 - title: "The Effortless Sleep Method"
@@ -547,15 +410,11 @@
 
 - title: "Salt Sugar Fat: How the Food Giants Hooked Us"
   author: "Michael Moss"
-  category: "world"
+  category: "science"
 
 - title: "Catching Fire: How Cooking Made Us Human"
   author: "Richard Wrangham"
-  category: "world"
-
-- title: "A Short History of Nearly Everything"
-  author: "Bill Bryson"
-  category: "world"
+  category: "science"
 
 - title: "The Rise and Fall of the Third Reich"
   author: "William L. Shirer"
@@ -565,26 +424,98 @@
   author: "Yuval Noah Harari"
   category: "world"
 
-- title: "The Communist Manifesto"
-  author: "Karl Marx & Friedrich Engels"
-  category: "world"
-
-- title: "Orientalism"
-  author: "Edward Said"
-  category: "world"
+- title: "The Selfish Gene"
+  author: "Richard Dawkins"
+  category: "science"
 
 - title: "Defending the West: A Critique of Edward Said's Orientalism"
   author: "Ibn Warraq"
   category: "world"
 
-- title: "Woke: A Guide to Social Justice"
-  author: "Titania McGrath"
-  category: "world"
-
-- title: "Extraordinary Popular Delusions and the Madness of Crowds"
-  author: "Charles Mackay"
-  category: "world"
-
 - title: "Suicide: A Study in Sociology"
   author: "Émile Durkheim"
   category: "world"
+
+
+- title: "Attached"
+  author: "Amir Levine & Rachel Heller"
+  category: "health"
+
+- title: "No Bad Parts"
+  author: "Richard Schwartz"
+  category: "health"
+
+- title: "The Coddling of the American Mind"
+  author: "Jonathan Haidt & Greg Lukianoff"
+  category: "world"
+
+- title: "The Moral Animal"
+  author: "Robert Wright"
+  category: "science"
+
+- title: "Murder on the Orient Express"
+  author: "Agatha Christie"
+  category: "fiction"
+
+- title: "And Then There Were None"
+  author: "Agatha Christie"
+  category: "fiction"
+
+  ##############################
+# Childhood Classics
+##############################
+- title: "The Famous Five Series"
+  author: "Enid Blyton"
+  category: "childhood"
+
+- title: "The Secret Seven Series"
+  author: "Enid Blyton"
+  category: "childhood"
+
+- title: "The Hardy Boys Series"
+  author: "Franklin W. Dixon"
+  category: "childhood"
+
+- title: "Nancy Drew Series"
+  author: "Carolyn Keene"
+  category: "childhood"
+
+- title: "The Diary of a Young Girl"
+  author: "Anne Frank"
+  category: "childhood"
+
+- title: "The Story of My Life"
+  author: "Helen Keller"
+  category: "childhood"
+
+- title: "Two Gentlemen of Verona"
+  author: "A. J. Cronin"
+  category: "childhood"
+
+- title: "The Necklace"
+  author: "Guy de Maupassant"
+  category: "childhood"
+
+- title: "Julius Caesar"
+  author: "William Shakespeare"
+  category: "childhood"
+
+- title: "The Bishop’s Candlesticks"
+  author: "Norman McKinnell"
+  category: "childhood"
+
+- title: "The Fun They Had"
+  author: "Isaac Asimov"
+  category: "childhood"
+
+- title: "N or M?"
+  author: "Agatha Christie"
+  category: "fiction"
+
+- title: "Hercule Poirot's Christmas"
+  author: "Agatha Christie"
+  category: "fiction"
+
+- title: "Uncle Podger Hangs a Picture"
+  author: "Jerome K. Jerome"
+  category: "childhood"

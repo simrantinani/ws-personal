@@ -5,15 +5,7 @@
     <!-- Poem Header -->
     <header class="poem-header">
       <h1 class="poem-title">{{ .Title }}</h1>
-    
-
-      {{ if .Params.summary }}
-      <div class="poem-summary">
-        {{ .Params.summary }}
-      </div>
-      {{ end }}
     </header>
-
 
     <!-- Poem Content -->
     <article class="poem-content">
@@ -36,30 +28,24 @@
     </div>
     {{ end }}
 
-    <!-- Navigation -->
-    <nav class="poem-navigation">
-      {{ with .PrevInSection }}
-        <a class="poem-nav-link prev" href="{{ .Permalink }}">
-          <span class="arrow">←</span>
-          <span class="nav-label">{{ .Title }}</span>
-        </a>
-      {{ else }}
-        <span></span>
-      {{ end }}
-      
-      <a class="poem-nav-link home" href="/poems/">
-        <span>All Poems</span>
-      </a>
-
-      {{ with .NextInSection }}
-        <a class="poem-nav-link next" href="{{ .Permalink }}">
-          <span class="nav-label">{{ .Title }}</span>
-          <span class="arrow">→</span>
-        </a>
-      {{ else }}
-        <span></span>
-      {{ end }}
-    </nav>
+<!-- Navigation -->
+<nav class="poem-navigation">
+  <div class="poem-nav-links">
+    {{ with .NextInSection }}
+      <a class="poem-nav-link prev" href="{{ .Permalink }}">← {{ .Title }}</a>
+    {{ else }}
+      <span class="poem-nav-link spacer"></span>
+    {{ end }}
+    
+    <a class="poem-nav-link home" href="/poems/">ALL POEMS</a>
+    
+    {{ with .PrevInSection }}
+      <a class="poem-nav-link next" href="{{ .Permalink }}">{{ .Title }} →</a>
+    {{ else }}
+      <span class="poem-nav-link spacer"></span>
+    {{ end }}
+  </div>
+</nav>
 
   </div>
 </main>

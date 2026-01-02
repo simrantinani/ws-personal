@@ -3,24 +3,27 @@
   <div class="bookshelf-page">
 
     <header class="bookshelf-hero">
-      <p>A partial catalogue of books I’ve read, loosely grouped by theme.</p>
+     A catalogue of selected books I've read, loosely grouped by theme. I put this together mainly as a way to keep a record of the books that left some mark on me. It is not a complete list, but rather what I could recall and chose to share publicly.
+ <p>
+ </p>       
     </header>
 
     {{/* ---- Category order + labels ---- */}}
 {{ $categoryOrder := slice
-      "psychology"
-      "health"
       "fiction"
-      "math"
+      "science"
+      "health"
       "world"
+      "childhood"
 }}
 
 {{ $categoryLabels := dict
-      "psychology"  "Psychology & Self-Help"
-      "health"      "Health & Well-Being"
-      "fiction"     "Fiction, Literature & Classics"
-      "math"        "Math, Cryptography & Infosec"
-      "world"       "World & Society"
+      "health"      "Well-Being & Personal Psychology"
+      "fiction"     "Fiction"
+      "science"     "(Popular) Science"
+      "world"       "Social Science & Interpersonal Psychology"
+      "childhood"   "Childhood Favourites"
+
 }}
 
 
@@ -43,23 +46,24 @@
           {{ $label := index $categoryLabels $key }}
           {{ $booksInCat := where $allBooks "category" $key }}
 
-          {{ if gt (len $booksInCat) 0 }}
-            <section id="{{ $key }}" class="bookshelf-section">
-              <details open>
-                <summary>{{ $label }}</summary>
-                <ul>
-                  {{ range sort $booksInCat "title" }}
-                    <li>
-                      <span class="book-title">{{ .title }}</span>
-                      {{ with .author }}
-                        — <span class="book-author">{{ . }}</span>
-                      {{ end }}
-                    </li>
-                  {{ end }}
-                </ul>
-              </details>
-            </section>
-          {{ end }}
+{{ if gt (len $booksInCat) 0 }}
+  <section id="{{ $key }}" class="bookshelf-section">
+    <details open>
+<summary>
+  {{ $label }} <span class="book-count">({{ len $booksInCat }})</span>
+</summary>      <ul>
+        {{ range sort $booksInCat "author" "title" }}
+          <li>
+            <span class="book-title">{{ .title }}</span>
+            {{ with .author }}
+              — <span class="book-author">{{ . }}</span>
+            {{ end }}
+          </li>
+        {{ end }}
+      </ul>
+    </details>
+  </section>
+{{ end }}
         {{ end }}
       </div>
 
@@ -70,11 +74,12 @@
       </p>
       <pre><code>- title: "Becoming Myself: A Psychiatrist's Memoir"
   author: "Irvin D. Yalom"
-  category: "psychology"</code></pre>
+  category: "health"</code></pre>
 
     {{ end }}
 
   </div>
+
 </main>
 
 <script>
@@ -104,4 +109,5 @@ document.addEventListener("DOMContentLoaded", function () {
   });
 });
 </script>
+
 {{ end }}
