@@ -7,7 +7,7 @@
     <div class="post-heading">
       <h1 class="post-title">{{ .Title }}</h1>
       <div class="publish-metadata">
-        {{ .PublishDate.Format .Site.Params.dateFormat }}
+{{ .PublishDate.Format "January 2006" }}
         {{ if .Site.Params.showWordCount }}
           &nbsp; <span>{{ .WordCount }} words</span>
         {{ end }}

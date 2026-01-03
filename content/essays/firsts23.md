@@ -1,13 +1,12 @@
 ---
 title: "Looking back at some “firsts” from 2023"
 author: "Simran Tinani"
-date: 2023-02-01
-categories: ["Computer Science", "Machine Learning"]
-tags: ["perceptron", "pocket-algorithm", "linear-classification", "r-programming", "machine-learning", "from-scratch"]
+date: 2024-01-31
+categories: ["personal"]
 draft: false
 math: true
 noNumbering: false
-summary: "An examination of large language models (LLMs) as a new paradigm in human-computer interaction, offering unprecedented flexibility in understanding human instructions."
+summary: "A small subset of highlights from an eventful year, including graduating with my PhD, learning to assemble furniture, and adventures in the mountains."
 ---
 
 The last year was remarkably eventful and significant, both personally and professionally. It was marked by some finishing lines and goalposts that were clearly and publicly marked out, and some that were more more implicit, inner, and personal. A small subset of highlights that I wanted to write about follow below!
@@ -17,7 +16,7 @@ The last year was remarkably eventful and significant, both personally and profe
 On June 9, 2023, almost four years after I started what has been one of the most momentous journeys of my whole life, my PhD, I successfully defended my thesis and graduated! This was perhaps by far the most remarkable and memorable days of the year, and perhaps also of my life. When my research work from almost four years finally came all together to see its culmination, all the nervousness, anxiety, and fatigue from the weeks preceding dissolved, giving way to only joy. Celebrating with family, friends, and mentors made the day all the more special.
 
 <div style="text-align:center;">
-  <img src="/images/personal/grad.jpg" width="400px" />
+  <img src="/images/grad.jpg" width="400px" />
 </div>
 
 ## Hosting, and cooking for, a big birthday party
@@ -25,11 +24,11 @@ On June 9, 2023, almost four years after I started what has been one of the most
 As small as it may sound, cooking all the food for a 15+ people birthday party seemed like a big achievement, given that I’d never cooked for more than 3 or 4 people at a time all by myself. All the better was the fact that everything turned out **so** well. There was a tangy peanut-black bean salad for starters, a _pulao_ (a spicy Indian rice dish) with a (vegan) yogurt dip for the main course, and a (vegan) chocolate cake for desserts. I was most impressed with how well the chocolate cake turned out, especially given that I had mixed up a couple of different recipes from the internet to come up with my own, and not been very precise with measurements. From the feedback, non-vegans could not tell that it was a “vegan cake”, which is not surprising, making good food, especially baking, needs the right ingredients, proportions, and technique: not animal-derived products.
 
 <div style="text-align:center;">
-  <img src="/images/personal/cook1.png" width="300px" />
+  <img src="/images/cook1.png" width="300px" />
 
-  <img src="/images/personal/cookme.png" width="300px" />
+  <img src="/images/cookme.png" width="300px" />
 
-    <img src="/images/personal/salad.png" width="300px" />
+  <img src="/images/salad.png" width="300px" />
 
 </div>
 
@@ -44,7 +43,7 @@ Perhaps needless to say — the story had a surprisingly happy ending, as I got 
 Not to mention — moving to a new place involved so many “firsts” by itself — visiting apartments, talking to landlords, coordinating with movers and packers, electricians, furniture and lighting suppliers, and what not. Putting together a new house was quite some hard work, and I’m glad to have checked this one “adulting” task off in 2023.  
 
 <div style="text-align:center;">
-  <img src="/images/personal/cabinet1.png" width="300px" />
+  <img src="/images/cabinet1.png" width="300px" />
 </div>
 
 
@@ -53,22 +52,21 @@ Not to mention — moving to a new place involved so many “firsts” by itself
 In April, I visited Torino in Italy, from where I took the cable car up to Mont Blanc, the highest peak in Europe. The view from above, and the overall feel, were asbolutely serene!
 
 <div style="text-align:center;">
-  <img src="/images/personal/places.png" width="300px" />
 
-  <img src="/images/personal/clouds.png" width="300px" />
+  <img src="/images/clouds.png" width="300px" />
 
-  <img src="/images/personal/vista.png" width="300px" />
-  <img src="/images/personal/mount.png" width="300px" />
+  <img src="/images/vista.png" width="300px" />
+  <img src="/images/mount.png" width="300px" />
 </div>
 
 I also did several different hikes, mostly in summer, but some also in the snow, during winter.
 
 <div style="text-align:center;">
-  <img src="/images/personal/hike.png" width="300px" />
+  <img src="/images/hike.png" width="300px" />
 
   
-  <img src="/images/personal/snow.png" width="300px" />
-  <img src="/images/personal?lake.png" width="300px" />
+  <img src="/images/snow.png" width="300px" />
+  <img src="/images/lake.png" width="300px" />
 
 
 </div>
@@ -76,11 +74,11 @@ I also did several different hikes, mostly in summer, but some also in the snow,
 Of worthy mention is a guided nature tour of a forest in Zürich, which I attended somewhere towards the end of the year. The tour was by a very interesting man, who spends a great deal of his time protecting and beautifying the forest. For instance, he built the below very impressive structure, which one can even walk around and on top of, and which helps hold water for nearby trees, all by himself over time, using only twigs and fallen barks. He also showed the attendees some of his nature-inspired art.
 
 <div style="text-align:center;">
-  <img src="/images/personal/natur.png" width="300px" />
+  <img src="/images/natur.png" width="300px" />
 
-  <img src="/images/personal/natur2.png" width="300px" />
+  <img src="/images/natur2.png" width="300px" />
 
-  <img src="/images/personal/natur3.png" width="300px" />
+  <img src="/images/natur3.png" width="300px" />
 </div>
 
 Needless to say, 2023 was a year fully bedecked with unnummerable new experiences, emotions, learnings, and memories. This article was just a small collection of some of the most mention-worthy of these.

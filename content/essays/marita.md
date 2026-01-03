@@ -1,17 +1,18 @@
 ---
 title: "Life update: I adopted a chicken!"
 author: "Simran Tinani"
-date: 2023-02-01
-categories: ["Computer Science", "Machine Learning"]
-tags: ["perceptron", "pocket-algorithm", "linear-classification", "r-programming", "machine-learning", "from-scratch"]
+date: 2024-08-01
+categories: ["personal"]
 draft: false
 math: true
 noNumbering: false
-summary: "An examination of large language models (LLMs) as a new paradigm in human-computer interaction, offering unprecedented flexibility in understanding human instructions."
+summary: "Marita's story: An introduction to a new, meaningful feathered friendship in my life."
 ---
 
 
-![](https://simrantinani.wordpress.com/wp-content/uploads/2024/08/image-2.png?w=1024)
+<div style="text-align:center;">
+  <img src="/images/marita2.png" width="300px" />
+</div>
 
 It feels uplifting to write about what feels like the beginning of a new chapter in my life—one that involves a bit of feathers and a lot of heart. I’ve adopted a chicken! While it’s a remote adoption, Marita, my newly adopted feathered friend, already feels like part of my family.
 
@@ -20,6 +21,10 @@ It feels uplifting to write about what feels like the beginning of a new chapter
 Marita is a so-called a hybrid egg chicken, bred to lay an egg almost every day. She spent the first 18 months of her life in challenging conditions, confined to a cramped barn with nearly 2,000 other chickens. Life in the egg industry is tough for these feeling creatures, and many chickens don’t make it through. Those who do often face a grim fate once they’re no longer as productive. Marita was one of the lucky ones who found a second chance at life.
 
 In a transformational moment, the farmers at Marita’s Hof one day recognized the individual in their chickens and saw how truly painful this life is for the chickens. They made the compassionate decision to stop livestock farming and transform their farm into a sanctuary. Thanks to a strong campaign, Marita, along with her companions, was rehomed to places where they could live out their lives in peace. Marita now calls Hof Narr Zurich her home, a sanctuary dedicated to giving animals like her the care and respect they deserve.
+
+<div style="text-align:center;">
+  <img src="/images/marita.png" width="300px" />
+</div>
 
 ### The Adoption: A New Connection
 

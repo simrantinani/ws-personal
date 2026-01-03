@@ -1,13 +1,12 @@
 ---
 title: "The Mental is the Physical: My Unlikely Love Story with Fitness"
 author: "Simran Tinani"
-date: 2023-02-01
-categories: ["book-revisits"]
-tags: ["perceptron", "pocket-algorithm", "linear-classification", "r-programming", "machine-learning", "from-scratch"]
+date: 2018-03-01
+categories: ["personal"]
 draft: false
 math: true
 noNumbering: false
-summary: "An examination of large language models (LLMs) as a new paradigm in human-computer interaction, offering unprecedented flexibility in understanding human instructions."
+summary: "An old entry on the joy of exercise, venturing into new territories, and personal growth."
 ---
 
 About a year and a half ago, I couldn’t get myself to run half a kilometer without huffing and puffing and wanting to stop. I couldn’t hold a plank for even 30 seconds, or do even half a push up. My physical activity was limited to amateur badminton, which I played mostly just for fun. I didn’t know or bother too much about fitness, especially since fitness is often equated with thinness, particularly for women.

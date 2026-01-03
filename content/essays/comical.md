@@ -1,15 +1,15 @@
-title: "Comical? musings"
+---
+title: "Comical? Musings"
 author: "Simran Tinani"
-date: 2023-02-01
-categories: ["Computer Science", "Machine Learning"]
-tags: ["perceptron", "pocket-algorithm", "linear-classification", "r-programming", "machine-learning", "from-scratch"]
+date: 2021-08-01
+categories: ["personal"]
 draft: false
 math: true
 noNumbering: false
-summary: "An examination of large language models (LLMs) as a new paradigm in human-computer interaction, offering unprecedented flexibility in understanding human instructions."
+summary: "Rediscovering a childhood favourite comic and reflecting on simple, silly delight and joy."
+---
 
-
-Today I spent a while remembering my favourite childhood comic. Tickled by the numerous happy memories attached to “Tinkle”, I made this drawing to recreate the light-hearted craziness of Suppandi that delighted me as a child. It’s hard to forget Suppandi, the lovable simpleton who was always creating trouble, yet blissfully unaware of his own buffoonery.
+Today, I spent a while remembering my favourite childhood comic. Tickled by the numerous happy memories attached to “Tinkle”, I made this drawing to recreate the light-hearted craziness of Suppandi that delighted me as a child. It’s hard to forget Suppandi, the lovable simpleton who was always creating trouble, yet blissfully unaware of his own buffoonery.
 
 
 The highlight and spirit in all Suppandi stories is in the closing dialogue, which demonstrates Suppandi’s adorable dim-wittedness, as happens in this one page I copied. But ironically, my initial idea was to copy just the drawing and leave out the dialogue bubble. I thought that the cutesy figures and expressions would be perfect visual nostalgia to hang up somewhere in my room, but I could (and should!) exclude the “silly, childish pun” that I’d clearly outgrown. Admittedly, I even felt a tinge of shame at enjoying the remnants of this joke. The sudden awareness of this drastically changed sentiment caught me off guard and forced me to think about how truly stupid we have become as adults.

@@ -1,13 +1,12 @@
 ---
-title: "Home"
+title: "Fünf Jahre fern der Heimat"
 author: "Simran Tinani"
-date: 2023-02-01
+date: 2025-02-01
 categories: ["personal"]
-tags: ["perceptron", "pocket-algorithm", "linear-classification", "r-programming", "machine-learning", "from-scratch"]
 draft: false
 math: true
 noNumbering: false
-summary: "An examination of large language models (LLMs) as a new paradigm in human-computer interaction, offering unprecedented flexibility in understanding human instructions."
+summary: "A first heartfelt entry in German, celebrating 5 years spent abroad and reflecting on what makes a place feel like home."
 ---
 
 Im Oktober 2024 (fast 4 Monate früher… wie die Zeit fliegt, wenn man etwas machen möchte…) habe ich angefangen, diesen Artikel zu schreiben. Es ist wahrscheinlich erst das dritte Mal, dass ich etwas selbst auf Deutsch schreibe, das nicht für die Arbeit ist, und das erste Mal, wenn ich etwas so Persönliches schreibe.

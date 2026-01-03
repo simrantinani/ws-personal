@@ -59,7 +59,7 @@
           <div class="pub-entry">
             <a href="{{ $p.RelPermalink }}" class="pub-title">{{ $p.Title }}</a>
             {{ with $p.Date }}
-              <span class="pub-meta">{{ .Format "January 2, 2006" }}</span>
+              <span class="pub-meta">{{ .Format "January 2006" }}</span>
             {{ end }}
             {{ with $p.Summary }}
               <p class="pub-description">{{ . }}</p>
