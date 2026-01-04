@@ -302,6 +302,28 @@
   }
 }
 
+/* ===== ELEGANT UNDERLINE FOR ESSAY TITLES ===== */
+
+.pub-section .pub-entry a.pub-title {
+  position: relative;
+  text-decoration: none !important;
+  color: #2c2c2c !important;
+  display: inline-block;
+  border-bottom: 1.5px solid rgba(177, 98, 134, 0.3) !important;
+  transition: all 0.3s ease;
+  
+  &:hover {
+    color: #b16286 !important;
+    border-bottom-color: rgba(177, 98, 134, 0.8) !important;
+  }
+}
+
+/* Keep general link styles for content, but not for essay titles */
+.content a:not(.pub-title) {
+  color: #0066cc;
+  text-decoration: underline;
+}
+
 @media (min-width: 1400px) {
   .essays-grid {
     grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
@@ -316,4 +338,20 @@ html {
 
 .pub-section-card {
   scroll-margin-top: 2rem;
+}
+
+/* ===== ELEGANT UNDERLINE FOR ESSAY TITLES ===== */
+
+.pub-section a.pub-title {
+  position: relative;
+  text-decoration: none !important;
+  color: #2c2c2c !important;
+  display: inline-block;
+  border-bottom: 1.5px solid rgba(177, 98, 134, 0.3);
+  transition: all 0.3s ease;
+  
+  &:hover {
+    color: #b16286 !important;
+    border-bottom-color: rgba(177, 98, 134, 0.8);
+  }
 }

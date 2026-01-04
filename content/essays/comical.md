@@ -18,6 +18,12 @@ Not many of us adults can still giggle at Suppandi’s antics. We could maybe ma
 
 Somewhere along our way, we traded our free supply of joy for bouts of superficial and fleeting amusement that come at an expense paid by ourselves and others. Laughter went from a bountiful gift we loved to share to a possession we protect with all our miserliness. From our strength, it became our vulnerability – something to conceal, control, and be ashamed of. We now stipulate a heavy fee to be paid in full view of the world, before we carefully and reluctantly part with some of this vulnerability. We now demand that humour be complex, intellectual, realistic, pragmatic, meaningful, dark, satirical, or even belittling of others or ourselves. We despise simplicity, and anyone deriving joy from it becomes a fool in our sad eyes.
 
+<div style="text-align:center;">
+  <img src="/images/comical.jpg" width="500px" />
+</div>
+
+
+
 Suppandi jokes can no longer inspire a loud, spontaneous laugh in me, and maybe they even never did in the past. What they did, however, was make me happy. I remember vividly how they made my tired mind sigh a breath of relief, smoothed out my nerves and created a world of cute, feel-good, light-hearted fiction that I loved to dive into. Even when I wasn’t laughing, I wasn’t smirking at the naivety of the stories and jokes, or wondering if my friends would find them stupid, or complaining about them not being funny enough. I did not feel entitled to humour in exchange for my time, but simply enjoyed the warm, fuzzy moments of being engrossed in the comic.
 
 Places, times, stories and humour can be outgrown, but happiness cannot. When we shed our outer pretenses, presumptions, and mental occupation with conforming to the ways of society, we can get back the simple and untainted feelings of thoughtless happiness and life in the moment, which may now seem so lost in our childhood. Soon enough, we also come to the realization that at times, “stupid” is amazing. “Stupid” is fun, “stupid” is relaxing, “stupid” can give our minds the break they probably need. “Stupid” isn’t stupid if it makes us feel good. What’s truly stupid is to think that everything we consume and perform has to be deep, intellectual and meaningful, that laughter is a currency to be stowed away and carefully exchanged for social validation and entertainment.

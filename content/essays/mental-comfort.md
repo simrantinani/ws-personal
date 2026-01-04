@@ -1,14 +1,14 @@
 ---
 title: "Some lessons on mental comfort"
 author: "Simran Tinani"
-date: 2023-02-01
-categories: ["Computer Science", "Machine Learning"]
-tags: ["perceptron", "pocket-algorithm", "linear-classification", "r-programming", "machine-learning", "from-scratch"]
+date: 2024-10-01
+categories: ["mind-and-self"]
 draft: false
 math: true
-noNumbering: false
-summary: "An examination of large language models (LLMs) as a new paradigm in human-computer interaction, offering unprecedented flexibility in understanding human instructions."
+noNumbering: true
+summary: "Some reflections on cultivating mental comfort and resisting everday and long-term emotional distress."
 ---
+
 What strategies do you use to increase comfort in your daily life?
 
 Comfort is a word that encompasses a lot of meanings. One can undertake a myriad of steps to increase comfort in one’s life, from choosing a career that aligns with one’s values, to spending money wisely on things that truly add to one’s life, to managing one’s daily emotional responses well to attain mental comfort. In this post, I take it to mean a relief from everday or long-term emotional distress. The strategies I list below are therefore steps that I learnt help me feel more at ease, providing both comfort in the moment, and long-term peace
@@ -27,6 +27,11 @@ When one ties ourselves to end goals, one often ends up impatiently rushing afte
 
 This strategy is closely connected to the first two. In fact, perfectionism is, by definition, a strong, obsessive “should” for a narrow, specific outcome (goal). Imaginably, living with perfectionism is highly uncomfortable, since by default, one never allows oneself comfort or ease of mind until an (often) unachievable ideal is reached. Further, perfectionism can keep us stuck by encouraging procrastination and distraction behaviours. Instead, when one embraces the approach of accepting and celebrating doing things “well enough” instead of perfectly, one gifts oneself emotional comfort, peace, and enhanced productivity.
 
+<div style="text-align:center;">
+  <img src="/images/comfort.jpeg" width="340px" />
+</div>
+
+
 ## 4\. Accepting “I don’t know (yet)” as a valid answer
 
 It is not up for debate that no one has answers to every question in the world. Sometimes, we also cannot have answers to all the questions that relate to our lives. It often needs time, reflection, more exposure, more work, more rest, and so on, before one can pick the right career, friendships, hobbies, and take all kinds of big and small decisions. One of the major ways we cause ourselves discomfort is by demanding answers to everything at a time, expecting ourselves (or others) to have everything figured out, or to be able to churn out an answer within a given deadline. Often, “I’m still figuring it out”, or “I don’t know”, or “I don’t have the expertise/experience/qualification to answer” are equally valid answers. Accepting this fact can greatly enhance one’s mental clarity and comfort.
@@ -39,4 +44,3 @@ The above points all carry a message about rushing (for answers, goals, outcomes
 
 Resisting and repressing emotions through deliberate or subconscious distraction causes immense discomfort in the long term, and leads to a build-up of unhealthy habits and coping mechanisms. In contrast, allowing oneself to feel emotions as they come, and process them at one’s own pace may feel difficult in the moment, but is essential to achieve long-lasting emotional comfort. Self-compassion is a tool that has brought a great deal of comfort to my mind, by teaching me to compassionately witness myself go through difficult emotions and provide myself the space, time and encouragement to process them in a healthy way. Perhaps one of the biggest psychological comforts is to replace the self-critical voice in our heads with a self-compassionate guiding voice.
 
-![](https://simrantinani.wordpress.com/wp-content/uploads/2024/07/designer-1.jpeg?w=1024)

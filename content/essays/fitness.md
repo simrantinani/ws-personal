@@ -26,3 +26,7 @@ While I do sometimes wish that these thoughts did not keep me from engaging with
 I grew to love the activities I had begun, only somewhere along the way. Running, strength training, and weight-lifting became important to me only after a while of exploring them. Inspiration did not come to me as a raging fire, but built up slowly, spark-by-spark, fueled by consistence, willpower, and practice. Some of my beginnings were by mere chance, and I could therefore never emphasize enough that some of the best things in life happen when we least expect them. I found one of the major things that I truly love and find meaning in, only after I turned twenty-two. What started off so casually turned out to become a new important direction in my life, in which learning, hard work and improvement provide immense satisfaction.
 
 Actually working towards and achieving something that seemed impossible, at a time that seemed far too late, renders one the unbreakable courage to set one’s minds towards new, perhaps more difficult “impossibilities”. Never be afraid to try out something new, it might just change your life!
+
+<div style="text-align:center;">
+  <img src="/images/fitness.jpg" width="500px" />
+</div>

@@ -2,7 +2,7 @@
 title: "Uncovering day-to-day casteism in 2020 this Ambedkar Jayanti"
 author: "Simran Tinani"
 date: 2023-02-01
-categories: ["Computer Science", "Machine Learning"]
+categories: ["world-and-society"]
 tags: ["perceptron", "pocket-algorithm", "linear-classification", "r-programming", "machine-learning", "from-scratch"]
 draft: false
 math: true

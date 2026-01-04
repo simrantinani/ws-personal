@@ -1,13 +1,13 @@
 ---
-title: "intuition"
+title: "I don't know why, but it works: The quiet power of intution in daily life"
 author: "Simran Tinani"
-date: 2023-02-01
+date: 2024-10-01
 categories: ["mind-and-self"]
-tags: ["perceptron", "pocket-algorithm", "linear-classification", "r-programming", "machine-learning", "from-scratch"]
 draft: false
 math: true
-noNumbering: false
-summary: "An examination of large language models (LLMs) as a new paradigm in human-computer interaction, offering unprecedented flexibility in understanding human instructions."
+noNumbering: true
+summary: "Intuition guides us in ways that are difficult to quantify, and often impossible to explain. This article is a contemplation on intuition's subtle roles and presence in everyday life."
+
 ---
 
 
@@ -27,8 +27,9 @@ Language is another area where intuition plays a dominant role. In conversation,
 
 The reality is that our minds have absorbed a complex set of linguistic rules over years of use. We apply these rules effortlessly, without the need for conscious intervention. In the fast pace of conversation, there simply isn’t time to deliberate over each grammatical choice or phrasing. Our intuition steps in, guiding us in ways we cannot always articulate.  
 
-![](https://simrantinani.wordpress.com/wp-content/uploads/2024/09/image-4.png?w=1024)
-
+<div style="text-align:center;">
+  <img src="/images/intuition.png" width="340px" />
+</div>
 ### Understanding Our Own Bodies: Hunger, Rest, and Movement
 
 One of the most instinctive areas where intuition reigns is in how we manage our own bodies. We don’t consciously calculate how many calories we’ve burned, how much food we need to consume, or the exact amount of sleep we require. Instead, we rely on cues—our stomach growls, we yawn, or we feel restless. These are signals that prompt us to eat, sleep, or exercise. And while we may be able to describe the feeling of hunger or tiredness, the precise moment we recognise these needs and their degree and respond to them are often beyond conscious explanation.

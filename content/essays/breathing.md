@@ -1,13 +1,12 @@
 ---
-title: "breathing"
+title: "An elevator pitch for breathing"
 author: "Simran Tinani"
-date: 2023-02-01
+date: 2024-12-01
 categories: ["mind-and-self"]
-tags: ["perceptron", "pocket-algorithm", "linear-classification", "r-programming", "machine-learning", "from-scratch"]
 draft: false
 math: true
-noNumbering: false
-summary: "An examination of large language models (LLMs) as a new paradigm in human-computer interaction, offering unprecedented flexibility in understanding human instructions."
+noNumbering: true
+summary: "An exploration of breath as an ever-present alternative to the distractions we use to escape discomfort."
 ---
 
 
@@ -29,7 +28,9 @@ We consume air all the time. It’s not only good for us, but neccesary for life
 
 Breathing can be a powerful tool for calming the mind and regulating the body and nervous system. The feedback system of our bodies goes both ways. Stressful thoughts create stressful bodily reactions, but calming and positive bodily actions can also calm the mind. Quick changes in some parts of the bodily state also changes the state of the mind and other body parts quickly. This should not be surprising at all, because it is the exact underlying logic that a person using alcohol or drugs uses to escape uncomfortable thoughts.
 
-![](https://simrantinani.wordpress.com/wp-content/uploads/2024/10/th.jpg?w=1024)
+<div style="text-align:center;">
+  <img src="/images/breathing.jpg" width="340px" />
+</div>
 
 When we slow down our breath, we send signals to the nervous system that it’s safe to relax. The heart rate slows, muscles release their tension, and the sense of panic or unease begins to dissipate. In this way, breath becomes a bridge between the mind and body, helping to shift not just thoughts but also physical sensations. Consider how instinctive this connection is. When startled or overwhelmed, the breath quickens. When calm, the breath is deep and steady. Our breath reflects our internal state, and by consciously changing it, we can influence that state in return.
 

@@ -34,6 +34,10 @@ Für mich ist der Prozess ganz langsam gewesen – viel langsamer, als ich es mi
 
 Aber so ist es mit den Erwartungen, insbesondere mit den Erwartungen an Gefühle, die man nicht selbst erschaffen (vor meinem Grammar-Check war dieses Wort “erstellen”, dank der Arbeit ;-)) oder kontrollieren kann. _Sie kommen nur, wenn und wann sie wollen_. Und sie kommen langsam, in so kleinen Teilen, dass man sie einfach verpassen könnte, wenn man sich nicht achtsam ist oder wenn man das Heimatgefühl nicht so stark vermisst.
 
+<div style="text-align:center;">
+  <img src="/images/heimat.png" width="500px" />
+</div>
+
 Aber genau das ist die Schönheit, wenn etwas stark fehlt. Wenn es dann kommt – selbst in der kleinsten Dosierung– , _bemerkt man es, geniesst es und ist dankbar und glücklich_.
 
 Und so ist es auch bei mir passiert. Heute bin ich nicht nur voll dankbar für das „Big Picture“ im Leben und für alles, was ich bekommen habe und für mich selbst aufbauen konnte, sondern auch für die kleinen Momente, in denen ich mich ganz daheim fühle. 
@@ -50,4 +54,4 @@ Man sagt, dass daheim ein Gefühl ist –  ein Gefühl von Sicherheit, Zugehör
 
 Wie kommt man dazu, einen fremden Ort so zu lieben wie den Ort, an dem man aufgewachsen ist? Wann wird ein Ort eine neue Heimat? Ist es, wenn man am Heimatort ist und trotzdem manchmal an die Berge und die Trams des neuen Ortes denkt? Sind es die Momente, wenn man irgendwo anders auf Reisen ist und Heimweh nach seinem neuen Zuhause bekommt – dem Ort, den man zuvor nie als Heimat empfunden hat? _Oder sind es die Momente, wenn man den Nebel einatmet und den Unterschied nicht mehr erkennt?_
 
-![](https://simrantinani.wordpress.com/wp-content/uploads/2025/02/image-1.png?w=1024)
+

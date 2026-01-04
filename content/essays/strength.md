@@ -2,8 +2,7 @@
 title: "Regaining strength after a break: a simple workout regime"
 author: "Simran Tinani"
 date: 2023-02-01
-categories: ["Computer Science", "Machine Learning"]
-tags: ["perceptron", "pocket-algorithm", "linear-classification", "r-programming", "machine-learning", "from-scratch"]
+categories: ["personal"]
 draft: false
 math: true
 noNumbering: false
