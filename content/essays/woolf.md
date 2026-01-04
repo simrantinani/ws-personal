@@ -1,5 +1,5 @@
 ---
-title: "Revisiting "A Room of One’s Own" while Home-Bound"
+title: "Revisiting 'A Room of One’s Own' while Home-Bound"
 author: "Simran Tinani"
 date: 2023-02-01
 categories: ["book-revisits"]
