@@ -1,5 +1,5 @@
 ---
-title: "I don't know why, but it works: The quiet power of intution in daily life"
+title: "I don't know why, but it works: The quiet power of intuition in daily life"
 author: "Simran Tinani"
 date: 2024-10-01
 categories: ["mind-and-self"]

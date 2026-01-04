@@ -1,12 +1,12 @@
 ---
-title: "You Are Not Your Brain”: hacking the brain using the mind? A summary+review: Part I"
+title: "'You Are Not Your Brain': hacking the brain using the mind? A summary+review: Part I"
 author: "Simran Tinani"
 date: 2023-02-01
 categories: ["book-revisits"]
 draft: false
 math: true
 noNumbering: false
-summary: "A detailed revisit and review of the neuroscience bestseller You Are Not Your Brain."
+summary: "A detailed revisit and review of the neuroscience bestseller 'You Are Not Your Brain'."
 ---
 
 A penetrating veracity of modern human life is the perpetual discord between intentions and actions, between ideals and reality, between potential and activities, between the lives we desire and the lives we actually live. Most people have habits they would like to let go of and plans they would like to act upon. Most of us are familiar with the feeling of harboring a tumultuous mind, jumping from thought to thought, filled with anxieties, distracted from our present activities and worrying about the future. On several occasions, we feel removed from our true selves, overpowered by our anger, sadness, worry, impulses, and overthinking; succinctly: we become "prisoners of our minds".

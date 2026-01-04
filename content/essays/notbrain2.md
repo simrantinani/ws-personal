@@ -2,8 +2,7 @@
 title: "You Are Not Your Brain”: hacking the brain using the mind? A summary+review: Part 2"
 author: "Simran Tinani"
 date: 2023-02-01
-categories: ["Computer Science", "Machine Learning"]
-tags: ["perceptron", "pocket-algorithm", "linear-classification", "r-programming", "machine-learning", "from-scratch"]
+categories: ["book-revisits"]
 draft: false
 math: true
 noNumbering: false

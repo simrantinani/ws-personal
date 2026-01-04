@@ -1,5 +1,5 @@
 ---
-title: "Uncovering day-to-day casteism in 2020 this Ambedkar Jayanti"
+title: "What We Leave Behind"
 author: "Simran Tinani"
 date: 2023-02-01
 categories: ["world-and-society"]
