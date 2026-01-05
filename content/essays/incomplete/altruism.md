@@ -4,7 +4,7 @@ author: "Simran Tinani"
 date: 2023-02-01
 categories: ["Mind and Self"]
 tags: ["perceptron", "pocket-algorithm", "linear-classification", "r-programming", "machine-learning", "from-scratch"]
-draft: false
+draft: true
 math: true
 noNumbering: false
 summary: "An examination of large language models (LLMs) as a new paradigm in human-computer interaction, offering unprecedented flexibility in understanding human instructions."

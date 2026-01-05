@@ -1,24 +1,20 @@
 ---
 title: "Revisiting 'A Room of One’s Own' while Home-Bound"
 author: "Simran Tinani"
-date: 2023-02-01
+date: 2020-06-01
 categories: ["book-revisits"]
-tags: ["perceptron", "pocket-algorithm", "linear-classification", "r-programming", "machine-learning", "from-scratch"]
 draft: false
 math: true
 noNumbering: false
-summary: "An examination of large language models (LLMs) as a new paradigm in human-computer interaction, offering unprecedented flexibility in understanding human instructions."
+summary: "A reflection on intellectual freedom and creativity through the lens of Virginia Woolf's acclaimed feminist novel, written during, and influenced by, the uncertain and anxious times of the COVID-19 pandemic."
 ---
 
 
-The world has suddenly plunged into an unexpected and dire situation in the past few months, needless to say, by the COVID-19. Naturally, the current state of affairs brings a tremendous amount of anxiety to people from every walk of life. While medical professionals, sanitation workers, and other officials battle things out at the forefront, a majority of us sit in our homes, possibly doing our jobs remotely and nervously waiting for things to de-escalate to normalcy. While several of us have the privilege of using the time saved on travel and socialization on creative pursuits, some others lack the privileges of privacy and financial and social security to be able to think of things like poetry, art, and fiction. Undoubtedly, a person who must worry about their survival and safety is most likely not writing ballads, no matter how much extra time they have at their disposal.  
+The world has suddenly plunged into an unexpected and dire situation in the past few months, needless to say, by the COVID-19 pandemic. Naturally, the current state of affairs brings a tremendous amount of anxiety to people from every walk of life. While medical professionals, sanitation workers, and other officials battle things out at the forefront, a majority of us sit in our homes, possibly doing our jobs remotely and nervously waiting for things to de-escalate to normalcy. While several of us have the privilege of using the time saved on travel and socialization on creative pursuits, some others lack the privileges of privacy and financial and social security to be able to think of things like poetry, art, and fiction. Undoubtedly, a person who must worry about their survival and safety is most likely not writing ballads, no matter how much extra time they have at their disposal.  
 
 For those of us who do have this privilege, it would be interesting to use the current situation as a starting point to contemplate the general nature of intellectual freedom. It is now clearer than ever that creativity and intellectual productivity are not a function purely of talent, education and free time. They are both entangled in a complex manner with one’s economic and social situatedness. One crucial aspect of both our social and economic positions is constituted by one’s gender. What role does gender play in shaping one’s intellectual freedom?
 
-A woman must have money and a room of her own if she is to write fiction.
-
-
-
+_A woman must have money and a room of her own if she is to write fiction._  
 
 The above quotation is from a famous essay by one of my favourite authors. Virginia Woolf’s A Room of One’s Own is a well-renowned classic feminist text which presents the struggles of women who are, or aspire to be, writers. In the process, it stumbles upon the perplexing question of why, largely, women are so much poorer than men and how this affects their chances at being successful writers.
 
@@ -26,7 +22,7 @@ _Intellectual freedom depends upon material things. Poetry depends upon intellec
 
 Though this essay’s focus is on the profession and art of writing, I would ascertain that the discourse applies to every professional and hobbyist field that requires creative contemplation. Moreover, while several facets of the theory are unique to the condition of women, the gist of the arguments could be used to explain the under-representation of any socially disadvantaged group in creative domains.
 
-Women in Creative Fields
+## Women in Creative Fields
 
 In A Room of One’s Own, Woolf picks up an important strand of the question that is the favourite of many of the world’s biggest patriarchs: why have women not been nearly as successful as men in any professional or creative field? Why have most of the famous scientists, poets, screenplays, artists, philosophers and politicians been men? Why do women own less wealth and property than men? And finally, how are the former two questions related to the third?
 
@@ -46,7 +42,7 @@ We might have been exploring or writing; mooning about the vulnerable places of 
 
 Indeed, the life-like thoughts above enable one to comprehend the extent to which the lack of financial freedom has impaired the creative freedom of women.
 
-Writings on women
+## Writings on women
 
 Apart from texts written by women, A Room of One’s Own also talks a lot about the things said and written about women, their minds, lives, capabilities, and duties, throughout history. It is unimaginable how many men’s opinions have been recorded about what a woman is like, how she thinks, what she wants, and how she ought to live. This is a rather well-known fact, yet it is most striking personally when Virginia Woolf formulates the question in this manner:
 
@@ -61,6 +57,11 @@ In fact, the issue of opinions on women also finds a generous amount of discussi
 _Of course we’re always writing about women – abusing them, or jeering at them, or worshipping them, but it’s never from women themselves. I believe we still don’t know in the least how they live, or what they feel, or what they do precisely. It’s the man’s view that’s represented, you see. Think of a railway train: 15 carriages for men who want to smoke. Doesn’t it make your blood boil? If I were a woman I’d blow someone’s brains out._
 
 A Room of One’s Own, as well as many other feminist works, demonstrate beyond doubt that the representation of women by others is as significant a matter issue as women’s representation of themselves. But not only does Woolf set her work apart from traditional theory by presenting the issue in a simple, concise and witty form suitable for anyone to absorb, she also points out that the damage to women by their misrepresentation extends beyond merely biases and untruths. Not only have women been objectified and then denigrated, but the whole process of this objectification has been turned into a source of entertainment, a leisurely or, in some cases, a professional activity, and an art of sorts, which is rewarded with attention, applause, fame, and even money. In fact, the more the absurdity, ridicule and malevolence a viewpoint harbors the more proponents it is likely to garner. A few thought-provoking stanzas from A Room of One’s Own expound this phenomenon powerfully.
+
+
+<div style="text-align:center;">
+  <img src="/images/woolf.jpg" width="340px" />
+</div>
 
 _Women do not write books about men. Why are women, judging from this catalogue, so much more interesting to men than men are to women?_
 
@@ -78,9 +79,9 @@ _Life for both sexes-and I looked at them, shouldering their way along the pavem
 
  _ Women have served all these centuries as looking-glasses possessing the magic and delicious power of reflecting the figure of man at twice its natural size..whatever may be their use in civilised societies, mirrors are essential to all violent and heroic action. That is why Napoleon and Mussolini both i_nsist so emphatically upon the inferiority of women, for if they were not inferior, they would cease to enlarge._
 
-The Human Angle to Oppressive Systems
+## The Human Angle to Oppressive Systems
 
-To me, the above stanzas answer quite satisfactorily not only the question of why men have portrayed women as inferior, but also why different groups of people across the world are so insistent on the inferiority of the “other”: be it a different gender, race, culture, nationality, or religion. It explains our need to find some flaw or shortfall in our neighbor, no matter how much we may love them. It shows why some people need to hate someone else in order to love themselves.  
+To me, the above stanzas answer quite satisfactorily not only the question of why men have portrayed women as inferior, but also why different groups of people across the world are so insistent on the inferiority of the "other": be it a different gender, race, culture, nationality, or religion. It explains our need to find some flaw or shortfall in our neighbor, no matter how much we may love them. It shows why some people need to hate someone else in order to love themselves.  
 
 It also explains why humans have forever been obsessed with what sets them apart from (most often interpreted as what makes them better than) non-human animals. From religion to science, most human discourse has perpetually tried to establish the superiority of its species with the same passion, egocentrism and ignorance harbored by men trying to defame women. I can now see, from the lucid and ingenuously simple explanation offered by Woolf, that the underlying reason is also identical. For surely at some point the satisfaction of superiority over a relative or neighbour or another gender saturates and loses its charm. It is perhaps then that humans are driven to prove their distinctive superiority over every other living being on this planet, and even to use it as a justification for exploiting them.  Indeed, this extension is not as far-off and tucked away in theory and imagination as it may seem at first. In The Voyage Out, Mr. Hirst is seen saying to Rachel, referring to the influence that, men seem to hold over women.
 
@@ -96,7 +97,7 @@ _That was the strange thing, that one did not know where one was going, or what 
 
 With this uncertain and unprepared state of mind, self-confidence is naturally something humans are constantly gripping for. While some of us are able to find meaningful pursuits to rely on for our sense of achievement and dignity, yet others focus their energies almost entirely on making others smaller, and possibly from here spring the founders of systems designed for the purpose of belittling and subjugation.
 
-Conclusion
+## Conclusion
 
 It is only a few books that can move one to write so much describing them and to beseech others to experience their magic personally. A Room of One’s Own is indeed one of them. Fortunately, I happened to buy a book that combined this essay with a related and equally brilliant fiction, The Voyage Out. Several dialogues, themes and observations from the latter fit in perfectly with the discourse of the former. Though there were many more remarkable stanzas and quotations from The Voyage Out that I would love to bring to a potential reader, I have refrained from including them in this piece because they are unrelated.
 
@@ -112,7 +113,7 @@ The woman of today packing her bag and leaving home to attend university or offi
 
 There is no denying that women are, even today, far from achieving true and complete equality with men. Their abilities and efforts are still questioned, undermined and treated with lower priority. Women still struggle to be paid at par with men and to have basic rights like protection from sexual harassment, domestic violence, rape, discrimination, and casual sexism. There is still a long way to go before gender equality is reached, but we are far ahead on this rugged path than our ancestors were, thanks to their very battles, and we must not forget this.
 
-A woman today who is adamant that she is not a feminist, or “chooses” to give up every form of productive and creative pursuit to fit into patriarchal norms, uses sexist standards to criticize and even insult other women, or embraces and even celebrates patriarchal symbols, does a greater disservice to women from the past, present, and future, than the staunchest of patriarchal men.
+A woman today who is adamant that she is not a feminist, or "chooses" to give up every form of productive and creative pursuit to fit into patriarchal norms, uses sexist standards to criticize and even insult other women, or embraces and even celebrates patriarchal symbols, does a greater disservice to women from the past, present, and future, than the staunchest of patriarchal men.
 
 Society is still in the clutches of patriarchy, but the clutches yesterday were a hundred times more powerful and piercing. It is our responsibility to continue to destroy these clutches, of course because that is the only way for a righteous future for human societies, but equally as a tribute to the sacrifices by our sisters from the past. We owe to the world the great female poets and writers it has hardly ever seen; we owe it a rewriting of our realities, and a realization of our talents. I conclude this article with the same line used by Virginia Woolf to conclude A Room of One’s Own, for I could not find a better formulation of this message.
 

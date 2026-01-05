@@ -6,7 +6,7 @@ categories: ["mind-and-self"]
 draft: false
 math: true
 noNumbering: true
-summary: "An exploration of breath as an ever-present alternative to the distractions we use to escape discomfort."
+summary: "'Just breathe!' Why is breath so popular as a medium for grounding and healing the perils of the mind? This article is an exploration of breath as an ever-present alternative to the distractions we use to escape discomfort."
 ---
 
 

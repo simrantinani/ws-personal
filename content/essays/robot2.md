@@ -1,13 +1,12 @@
 ---
-title: Robot 2.0 ray of hope turned into major disappointment"
+title: "Robot 2.0: ray of hope turned into major disappointment"
 author: "Simran Tinani"
-date: 2023-02-01
-categories: ["Computer Science", "Machine Learning"]
-tags: ["perceptron", "pocket-algorithm", "linear-classification", "r-programming", "machine-learning", "from-scratch"]
+date: 2018-04-01
+categories: ["world-and-society"]
 draft: false
 math: true
 noNumbering: false
-summary: "An examination of large language models (LLMs) as a new paradigm in human-computer interaction, offering unprecedented flexibility in understanding human instructions."
+summary: "An analysis and review of the film Robot 2.0. Despite having a unique concept and picking a bold cause, the film takes a disappointing course of action in its latter half."
 ---
 
 Robot 2.0, the sequel to Robot, stars Rajnikanth and Akshay Kumar in lead roles. The movie undoubtedly has a unique and novel concept. It is perhaps one of the only mainstream Bollywood films which is based on a cause related to the well-being of non-human animals. It boldly puts forward the controversial opinion that the life of an animal of a different species has the same value as that of a human, and that concern for other species of animals is a moral obligation for humans. It depicts (a part of) the animal kingdom seeking vengeance for its sufferings, inflicted by humans. However, the film ends up taking a course that ridicules its own initial theme and trivializes the cause it began with, thus proving a victory for human selfishness and cruelty, and a loss for the cause of animal rights.
@@ -19,8 +18,7 @@ fiction. It is, however, a lot more than that. It tries to capture a wide range
 of contrasting ideas: good versus evil, right versus wrong, empathy versus
 indifference, genius versus ignorance, callous greed versus unconditional love.
 
-The first
-half of the film comes across purely as the wrathful revenge of downtrodden and
+The first half of the film comes across purely as the wrathful revenge of downtrodden and
 wronged animals (here, the birds who have lost their lives due to cell phone
 tower radiations). Greedy humans in power who have been responsible for illegal
 radiation violations, for large-scale mobile phone sale, etc. are shown to die
@@ -30,8 +28,7 @@ leaving the entire city in utter panic. The second half begins with the
 revelation of the cause of this chaos, the spirit of Pakshirajan, played by
 Akshay Kumar.
 
-The
-character of Pakshirajan is perhaps the most bold and unforgiving that
+The character of Pakshirajan is perhaps the most bold and unforgiving that
 Bollywood has seen when it comes to talking about animal rights. In a
 flashback, the life of Pakshirajan unfolds, revealing him to be a respectable
 and empathetic ornithologist and activist who wanted to stop the death of birds,

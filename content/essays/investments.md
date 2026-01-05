@@ -2,12 +2,11 @@
 title: "Vessels of Value: Investments"
 author: "Simran Tinani"
 date: 2023-02-01
-categories: ["Computer Science", "Machine Learning"]
-tags: ["perceptron", "pocket-algorithm", "linear-classification", "r-programming", "machine-learning", "from-scratch"]
+categories: ["world-and-society"]
 draft: false
 math: true
 noNumbering: false
-summary: "An examination of large language models (LLMs) as a new paradigm in human-computer interaction, offering unprecedented flexibility in understanding human instructions."
+summary: "A first step in financial literacy: some notes from my self-study of the fundamentals of assets and investments."
 ---
 
 
@@ -47,29 +46,24 @@ Real Estate/Property: Real estate refers to physical land and the structures att
 
 Commodities: Commodities are basic tangible goods used in commerce, in the form of raw materials or primary agricultural goods. Some common types are energy commodities (natural gas, oil, coal), metal commodities (gold, silver, copper, aluminium, copper), and agricultural commodities (wheat, corn, soybeans, coffee, tea). Commodity prices are influenced by supply and demand, weather, storage and logistics, geopolitical events, and economic conditions.
 
-5. pooled investments
+5. Pooled investments
 
 Pooled Investments: In pooled investments, investors pay money to an institution called an investment fund that trades on a diversified basket of assets (called a portfolio). The two main type of pooled investments are mutual funds and Exchange-Traded Funds (ETFs). One major difference between the two is that ETFs are traded on stock exchanges like individual stocks, whereas mutual funds are bought directly from the fund company and cannot be traded throughout the trading day (all purchases are processed at the day end). A fund may be open-ended, which means it can issue an unlimited number of shares, or closed-ended, which means the number of shares is fixed and limited. We don't go into their details in this article.
 
-5. derivatives
+5. Derivatives
 
 Derivatives are financial instruments whose value is derived from the value of an underlying asset, index, or rate. They are used for various purposes like hedging risk, speculating, and gaining access to additional assets or markets. Derivatives are broadly categorized as follows.
 
-Options: contracts that give the holder the right, but not the obligation (the option), to buy or sell an underlying asset at a predetermined price (the strike price) before or at a specific expiration date. The investor, in return for this right, pays a price called a premium. Options are of two types: call options (the right to buy) and put options (the right to sell).
-
-Futures: standardized contracts obligating the buyer to purchase, or the seller to sell, an underlying asset at a predetermined price at a specified time in the future. For futures, investors must deposit a margin, which is a fraction of the contract’s total value, to maintain the position.
-
-Swaps: contracts in which two parties exchange cash flows or other financial instruments over a set period. Swaps can be customized to meet the specific needs of the parties involved. Swaps are typically traded over-the-counter (OTC), meaning they are not standardized or traded on exchanges.
+- Options: contracts that give the holder the right, but not the obligation (the option), to buy or sell an underlying asset at a predetermined price (the strike price) before or at a specific expiration date. The investor, in return for this right, pays a price called a premium. Options are of two types: call options (the right to buy) and put options (the right to sell).
+- Futures: standardized contracts obligating the buyer to purchase, or the seller to sell, an underlying asset at a predetermined price at a specified time in the future. For futures, investors must deposit a margin, which is a fraction of the contract’s total value, to maintain the position.
+- Swaps: contracts in which two parties exchange cash flows or other financial instruments over a set period. Swaps can be customized to meet the specific needs of the parties involved. Swaps are typically traded over-the-counter (OTC), meaning they are not standardized or traded on exchanges.
 
 These may be of multiple types.
 
-Interest Rate Swaps: Exchanging fixed interest rate payments for floating rate payments or vice versa.
-
-Currency Swaps: Exchanging principal and interest payments in different currencies.
-
-Commodity Swaps: Exchanging cash flows related to commodity prices.
-
-Forwards: similar to futures but customized contracts between two parties to buy or sell an asset at a specified future date for a price agreed upon today. Forwards are traded over-the-counter, and are not standardized. The terms are tailored to the needs of the contracting parties.
+- Interest Rate Swaps: Exchanging fixed interest rate payments for floating rate payments or vice versa.
+- Currency Swaps: Exchanging principal and interest payments in different currencies.
+- Commodity Swaps: Exchanging cash flows related to commodity prices.
+- Forwards: similar to futures but customized contracts between two parties to buy or sell an asset at a specified future date for a price agreed upon today. Forwards are traded over-the-counter, and are not standardized. The terms are tailored to the needs of the contracting parties.
 
 6. Foreign Exchange (Forex) 
 
@@ -77,16 +71,11 @@ Foreign Exchange (Forex): involves trading currencies to profit from changes in 
 
 7. Alternative investments:
 
-Alternative investments: Some of the more well-known non-standard categories of investments not listed above are as follows.
+Some of the more well-known non-standard categories of investments not listed above are as follows.
 
-Hedge Funds: private investment funds that pool capital from accredited investors or institutional investors and employ strategies to earn active returns for their investors. They have more aggressive investment strategies and therefore higher potential for returns compared to mutual funds, but are also high-risk, less regulated, and charge higher fees. Hedge funds typically require a high minimum investment and are restricted to accredited investors, i.e. individuals with a high net worth and sophisticated investment knowledge, and institutional investors like pension funds and endowments.  Hedge funds are less regulated than mutual funds. 
-
-Private Equity: investments made directly into private companies (startups, mature private companies, or divisions of larger companies) or the buyout of public companies resulting in their delisting from public stock exchanges. Under this type of investment, high returns may be attempted to be achieved using restructuring, expanding, or improving the businesses. It involves significant capital commitments, active management, and long-term investment horizons. Private equity may be in the form of venture capital (VC) (early-stage startups), growth capital (mature companies for expansion or restructuring), buyouts (acquiring a controlling interest in a company), and distressed Investments: (troubled companies with potential for turnaround).
-
-Real Estate Investment Trust (REIT): a company that owns, operates, or finances income-producing real estate (commercial buildings, shopping malls, apartments, hotels, and healthcare facilities) across a range of property sectors. REITs provide a way for individual investors to earn a share of the income produced through commercial real estate ownership without actually buying, managing, or financing any properties themselves. They are of three broad types: equity REITs, mortgage REITs (mREITs), and hybrid mREITs. 
-
-Cryptocurrencies: Digital or virtual currencies that use cryptography for security and operate on decentralized networks based on blockchain technology. Cryptocurrencies are relatively new and are often questioned on their inherent value as currencies. They have proven to be volatile and high-risk.
-
-Collectibles: Physical Items with Historical, artistic or aesthetic value, such as art, rare wines, antiques, stamps, and coins.
-
-Intellectual property (IP): creations of the mind, like inventions, literary and artistic works, designs, symbols, names, and images used in commerce. Investing can take various forms, from direct investments in patents, copyrights, trademarks, and trade secrets, to indirect investments through companies that own or develop IP.
+- Hedge Funds: private investment funds that pool capital from accredited investors or institutional investors and employ strategies to earn active returns for their investors. They have more aggressive investment strategies and therefore higher potential for returns compared to mutual funds, but are also high-risk, less regulated, and charge higher fees. Hedge funds typically require a high minimum investment and are restricted to accredited investors, i.e. individuals with a high net worth and sophisticated investment knowledge, and institutional investors like pension funds and endowments.  Hedge funds are less regulated than mutual funds. 
+- Private Equity: investments made directly into private companies (startups, mature private companies, or divisions of larger companies) or the buyout of public companies resulting in their delisting from public stock exchanges. Under this type of investment, high returns may be attempted to be achieved using restructuring, expanding, or improving the businesses. It involves significant capital commitments, active management, and long-term investment horizons. Private equity may be in the form of venture capital (VC) (early-stage startups), growth capital (mature companies for expansion or restructuring), buyouts (acquiring a controlling interest in a company), and distressed Investments: (troubled companies with potential for turnaround).
+- Real Estate Investment Trust (REIT): a company that owns, operates, or finances income-producing real estate (commercial buildings, shopping malls, apartments, hotels, and healthcare facilities) across a range of property sectors. REITs provide a way for individual investors to earn a share of the income produced through commercial real estate ownership without actually buying, managing, or financing any properties themselves. They are of three broad types: equity REITs, mortgage REITs (mREITs), and hybrid mREITs. 
+- Cryptocurrencies: Digital or virtual currencies that use cryptography for security and operate on decentralized networks based on blockchain technology. Cryptocurrencies are relatively new and are often questioned on their inherent value as currencies. They have proven to be volatile and high-risk.
+- Collectibles: Physical Items with Historical, artistic or aesthetic value, such as art, rare wines, antiques, stamps, and coins.
+- Intellectual property (IP): creations of the mind, like inventions, literary and artistic works, designs, symbols, names, and images used in commerce. Investing can take various forms, from direct investments in patents, copyrights, trademarks, and trade secrets, to indirect investments through companies that own or develop IP.

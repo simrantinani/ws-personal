@@ -1,13 +1,12 @@
 ---
 title: "Review of Anna Karenina in B1 German"
 author: "Simran Tinani"
-date: 2023-02-01
+date: 2023-05-01
 categories: ["book-revisits"]
-tags: ["perceptron", "pocket-algorithm", "linear-classification", "r-programming", "machine-learning", "from-scratch"]
 draft: false
 math: true
 noNumbering: false
-summary: "An examination of large language models (LLMs) as a new paradigm in human-computer interaction, offering unprecedented flexibility in understanding human instructions."
+summary: "A book description-cum-review of one of my favourite books ever, Anna Karenina by Leo Tolstoy, written in B1 (intermediate)-level German. This was a fun and challenging exercise in German, which also allowed me to revisit the book's themes."
 ---
 
 I recently finished my B1 German course, as part of which I wrote the below book description-cum-review of one of my favourite books ever, Anna Karenina by Leo Tolstoy. Grammatic corrections are welcome!

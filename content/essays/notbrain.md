@@ -1,12 +1,12 @@
 ---
 title: "'You Are Not Your Brain': hacking the brain using the mind? A summary+review: Part I"
 author: "Simran Tinani"
-date: 2023-02-01
+date: 2019-01-15
 categories: ["book-revisits"]
 draft: false
 math: true
 noNumbering: false
-summary: "A detailed revisit and review of the neuroscience bestseller 'You Are Not Your Brain'."
+summary: "A detailed revisit and review of the neuroscience bestseller 'You Are Not Your Brain', including a condensation of the key definitions and concepts it explains. This first part focusses on the formation of bad habits in stressful situations."
 ---
 
 A penetrating veracity of modern human life is the perpetual discord between intentions and actions, between ideals and reality, between potential and activities, between the lives we desire and the lives we actually live. Most people have habits they would like to let go of and plans they would like to act upon. Most of us are familiar with the feeling of harboring a tumultuous mind, jumping from thought to thought, filled with anxieties, distracted from our present activities and worrying about the future. On several occasions, we feel removed from our true selves, overpowered by our anger, sadness, worry, impulses, and overthinking; succinctly: we become "prisoners of our minds".
@@ -17,7 +17,7 @@ Perhaps the solution is not to try harder, but smarter—rather than mustering a
 
 According to the celebrated neuroscientist Hebb, “the problem of understanding behaviour is to understand the total action of the nervous system, and vice versa.” “You are not your brain” is a book that offers to the layman a simplified and practical explanation of the human brain, particularly the functions involved in behaviour-formation. It subsequently offers science-backed solutions to “rewire” the brain to work for us, get rid of destructive habits and build new, healthy ones.
 
-Distinguishing Mind from Brain
+## Distinguishing Mind from Brain
 
 The authors of the book make a fundamental distinction between the brain and the mind, and their roles in our lives. Loosely speaking, the authors refer to “mind” as the aspect of our brains that knows what is best for us, what we need to be doing and avoiding, and what would make our lives better in the long term. More specifically, the term mind in the book refers to the conscious parts of the brain that harbor the perspective of one’s long-term well-being and interests. In the authors’ words, the mind “is involved in focusing attention, making long-term decisions, and embodies conscious awareness, which, in turn, processed the information presented to it by the brain.”
 
@@ -33,7 +33,7 @@ Similarly, for several people, it takes serious motivation and drive to begin a 
 
 However, one need not lose all hope: while changing is difficult, it is not impossible. The authors of the book offer a method to rewire our brains to work for, rather than against us. They insist that biology is not destiny, and the key to rewiring our brains in ways helpful to us, is to learn to focus our attention through the mind. In order to explain their method and its working, the authors introduce several new concepts and terms, and explain them in a very simplistic, layperson format, 
 
-Key Definitions
+## Key Definitions
 
 A fundamental term that runs throughout the book is of deceptive brain messages, which are defined as the unhelpful, distracting thoughts, urges, and impulses, and desires which take one away from their true goals and intentions in life. The authors also make the important distinction between one’s true emotions and emotional sensations, which are uncomfortable, transient feelings caused by deceptive brain messages which cause us to act in impulsive, unhelpful ways. For example, a surge of anger or sadness and a resulting hysterical, impulsive reaction can be seen as rooted in emotional sensations, and are likely to be regretted later on. Similarly, the urge to calm one's sensation of anger with unhealthy means like yelling, quarreling, or indulging in alcohol, can be seen as deceptive brain messages.
 
@@ -43,45 +43,35 @@ The authors insist, however, that while we cannot control the initial appearance
 
 The voice at the back of our heads which operates from the perspective of the bigger picture, sees the destructive reality of these deceptive brain messages, and tries to guide a person towards making rational decisions towards true health, happiness, productivity, and their long-term goals, is referred to as as a person’s Wise Advocate.
 
-Components of the Brain
+## Components of the Brain
 
 One may further understand the working of the brain by learning about its different components  and their functions. Each of these is a complex amalgamation of different physical components, grouped together and named based on their functions. The book provides the following classification of the parts of the brain.
 
-Frontal Cortex/ Executive Center: Involved in strategy, organization, detecting errors, etc.
+- Frontal Cortex/ Executive Center: Involved in strategy, organization, detecting errors, etc.
+- Hypothalamus/Drive Center:  Involved in primal drives such as hunger, thirst, and sex.
+- Accumbens/Reward Center: Makes survival-based activities pleasurable so that we engage in them.
+- Warning Center: When this center is activated, the other parts of the brain produce reactions and coping mechanisms to calm it down. Comprises the following parts.
+- Amygdala :Responsible for assessing threats and indicating danger to the body through feelings of fear and physical sensations (rapid heartbeat, shortness of breath, sweating).
+- Insula: Responsible for generating “gut-level responses” like dread, “pit in the stomach, gut-wrenching pain, etc.”
+- Anterior cingulate: Involved in detecting errors, assessing risks and rewards, and generating the rapid sense that something is wrong.
+- Basal Ganglia/Habit Center: Responsible for automatic thoughts (subcategory Caudate) and actions/movements (subcategory Putamen).
+- Medial prefrontal cortex: Regulates self-thought, inner monologue, envisioning future, remembering the past, inferring other people’s states of mind.
+- Orbitofrontal cortex/Self-Referencing Center: Regulates both automatic and voluntary actions such as error messages and obsessions.
+- Assessment Center /Lateral prefrontal cortex: Involved in the voluntary modulating of responses from the Warning Center, overriding the actions the Habit Centre wants to initiate. Its key job is to help self-referencing centre to not take information too personally. It has the capacity to regulate and calm other areas based on external information.
 
-Hypothalamus/Drive Center:  Involved in primal drives such as hunger, thirst, and sex.
-
-Accumbens/Reward Center: Makes survival-based activities pleasurable so that we engage in them.
-
-Warning Center: When this center is activated, the other parts of the brain produce reactions and coping mechanisms to calm it down. Comprises the following parts.
-
-Amygdala :Responsible for assessing threats and indicating danger to the body through feelings of fear and physical sensations (rapid heartbeat, shortness of breath, sweating).
-
-Insula: Responsible for generating “gut-level responses” like dread, “pit in the stomach, gut-wrenching pain, etc.”
-
-Anterior cingulate: Involved in detecting errors, assessing risks and rewards, and generating the rapid sense that something is wrong.
-
-Basal Ganglia/Habit Center: Responsible for automatic thoughts (subcategory Caudate) and actions/movements (subcategory Putamen).
-
-Medial prefrontal cortex: Regulates self-thought, inner monologue, envisioning future, remembering the past, inferring other people’s states of mind.
-
-Orbitofrontal cortex/Self-Referencing Center: Regulates both automatic and voluntary actions such as error messages and obsessions.
-
-Assessment Center /Lateral prefrontal cortex: Involved in the voluntary modulating of responses from the Warning Center, overriding the actions the Habit Centre wants to initiate. Its key job is to help self-referencing centre to not take information too personally. It has the capacity to regulate and calm other areas based on external information.
-
-The Origins of Deceptive Brain Messages
+## The Origins of Deceptive Brain Messages
 
 If deceptive brain messages are harmful and maladaptive, where do they come from and why are they so difficult to shake off? The authors of the book explain how many deceptive brain messages are learnt in our childhood.  As children, we learn from our caregivers the expression of emotions, thoughts, actions, the treatment we deserve, how to react to situations, and carry forward what we learn for the rest of our lives. We also pick up unwarranted reactions such as catastrophization, overreaction, smothering, dismissal, negligence- from our caregivers and the other people we encounter as children, as reactions to deal with stressful situations. While this learning process continues throughout our lives, a large portion of it occurs in our childhoods, when our minds are still developing.
 
 While the suppression of emotions may help with short-term coping, in the long run they cause immense (and unexplained) pain, lead to deceptive brain messages, poor habits, anxiety, depression, perfectionism, overthinking, overreactiveness, and so on. When the people around cope with stressful situations by ignoring, minimizing, and dismissing their true emotions and needs, the tender mind of a child subconsciously picks up these reactions, and they get silently wired into the child's natural behaviour.  When we grow up, the mind continues to  conflate present life events to past hurtful ones, triggering the same painful sensations and learnt harmful behaviours.
 
-Stressful triggers
+## Stressful triggers
 
 But what exactly is a "stressful situation"? What kind of circumstances are triggering our "trauma responses" when we live in an environment where we are largely safe from immediate danger to our lives? While survival and procreation are key factors driving our primal instincts, social connectedness is an equally natural and necessary component of life for members of our species. We are shaped and affected by our desire to connect with people on an emotional level, feel safe, be heard and understood. The book explains the science of social pain, which is felt when a person feels neglected, ignored, dismissed, devalued, minimized, or, on the other extreme, overindulged and hyperfocussed. Social pain fires the Warning Center in the brain, and is registered and processed by the same parts  as physical pain. 
 
 The book further talks about the theory of the "5 A's" that we seek from other people: acceptance, affection, appreciation, allowing. This concept was introduced by David Richo, a well-known psychotherapist and author, who goes on to recommend seeking not more than 25 percent of these necessities from our relationships with others, and providing the rest for ourselves. However, a very small percentage of people actually have the emotional skills to make this providence for themselves. As a result, external circumstances, relationships with other people, other's opinions of us, perceived or real social status, and so on, end up playing too big and destructive of a role in our lives.
 
-The formation of bad habits
+## The formation of bad habits
 
 Habits are a key component of our behaviour. While good habits can pave the way to a productive, fulfilling life, bad habits can create a dangerous web of despair and frustration that is hard to get out of. It is thus crucial to be aware of when bad habits begin to form, and to do one's best to cut them at the nip.
 

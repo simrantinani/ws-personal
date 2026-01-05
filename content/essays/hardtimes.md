@@ -1,13 +1,12 @@
 ---
-title: "Favourite quotes from Hard Times; and why bother"
+title: "Favourite quotes from 'Hard Times'; and why bother"
 author: "Simran Tinani"
-date: 2023-02-01
+date: 2024-08-01
 categories: ["book-revisits"]
-tags: ["perceptron", "pocket-algorithm", "linear-classification", "r-programming", "machine-learning", "from-scratch"]
 draft: false
 math: true
 noNumbering: false
-summary: "An examination of large language models (LLMs) as a new paradigm in human-computer interaction, offering unprecedented flexibility in understanding human instructions."
+summary: "A detailed reading of Charles Dickers' ceelebrated novel, an analysis of its message, a listing of some of my favourite stanzas, and a detour explaining why I take the time to do this exercise in the first place."
 ---
 
 It has been about a year since I finished reading Charles Dicken’s celebrated “Hard Times”, and I am only now coming round to make this long-procrastinated post. Since it has been so long since I wrote about a fiction book, I decided to start with a short detour, as to the point of this exercise, and why I enjoy it.
@@ -20,9 +19,11 @@ Most books, especially fiction, are not mere prose, or mere stories of character
 
 In books written centuries ago, in lands one has never visited, by an unfamiliar figure with whom one shares not a shred of similarity of reality, perhaps not even a common language, one can find a feeling of intimate recognition, familiarity, and connection, relating more to a fictitious character in a story than to one’s own neighbours. In a book well-written, one relates, surely, in varying degrees, to the psyche and actions of each character, and recognizes a part of their own lives, however different in concrete nature, in the circumstances in the novel. Indeed, emotions are the most universal of all languages.
 
-![](https://simrantinani.wordpress.com/wp-content/uploads/2024/05/img-20230624-wa0000.jpeg)  
+<div style="text-align:center;">
+  <img src="/images/hardtimes.jpeg" width="200px" />
+</div>
 
-“Hard Times” is a novel by Charles Dickens, first published in 1854. It is set in the fictional industrial town of Coketown in Great Britain and explores the societal and economic issues of Victorian England, and particularly the harsh conditions faced by the working class during the Industrial Revolution. It does this through the stories of several characters, but the main protagonists, from my viewpoint, are Louisa Gradgrind and Stephen Blackpool.
+'Hard Times' is a novel by Charles Dickens, first published in 1854. It is set in the fictional industrial town of Coketown in Great Britain and explores the societal and economic issues of Victorian England, and particularly the harsh conditions faced by the working class during the Industrial Revolution. It does this through the stories of several characters, but the main protagonists, from my viewpoint, are Louisa Gradgrind and Stephen Blackpool.
 
 Lousia and Stephen come from opposing social and economic backgrounds. Louisa is the daughter of Thomas Gradgrind, a wealthy and influential businessman, and grows up with the privilege of material wealth and comfort. However, her father is a strict and cold rationalist who sees nothing of significance beyond facts and thereby trivializes emotional experiences. Louisa therefore grows up in an environment of rigid rules, emotional neglect, and stifled personal development. Nevertheless, Louisa embodies both personal integrity and empathy for others. Stephen Blackpool is a working-class honest man employed at a daily wage at one of the factories in Coketown. He lives in difficult circumstances, lacking financial security and social status, and struggling to make ends meet despite harsh conditions of the factory. Due to his wife’s alcoholism and insanity, Stephen also lacks meaningful human relationships or emotional connection. Despite his poor fate, Stephen is honest, hardworking, and morally upright.
 
