@@ -36,6 +36,11 @@ Oftentimes, our bad habits become so habitual and automatic that we don't realiz
 
  This step by itself may take a significant amount of time, reflection and experimentation. It also takes a good amount of effort and practice to sit with one's feelings, and stop oneself from acting on deceptive thoughts and harmful urges and trying to control them. The one criticism I could offer about this book would be that the authors do not spend sufficient time discussing the work required prior to the four steps.
 
+<div style="text-align:center;">
+  <img src="/images/notbrain.jpg" width="300px" />
+</div>
+
+
 ## The Four Steps 
 
 The following are the four steps for overcoming the overwhelming effects of deceptive brain messages and rewiring the brain, as offered in the book. The authors describe them accurately as "the wedge between brain’s false reality and the more clearheaded view of your wise advocate".

@@ -1,19 +1,23 @@
 ---
 title: "Insider Views in Sociology, The Role of Emotions: A Feminist Theory Perspective"
 author: "Simran Tinani"
-date: 2023-02-01
-categories: ["Computer Science", "Machine Learning"]
-tags: ["perceptron", "pocket-algorithm", "linear-classification", "r-programming", "machine-learning", "from-scratch"]
+date: 2017-11-01
+categories: ["world-and-society"]
 draft: false
 math: true
 noNumbering: false
-summary: "An examination of large language models (LLMs) as a new paradigm in human-computer interaction, offering unprecedented flexibility in understanding human instructions."
+summary: "“Until the lion learns how to write every story will glorify the hunter.” An essay on the importance of insider perspectives and lived experiences in the field of sociology, based on the work on well-known feminist theorists. "
 ---
 
 “Until the
 lion learns how to write every story will glorify the hunter.” Time and again, history has borne witness to the truth of the above proverb. Africa, the place of its origin, during its colonization, was, (and perhaps is, even now, in certain senses) a stark embodiment of the proverb—its people violently enslaved, and their voices subdued and erased from a world that admired the ambition and bravery of their colonizers.
 
 Consider the famous “V-J Day in Times Square” photograph captured by Alfred Eisenstaedt in Times Square, New York City, on August 14, 1945, the day Japan surrendered, and thereby effected the end of, World War II [1].
+
+
+<div style="text-align:center;">
+  <img src="/images/sociology.jpg" width="340px" />
+</div>
 
 The end of the war was being celebrated with great joy and zeal in Times Square, when an ecstatic and drunk U.S. Navy sailor grabbed a female stranger, bent her backwards, and kissed her while holding her head in place with his arm. A week later, a photograph of this incident was published in the LIFE magazine and was later hugely acclaimed as a depiction of unrestricted joy, and as one that represented the glorious victory of the nation and the sentiment of the entire people. The photographer was hailed for his momentous capture of a passionate moment symbolizing the magnificence of human emotion at a time so perfect. The picture became an icon of freedom, romance, and skilful artistic timing. While almost every description of the photo contains an admiration and romanticization of the spirit of celebration in the soldier and of its capture by the photographer, barely much is said of the agency or standpoint of the woman who was kissed against her will (as is clear from description of the photographer in his book, from her own words after she was identified as Greta Zimmer Friedman, and also by the account of the sailor). Until recently, it was never acknowledged or publicly even conjectured that what the picture truly did depict was nothing short of sexual assault. While the event’s descriptions were fairly vivid and pointed evidently to the act being forced upon the woman, its being an act of assault was pushed (perhaps subconsciously) under the rug of the common solidarity  of “celebration”, and “unconstrained joy” it elicited as a new cultural icon.
 

@@ -33,6 +33,12 @@ Similarly, for several people, it takes serious motivation and drive to begin a 
 
 However, one need not lose all hope: while changing is difficult, it is not impossible. The authors of the book offer a method to rewire our brains to work for, rather than against us. They insist that biology is not destiny, and the key to rewiring our brains in ways helpful to us, is to learn to focus our attention through the mind. In order to explain their method and its working, the authors introduce several new concepts and terms, and explain them in a very simplistic, layperson format, 
 
+
+<div style="text-align:center;">
+  <img src="/images/notbrain.jpg" width="300px" />
+</div>
+
+
 ## Key Definitions
 
 A fundamental term that runs throughout the book is of deceptive brain messages, which are defined as the unhelpful, distracting thoughts, urges, and impulses, and desires which take one away from their true goals and intentions in life. The authors also make the important distinction between one’s true emotions and emotional sensations, which are uncomfortable, transient feelings caused by deceptive brain messages which cause us to act in impulsive, unhelpful ways. For example, a surge of anger or sadness and a resulting hysterical, impulsive reaction can be seen as rooted in emotional sensations, and are likely to be regretted later on. Similarly, the urge to calm one's sensation of anger with unhealthy means like yelling, quarreling, or indulging in alcohol, can be seen as deceptive brain messages.

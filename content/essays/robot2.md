@@ -42,6 +42,11 @@ of seeing his beloved birds die horrific deaths before his eyes. Having tried
 everything, he loses all hope and commits suicide. His spirit later returns,
 wanting to avenge these innocent deaths.
 
+<div style="text-align:center;">
+  <img src="/images/robot2.png" width="300px" />
+</div>
+
+
 The flashback on Pakshi Rajan’s life is undoubtedly the most, and perhaps only, beautiful part of the film. Akshay Kumar pulls off all the intense emotions of anger, anguish, pain, and helplessness that an animal rights activist goes through in the real world, which is equally indifferent to animals’ suffering. His character openly says that a non-human animal’s life has the same value as a human’s, and that every being has equal right to a safe life on the planet. Another novel and bold move by this character is shaming the eating of animals as directly hurting them and wrong. (Though this is obvious, it is seldom acknowledged in reality.)  It is rather surprising how well the movie brings out the plight of a noble activist trying to fight humanity’s greed and selfishness, and his frustration on constantly failing. On facing indifference and ridicule everywhere, Pakshi Rajan’s care and love are forced to the dark side, and turn into his spirit’s thirst for revenge and bloodshed, after his death.
 
 At first, his blood-thirst and spirit of vengeance come across as extremely powerful, and even justified. He rightfully represents the wrath of Mother Nature against the selfish and greedy recklessness of humankind. Pakshi Rajan still represents a critical issue, and is thus not a villain. However, just when the strong revelation about Pakshi Rajan's life is about to compensate for the unpleasantness of the first part of the movie, the plot derails completely. After a brief jolt to the conscience of the audience, the film restores the order of human supremacy by taking the side of the city-dwellers and villainizing Pakshi Rajan to a ridiculous extent.

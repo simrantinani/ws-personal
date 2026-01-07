@@ -1,26 +1,24 @@
 ---
 title: "Consumerism on Steroids—Travel"
 author: "Simran Tinani"
-date: 2023-02-01
+date: 2024-12-01
 categories: ["world-and-society"]
-tags: ["perceptron", "pocket-algorithm", "linear-classification", "r-programming", "machine-learning", "from-scratch"]
 draft: false
 math: true
 noNumbering: false
-summary: "An examination of large language models (LLMs) as a new paradigm in human-computer interaction, offering unprecedented flexibility in understanding human instructions."
+summary: "An essay on modern culture's glorification of travel as superior to material consumption and masking its reality as a form of consumption, often with comparable environmental and status-seeking motivations to luxury possessions."
 ---
 
 Persons X and Y are asked for one item at the top of their bucket-list. X says, “I would love to do a world tour!” and Y says, “I would love to buy a Ferrari!”. What is your first impression of X and Y? Which one of them seems materialistic, shallow, indulgent, or status-conscious? And which one seems to value self-discovery, exploration, memories, and experiences?
 
 From living in today’s world, I have a strong hunch about the answer from a big majority of people, but I don’t have access to data, so I decided to ask my loyal friend, ChatGPT. Here’s a screenshot of my prompt and the answer.
 
-![](https://simrantinani.wordpress.com/wp-content/uploads/2024/09/image.png?w=1009)
-
-___
+<div style="text-align:center;">
+  <img src="/images/travel4.png" width="450px" />
+<img src="/images/travel3.png" width="450px" />
+</div>
 
 Considering that ChatGPT is trained on a multitude of data, it is fair to assume that its response aggregates somewhat to an average. Clearly, the positive opinions all swing far in the direction of X: X wants to pursue “self-discovery”, understand the world, and values experiences and memories over material possessions. On the other hand, Y is indulgent in luxury and status symbols and doesn’t care about personal growth or any of the wholesome things in life. Somehow, these statements make an implicit judgment of X as inherently good and Y as inherently bad.
-
-![](https://simrantinani.wordpress.com/wp-content/uploads/2024/09/d821ce3b-f75c-4091-9d67-f70345d5eb35.webp?w=1024)
 
 Through this blog post, I want to bring two things into question: one, one may conclude that based on this information, X and Y indeed possess these contrasting traits (valuing self-discovery v.s. valuing status symbols), and two, that these traits are inherently good or bad in any meaningful or consequential way.
 
@@ -30,15 +28,9 @@ Let’s first start with Y, who wants to buy a Ferrari. What are the most common
 
 When it comes to the carbon footprint, this is again a very valid criticism of Y and holds a heavy moral value, since it directly impacts the world inhabited by every sentient being. However, this criticism applies, and way more, to X! The carbon footprint of long-distance travel is much larger than that of buying luxury items. Again, I do not have real data on this and haven’t done the calculation myself. I simply asked ChatGPT again to do this calculation for me, and by its estimate, **a world tour done within a year has a higher footprint than driving a Ferrari weekly over the period of 10 years.**
 
-![](https://simrantinani.wordpress.com/wp-content/uploads/2024/09/image-1.png?w=1024)
-
-![](https://simrantinani.wordpress.com/wp-content/uploads/2024/09/image-2.png?w=1024)
-
 The carbon footprints become comparable when it is assumed the Ferrari is driven daily, again over 10 years, 10 times the time taken for the world tour! I haven’t checked the calculation, and do not vouch for it being precise, but I think it is good enough to give one a ballpark indication. I will accept it to conclude, at the least, that X is worse than Y in terms of his carbon footprint. If you find major flaws in the calculation that contradict this assumption, feel free to point them out.
 
 If the world tour and Ferrari both seem like extremes, one may do a more realistic comparison. Let’s compare a single week-long trip from Western Europe to Japan (a rather popular choice) to the purchase of a luxury Swiss watch. Again, since this is not a formal publication, I simply asked ChatGPT 4o. Here is a summary of the conclusions after some legitimate-looking calculations that I did not check.
-
-![](https://simrantinani.wordpress.com/wp-content/uploads/2024/09/image-3.png?w=1024)
 
 In short, unless you go really crazy on the gold, a luxury watch is far better for the environment than an economy tripfrom Europe to Japan. So, the “possession” wins out here in terms of sustainability.
 
@@ -55,6 +47,11 @@ In short, I do not think travelling is any less of a status symbol than a Ferrar
 ## Experience v.s. Possessions
 
 Above, I covered three common criteria for criticising Y over X. But what about the holy grail of modern day culture? What about the fact that X values experiences and exploration, while Y values possessions? Even with every other criterion being the same, even if X polluted the environment more and showed off just as much as Y, what about the fact that X still gained some invaluable experience out of it all and grew as a person and really got to know the world, and….?
+
+<div style="text-align:center;">
+  <img src="/images/travel.png" width="340px" />
+</div>
+
 
 ### Possessions bring experiences and experiences require possessions
 

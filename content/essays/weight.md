@@ -1,15 +1,13 @@
 ---
 title: "Disturbing trends in female fitness: Is weight training really becoming more women-friendly?"
 author: "Simran Tinani"
-date: 2023-02-01
+date: 2019-02-01
 categories: ["world-and-society"]
-tags: ["perceptron", "pocket-algorithm", "linear-classification", "r-programming", "machine-learning", "from-scratch"]
 draft: false
 math: true
 noNumbering: false
-summary: "An examination of large language models (LLMs) as a new paradigm in human-computer interaction, offering unprecedented flexibility in understanding human instructions."
+summary: "Resistance training offers rewarding benefits of better functional strength, stronger bones and muscles, improved mental health and quality of life. Despite us slowly moving past the days of discouraging women from lifting weights, some new some sad, sexist and shallow trends have emerged in the women's fitness space. This article comprises some of my thoughts on them."
 ---
-
 
 As we slowly move past the days of scaring women away from resistance training on the pretext of them accidentally turning into "bulky" bodybuilders, more and more women are reaping the tremendous health benefits of strength and resistance exercises. A decade ago, the average women's fitness regime comprised of long bouts of cardiovascular exercise and perhaps some "toning" with very, very light resistance. While remnants of this trend still persist today, it is clear that fitness culture has begun to debunk the "bulky" trope and to actively encourage women to train with heavy weights. Apart from the rewarding benefits of better functional strength, stronger bones and muscles, improved mental health and quality of life, perhaps the strongest appeal of weight training has been its aesthetic effectiveness. Contrary to what was believed, weight training has proven a potent tool for women to get closer to their envisioned aesthetic goals, rather than getting them huge and "bulky". Despite all these positive developments, new trends make one wonder whether we we truly moving towards de-gendering the barbell or if the same old sexism is simply rephrasing and upgrading itself.
 
@@ -18,6 +16,7 @@ Simple observations at the gym, combined with a glance through YouTube's recomme
 These titles demonstrate a sad trend, not only of a culture encouraging women to obsessively target just their glutes and ignore every other body part, but that in the process, warning them to make sure not to grow their quadriceps to maintain "slim thighs". It is well-known that the squat is one of the fundamental compound moves that targets one's lower body. While squatting was initially popularized among women for its glute-building capacity, it seems like a lot of women are now being pushed away from this amazing exercise because, god forbid, it may also develop other muscles in the legs "a bit too much". 
 
 This new-age glute obsession has also given rise to a vast number of businesses selling "glute bands" for women to use, lest they get bored of all the hip thrusts and cable kickbacks, and maybe the occasional squat. The laughable absurdity of sexism and objectification creeping into every pursuit and activity on this planet is perfectly demonstrated by these changing fitness "standards". While building muscle is a challenging process that requires hard, structured training and disciplined nutrition, women are being told to avoid at all costs growing muscle in the wrong areas, and to even undo this achievement by losing some of their existing muscle, in order to look "slimmer". Workout programs and videos are careful to use the terms "grow" or "build" exclusively when the glutes are involved, and the much milder terms "tone" or "shape" when the workout targets the thighs or upper body.
+
 
 While body part-specific training focus is common among men's fitness culture as well, with a far higher focus on the upper body and often not nearly enough on the lower (or also, for that matter, on cardio), it seems rather certain that the degree of this skew is much higher among fitness discourse for women. Moreover, I am yet to come across anyone telling men how to spot-reduce *muscle* in a targeted area, or any man interested to know that. It seems like the age-old and extremely damaging rhetoric of "bigger is better" still holds for men, while "smaller is better" still holds for women, with the exception of one or two body parts. 
 

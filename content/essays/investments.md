@@ -16,6 +16,11 @@ An investment is an allocation of resources like money to an asset or project wi
 
 An asset is a general term for anything of worth, which, by virtue thereof, may be invested in. Clearly, what is an asset and what is not may be a rather subjective matter, and may depend on the era, culture, moral framework, and political climate one lives in. The term is clearly a human construct, and essentially, anything can acquire the status of an asset if enough humans agree on the fact that it holds value. However, some assets are less debatable than others. Assets can be of a wide variety of types. 
 
+
+<div style="text-align:center;">
+  <img src="/images/investments.png" width="300px" />
+</div>
+
 Types of Assets
 
 1. Cash and Cash Equivalents
