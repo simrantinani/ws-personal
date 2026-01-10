@@ -7,7 +7,7 @@ categories: ["Computer Science", "Machine Learning"]
 draft: false
 math: true
 noNumbering: false
-summary: "A collection of four independent short Hindi poems on patience, time, readiness, and seeking. Written over a long time period in scattered bouts."
+summary: "A collection of three independent short Hindi poems on patience, time, and spirituality. Written over a long time period in scattered bouts."
 ---
 
 ####  फ़ज़्ले रब (In Grace)
@@ -55,25 +55,5 @@ summary: "A collection of four independent short Hindi poems on patience, time, 
 ---
 
 
-#### तलाश (Seeking)
-
-किसे ढूँढ रही हो?  
-पता नहीं।  
-
-हर बार यहाँ आकर  
-मैं खुद से भी यही सवाल करती हूँ।
-
-जिसे मैं ढूँढ रही हूँ  
-वो यहाँ नहीं मिलता—  
-न कभी यहाँ मिला है,  
-न कभी मिलेगा।  
-जिसे मैं ढूँढ रही हूँ  
-वो कहीं नहीं मिलता।
-
-शायद वो मैं खुद हूँ।  
-शायद वो मेरा खुदा है।  
-जो भी हो,  
-वो इतना छोटा नहीं  
-कि ढूँढने से मिल जाए।
 
 

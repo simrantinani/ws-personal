@@ -4,23 +4,25 @@
 
     {{/* ---- Category order (display labels) ---- */}}
     {{ $categoryOrder := slice
-      "Personal"
-      "Mind and Self"
       "World and Society"
+      "Mind and Self"
       "Book Revisits"
+      "Personal"
+
     }}
 
     {{/* ---- Icon map for categories ---- */}}
     {{ $iconMap := dict
-      "personal" "fas fa-user"
-      "mind-and-self" "fas fa-brain"
       "world-and-society" "dual"
+      "mind-and-self" "fas fa-brain"
       "book-revisits" "fas fa-book-open"
+      "personal" "fas fa-user"
+
     }}
 
     {{/* ---- Optional: map many categories -> a bucket label ---- */}}
     {{/* Lowercase keys; values MUST be one of $categoryOrder items */}}
-  {{ $bucketMap := dict }}  <!-- empty dict -->
+    {{ $bucketMap := dict }}  <!-- empty dict -->
 
     {{/* ---- Category Scroll Nav ---- */}}
     <nav class="category-scroll-nav" id="essayNav">
@@ -39,37 +41,80 @@
     </nav>
 
     {{/* ---- Render each bucket section ---- */}}
- {{ range $categoryOrder }}
-  {{ $label := . }}
-  {{ $key   := urlize $label }}        {{/* taxonomy term key */}}
-  {{ with index site.Taxonomies.categories $key }}
-    <section class="pub-section-card" id="{{ $key }}">
-      <h2 class="pub-section-title">
-        {{ $icon := index $iconMap $key | default "fas fa-tag" }}
-        {{ if eq $icon "dual" }}
-          <i class="fas fa-users"></i><i class="fas fa-globe"></i>
-        {{ else }}
-          <i class="{{ $icon }}"></i>
-        {{ end }}
-        {{ $label }}
-      </h2>
-<div class="pub-section">
-        {{ range .Pages.ByDate.Reverse }}
-          {{ $p := . }}
-          <div class="pub-entry">
-            <a href="{{ $p.RelPermalink }}" class="pub-title">{{ $p.Title }}</a>
-            {{ with $p.Date }}
-              <span class="pub-meta">{{ .Format "January 2006" }}</span>
+    {{ range $categoryOrder }}
+      {{ $label := . }}
+      {{ $key   := urlize $label }}        {{/* taxonomy term key */}}
+      {{ with index site.Taxonomies.categories $key }}
+        <section class="pub-section-card" id="{{ $key }}">
+          <h2 class="pub-section-title">
+            {{ $icon := index $iconMap $key | default "fas fa-tag" }}
+            {{ if eq $icon "dual" }}
+              <i class="fas fa-users"></i><i class="fas fa-globe"></i>
+            {{ else }}
+              <i class="{{ $icon }}"></i>
             {{ end }}
-            {{ with $p.Summary }}
-              <p class="pub-description">{{ . }}</p>
+            {{ $label }}
+          </h2>
+          <div class="pub-section">
+            {{ range .Pages.ByDate.Reverse }}
+              {{ $p := . }}
+              {{ $categoryIcon := index $iconMap $key | default "fas fa-tag" }}
+              {{ $entryIcon := $p.Params.icon | default $categoryIcon }}
+              
+              {{ $image := "" }}
+              
+              {{/* Try to find an image in this order:
+                   1. Front matter 'image' param
+                   2. First image resource (page bundle)
+                   3. First image in content */}}
+              
+              {{ with $p.Params.image }}
+                {{ $image = . }}
+              {{ else }}
+                {{/* Check page resources for images */}}
+                {{ with $p.Resources.ByType "image" }}
+                  {{ $image = (index . 0).RelPermalink }}
+                {{ else }}
+                  {{/* Extract first image from content */}}
+                  {{ $content := $p.Content }}
+                  {{ $img := findRE `<img[^>]+src="([^"]+)"` $content 1 }}
+                  {{ with $img }}
+                    {{ $imgTag := index . 0 }}
+                    {{ $src := replaceRE `.*src="([^"]+)".*` "$1" $imgTag }}
+                    {{ $image = $src }}
+                  {{ end }}
+                {{ end }}
+              {{ end }}
+              
+              <div class="pub-entry">
+                <div class="pub-entry-content">
+                  <a href="{{ $p.RelPermalink }}" class="pub-title">
+                    {{ if eq $entryIcon "dual" }}
+                      <i class="fas fa-users entry-icon"></i>
+                      <i class="fas fa-globe entry-icon"></i>
+                    {{ else }}
+                      <i class="{{ $entryIcon }} entry-icon"></i>
+                    {{ end }}
+                    {{ $p.Title }}
+                  </a>
+                  {{ with $p.Date }}
+                    <span class="pub-meta">{{ .Format "January 2006" }}</span>
+                  {{ end }}
+                  {{ with $p.Summary }}
+                    <p class="pub-description">{{ . }}</p>
+                  {{ end }}
+                </div>
+                {{ with $image }}
+                  <div class="pub-entry-image">
+                    <img src="{{ . }}" alt="{{ $p.Title }}" loading="lazy">
+                  </div>
+                {{ end }}
+              </div>
             {{ end }}
           </div>
-        {{ end }}
-      </div>
-    </section>
-  {{ end }}
-{{ end }}
+        </section>
+      {{ end }}
+    {{ end }}
 
   </div>
 </main>

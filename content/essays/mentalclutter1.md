@@ -6,7 +6,7 @@ categories: ["mind-and-self"]
 draft: false
 math: true
 noNumbering: false
-summary: "Some thoughts on the nature of mental clutter, its causes and effects, and common manifestations in modern day life."
+summary: "Some thoughts on the nature of mental clutter, its causes and effects, and common manifestations in modern day life. An examination of how multitasking, information overload, and lack of emotional boundaries contributes to mental disarray, and an argument for conscious self-awareness and structured emotional management."
 ---
 
 > Ok, I’ve paid this invoice, only two more to go. Why is the Internet banking website so slow today? Let me open my Instagram while it loads. Oh no! I forgot to pick up the laundry. I hope no one else took it out of the machine. I should go downstairs and quickly collect it. But maybe I should finish paying the invoices first. It still did not load! _Refresh!_ How stressful. And I have four long meetings tomorrow at work. I wish the weekend would arrive quickly. Oh, the laundry… Oh, an Instagram update from _her_! I haven’t heard anything from her in years, I wonder what she’s up to…

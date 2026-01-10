@@ -6,7 +6,7 @@ categories: ["personal"]
 draft: false
 math: true
 noNumbering: false
-summary: "A small subset of highlights from an eventful year, including graduating with my PhD, learning to assemble furniture, and adventures in the mountains."
+summary: "A small subset of highlights and personal milestones from an eventful year, including graduating with my PhD, moving into a new home, learning to assemble furniture, and adventures in the mountains. These selected moments represent a fraction of a year filled with countless new experiences, emotions, and memories."
 ---
 
 The last year was remarkably eventful and significant, both personally and professionally. It was marked by some finishing lines and goalposts that were clearly and publicly marked out, and some that were more more implicit, inner, and personal. A small subset of highlights that I wanted to write about follow below!

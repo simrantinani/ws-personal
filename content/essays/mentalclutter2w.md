@@ -1,12 +1,12 @@
 ---
-title: "Thinking about mental clutter: Part 2"
+title: "Thoughts on mental clutter: Part 2"
 author: "Simran Tinani"
 date: 2024-09-01
 categories: ["mind-and-self"]
 draft: false
 math: true
 noNumbering: true
-summary: "Strategies for managing mental clutter based on reading and personal experience."
+summary: "Strategies for managing mental clutter based on reading and personal experience, in a progression from simple, practical techniques to deeper ongoing introspective work like examining hidden beliefs, detangling illogical thought patterns, and understanding the origins of emotional responses."
 ---
 
 

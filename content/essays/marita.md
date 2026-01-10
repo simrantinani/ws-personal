@@ -6,11 +6,8 @@ categories: ["personal"]
 draft: false
 math: true
 noNumbering: true
-summary: "Marita's story: An introduction to the new feathered friendship in my life."
+summary: "Marita's story: An introduction to the new feathered friendship in my life. The story of my remote adoption of Marita, a rescued egg-laying chicken living at Hof Narr Zurich. This piece celebrates this new chapter of giving back to what matters and the meaningful work of sanctuaries in providing rescued farm animals with peaceful, dignified lives."
 ---
-
-
-
 
 It feels uplifting to write about what feels like the beginning of a new chapter in my life—one that involves a bit of feathers and a lot of heart. I’ve adopted a chicken! While it’s a remote adoption, Marita, my newly adopted feathered friend, already feels like part of my family.
 
@@ -22,8 +19,8 @@ In a transformational moment, the farmers at Marita’s Hof one day recognized t
 
 
 <div style="text-align:center;">
-  <img src="/images/marita.png" width="300px" />
   <img src="/images/marita2.jpg" width="300px" />
+  <img src="/images/marita.png" width="300px" />
 </div>
 
 

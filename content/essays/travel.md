@@ -1,7 +1,7 @@
 ---
 title: "Consumerism on Steroids—Travel"
 author: "Simran Tinani"
-date: 2024-12-01
+date: 2024-01-01
 categories: ["world-and-society"]
 draft: false
 math: true
@@ -11,14 +11,20 @@ summary: "An essay on modern culture's glorification of travel as superior to ma
 
 Persons X and Y are asked for one item at the top of their bucket-list. X says, “I would love to do a world tour!” and Y says, “I would love to buy a Ferrari!”. What is your first impression of X and Y? Which one of them seems materialistic, shallow, indulgent, or status-conscious? And which one seems to value self-discovery, exploration, memories, and experiences?
 
-From living in today’s world, I have a strong hunch about the answer from a big majority of people, but I don’t have access to data, so I decided to ask my loyal friend, ChatGPT. Here’s a screenshot of my prompt and the answer.
+From living in today’s world, I have a strong hunch about the answer from a big majority of people, but I don’t have access to data, so I decided to ask my loyal friend, ChatGPT. Below is a screenshot of my prompt and the answer.
+
+
+<div style="text-align:center;">
+  <img src="/images/travel.png" width="340px" />
+</div>
+
+
+Considering that ChatGPT is trained on a multitude of data, it is fair to assume that its response aggregates somewhat to an average. Clearly, the positive opinions all swing far in the direction of X: X wants to pursue “self-discovery”, understand the world, and values experiences and memories over material possessions. On the other hand, Y is indulgent in luxury and status symbols and doesn’t care about personal growth or any of the wholesome things in life. Somehow, these statements make an implicit judgment of X as inherently good and Y as inherently bad.
 
 <div style="text-align:center;">
   <img src="/images/travel4.png" width="450px" />
 <img src="/images/travel3.png" width="450px" />
 </div>
-
-Considering that ChatGPT is trained on a multitude of data, it is fair to assume that its response aggregates somewhat to an average. Clearly, the positive opinions all swing far in the direction of X: X wants to pursue “self-discovery”, understand the world, and values experiences and memories over material possessions. On the other hand, Y is indulgent in luxury and status symbols and doesn’t care about personal growth or any of the wholesome things in life. Somehow, these statements make an implicit judgment of X as inherently good and Y as inherently bad.
 
 Through this blog post, I want to bring two things into question: one, one may conclude that based on this information, X and Y indeed possess these contrasting traits (valuing self-discovery v.s. valuing status symbols), and two, that these traits are inherently good or bad in any meaningful or consequential way.
 
@@ -47,10 +53,6 @@ In short, I do not think travelling is any less of a status symbol than a Ferrar
 ## Experience v.s. Possessions
 
 Above, I covered three common criteria for criticising Y over X. But what about the holy grail of modern day culture? What about the fact that X values experiences and exploration, while Y values possessions? Even with every other criterion being the same, even if X polluted the environment more and showed off just as much as Y, what about the fact that X still gained some invaluable experience out of it all and grew as a person and really got to know the world, and….?
-
-<div style="text-align:center;">
-  <img src="/images/travel.png" width="340px" />
-</div>
 
 
 ### Possessions bring experiences and experiences require possessions

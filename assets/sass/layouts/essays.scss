@@ -355,3 +355,36 @@ html {
     border-bottom-color: rgba(177, 98, 134, 0.8);
   }
 }
+
+.pub-entry {
+  display: flex;
+  gap: 1.5rem;
+  align-items: flex-start;
+}
+
+.pub-entry-content {
+  flex: 1;
+  min-width: 0; /* Prevents flex item from overflowing */
+}
+
+.pub-entry-image {
+  flex-shrink: 0;
+  width: 100px;  /* Made smaller */
+  height: 100px; /* Made smaller */
+  overflow: hidden;
+  border-radius: 4px;
+  margin-left: auto; /* Pushes it to the right */
+}
+
+.pub-entry-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+/* Optional: Add hover effect */
+.pub-entry:hover .pub-entry-image img {
+  transform: scale(1.05);
+  transition: transform 0.3s ease;
+}

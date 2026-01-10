@@ -1,23 +1,28 @@
 ---
 title: "Hunter-Gatherer Who? What did early humans really eat?"
 author: "Simran Tinani"
-date: 2023-02-01
+date: 2024-11-01
 categories: ["world-and-society"]
 tags: ["perceptron", "pocket-algorithm", "linear-classification", "r-programming", "machine-learning", "from-scratch"]
 draft: false
 math: true
 noNumbering: false
-summary: "An examination of large language models (LLMs) as a new paradigm in human-computer interaction, offering unprecedented flexibility in understanding human instructions."
+summary: "An essay challenging the conventional view of early humans as primarily meat-eating hunters, arguing based on scientific evidence that they were more accurately 'starchivores' who relied heavily on gathered plant foods, particularly cooked starches, for the majority of their calories and evolutionary brain development."
 ---
 
 
-“Humans are omnivores”: one of the most thrown-around statements in discussions around human nutrition and eating habits. It is a favourite, especially, among opponents of the ethical argument against consuming animals. However, what does it really mean, and what are its true implications for how we eat and live?
+**“Humans are omnivores”**: one of the most thrown-around statements in discussions around human nutrition and eating habits. It is a favourite, especially, among opponents of the ethical argument against consuming animals. However, what does it really mean, and what are its true implications for how we eat and live?
 
 ## Omnivore?
 
 Scientifically, an “omnivore” is defined as an organism that consumes a variety of food sources, including both plant and animal matter. This diet contrasts with herbivores, which primarily eat plant material, and carnivores, which primarily consume meat. In most cases, the discussion seems to end here, with this statement taken to mean that humans being omnivores automatically means that we should be eating meat and other animal products, and that changing is not required. Convenient.
 
 How much information does this definition actually give us? At first glance itself, it is so clearly overly vague: our ancestors consumed both plant and animal material, but how much of each? What percentage of their calories and nutrients came from each? How much of their time was spent on procuring each? The term “omnivore” is indeed overly broad and lacks specificity. However, almost always, thanks to social, cultural, and personal biases and wishful thinking, the meat component is given predominant importance. It is then worthwhile and crucial to examine the true evolutionary history of the human diet, for the scientific evidence tells the story not only of how our bodies work, but also of how our mental imagery, emotions, and biases propagate.
+
+<div style="text-align:center;">
+  <img src="/images/starchivore1.png" width="390px" />
+    <img src="/images/starchivore2.png" width="390px" />
+</div>
 
 ## Everyone has an opinion on human diets
 
@@ -37,7 +42,7 @@ While humans are the only species of great apes that regularly hunted, and it is
 
 While it is incorrect that these populations ate no meat at all, the question is not of whether but of the quantity. Meat is a scarce resource in nature, and despite the invention and use of tools, humans never evolved into **apex hunters.** Their primary occupation was **gathering**, and it is plausible and likely that a significant portion of their meat intake came through scavenging rather than hunting. Granted, hunting was done too, but the percentage of calories contributed through the hunting expeditions was on average very small compared to the calories from plants.
 
-### If not meat, then what? How did the brain grow?
+## If not meat, then what? How did the brain grow?
 
 The size of the human brain is one of the key factors setting us apart from the other great apes. Our brain contributes to merely 2-3 percent of our body weight but up to 25 percent of our energy requirements. In contrast, the brains of other apes constitute 8 percent of energy needs. While other apes spend about 5 hours a day chewing their food, humans spend just one to two hours eating.
 
@@ -45,11 +50,10 @@ The question then arises: if meat was not the golden factor carving out the evol
 
 The use of fire makes a difference, but its true potential is realized when combined with starchy foods like tubers and grains, whose calorie density is several folds higher than that of fruits (which are also region and season-specific) and non-starchy vegetables. **Starches** were available to early humans in the form of tubers, seeds, fruits, nuts, and wild grains. These are hard to digest raw, but While the question of whether starch-rich foods or meat served as the most critical high-energy source for our ancestors is a heated debate among academic circles, it is relatively less known among common people, who see herbivorous grazing-like feeding behaviour as the only antithesis of the meat hypothesis.
 
-![](https://simrantinani.wordpress.com/wp-content/uploads/2024/06/image-9.png?w=1024)
 
-![](https://simrantinani.wordpress.com/wp-content/uploads/2024/06/image-10.png?w=1024)
 
-### Scientific Evidence
+
+## Scientific Evidence
 
 The recent scientific research on this topic has all consistently supported the starchivore hypothesis. Some selected examples are described below.
 
@@ -79,6 +83,6 @@ So, a majority of scientific evidence points towards early humans being near the
 -   **Spoiled and Rotting Flesh**: The consumption of spoiled and rotting flesh was likely as deadly to our ancestors as it is to present-day humans. Thus, all hunted meat had to be consumed in a relatively short period of time, and could not serve as a long-term source of calories.
 -   **Availability and distribution**: Early humans lived in close-knit bands and tribes which likely comprised hundreds of people. When a band or tribe did manage to hunt down and animal for food, they had to distribute the flesh among tens, even hundreds of other people. The quantity that remained for consumption by a single person was therefore a very small part of their overall diet.
 
-### Conclusion
+## Conclusion
 
 In this first part of the article, I argued against the popular projection of early humans as primarily hunters and the downplay of the more important part of their activities, gathering. The scientific evidence points to a diet heavily reliant on plant-based foods, with a heavy emphasis on starches (cooked with fire) for calories, making the term “starchivore” a more accurate descriptor. Understanding this aspect of early human life not only enriches our knowledge of human evolution but also sheds light on the nutritional strategies that have shaped our species, and gives us important insights on where we are going wrong in structuring our diets today. In the next part, I will describe and discuss the scientific findings in more rigorous detail, and talk more about the implications for the human diet in 2024.

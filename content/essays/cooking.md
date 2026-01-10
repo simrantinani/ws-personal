@@ -6,7 +6,7 @@ categories: ["personal"]
 draft: false
 math: true
 noNumbering: false
-summary: "A few successful results and recipes from many experiments in the kitchen."
+summary: "A few successful results and recipes from many experiments in the kitchen as a non-chef who favors shortcuts, healthy ingredients, fusion of cuisines, and intuitive cooking over strict recipe adherence."
 ---
 
 I have never called myself a chef. I don’t enjoy spending hours in the kitchen or making complicated, pretty dishes that require a ton of preparation and after-cleaning. I almost never follow recipes to the T: I usually look for shortcuts or ways to make them healthier. I don’t follow cuisine-specific rules, and mix and match ingredients that I think would taste good together.

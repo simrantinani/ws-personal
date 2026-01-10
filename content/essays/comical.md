@@ -6,7 +6,7 @@ categories: ["personal"]
 draft: false
 math: true
 noNumbering: false
-summary: "Rediscovering a childhood favourite comic and reflecting on simple, silly delight and joy."
+summary: "Rediscovering a childhood favourite comic and reflecting on simple, silly delight and joy. A reflection on how adults have traded the spontaneous, guiltless laughter of childhood for guarded, conditional amusement that demands complexity and intellectual merit, and affirmation that the ability to reclaim simple, thoughtless joy still exists within us."
 ---
 
 Today, I spent a while remembering my favourite childhood comic. Tickled by the numerous happy memories attached to “Tinkle”, I made this drawing to recreate the light-hearted craziness of Suppandi that delighted me as a child. It’s hard to forget Suppandi, the lovable simpleton who was always creating trouble, yet blissfully unaware of his own buffoonery.

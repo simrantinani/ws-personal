@@ -6,7 +6,7 @@ categories: ["personal"]
 draft: false
 math: true
 noNumbering: false
-summary: "A first heartfelt entry in German, celebrating 5 years spent abroad and reflecting on what makes a place feel like home."
+summary: "A first heartfelt entry in German, celebrating 5 years spent abroad in Switzerland, and reflecting on what makes a place feel like home. It tries to capture the slow, almost imperceptible process of a foreign place becoming familiar through small moments, and how certain sensations can bridge thousands of kilometers in an instant. "
 ---
 
 Im Oktober 2024 (fast 4 Monate früher… wie die Zeit fliegt, wenn man etwas machen möchte…) habe ich angefangen, diesen Artikel zu schreiben. Es ist wahrscheinlich erst das dritte Mal, dass ich etwas selbst auf Deutsch schreibe, das nicht für die Arbeit ist, und das erste Mal, wenn ich etwas so Persönliches schreibe.
