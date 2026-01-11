@@ -12,7 +12,7 @@
   
   h1 {
     font-family: "Lora", serif;
-    font-size: 2.5rem;
+    font-size: 1.5rem !important;
     font-weight: 600;
     color: #2c2c2c;
     margin-bottom: 0rem;
@@ -31,10 +31,10 @@
 .essays .category-scroll-nav {
   display: flex;
   flex-wrap: wrap;
-  gap: 1.5rem;
+  gap: 1.1rem;
   justify-content: center;
-  padding: 1.2rem 2rem;
-  margin: -2rem auto 0rem;
+  padding: 0.4rem 0.4rem;
+  margin: -2.4rem auto 0rem;
   max-width: 1280px;
   background: linear-gradient(to bottom, #fefafc, #fff);
   background-color: rgba(177, 98, 134, 0.06);
@@ -51,10 +51,10 @@
   align-items: center;
   gap: 0.5rem;
   margin: 0.0rem auto 0rem;
-  padding: 0.6rem 0.99rem;
+  padding: 0.4rem 0.99rem;
   font-family: "Lora", serif;
-  font-size: 0.95rem;
-  font-weight: 500;
+  font-size: 0.75rem;
+  font-weight: 400;
   text-decoration: none;
   border-radius: 20px;
   transition: all 0.2s ease;
@@ -217,7 +217,6 @@
 
 .essay-card-title {
   font-family: "Lora", serif;
-  font-size: 1.35rem;
   font-weight: 600;
   color: #2c2c2c;
   margin: 0;
@@ -249,7 +248,7 @@
 
 .essay-card-excerpt {
   font-family: "Lora", serif;
-  font-size: 0.95rem;
+  font-size: 0.65rem;
   color: #555;
   line-height: 1.6;
   margin: 0;
@@ -267,40 +266,11 @@
   padding: 3rem 0;
 }
 
-/* ===== RESPONSIVE ===== */
-
-@media (max-width: 768px) {
-  .essays-page {
-    padding: 1.5rem 1rem;
+.pub-section-title {
+    font-size: 1.2rem !important;
   }
 
-  .essays-header h1 {
-    font-size: 2rem;
-  }
 
-  .essays .category-scroll-nav {
-    padding: 1rem 1rem;
-    gap: 0.6rem;
-  }
-
-  .essays .category-scroll-nav a {
-    font-size: 0.88rem;
-    padding: 0.25rem 1rem;
-  }
-
-  .essays-grid {
-    grid-template-columns: 1fr;
-    gap: 1.5rem;
-  }
-
-  .essay-card-content {
-    padding: 1.25rem;
-  }
-
-  .essay-card-title {
-    font-size: 1.2rem;
-  }
-}
 
 /* ===== ELEGANT UNDERLINE FOR ESSAY TITLES ===== */
 
@@ -308,6 +278,7 @@
   position: relative;
   text-decoration: none !important;
   color: #2c2c2c !important;
+  font-size: 1rem;
   display: inline-block;
   border-bottom: 1.5px solid rgba(177, 98, 134, 0.3) !important;
   transition: all 0.3s ease;
@@ -324,11 +295,10 @@
   text-decoration: underline;
 }
 
-@media (min-width: 1400px) {
-  .essays-grid {
-    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  .essay-card-title {
+    font-size: 1.2rem !important;
   }
-}
+
 
 /* ===== SCROLL BEHAVIOR ===== */
 
@@ -360,6 +330,7 @@ html {
   display: flex;
   gap: 1.5rem;
   align-items: flex-start;
+  font-size: 0.9rem;
 }
 
 .pub-entry-content {
@@ -387,4 +358,397 @@ html {
 .pub-entry:hover .pub-entry-image img {
   transform: scale(1.05);
   transition: transform 0.3s ease;
+}
+
+
+
+/* ===== RESPONSIVE ===== */
+
+/* ===== RESPONSIVE MEDIA QUERIES ===== */
+
+/* Very small phones (up to 480px) */
+@media (max-width: 480px) {
+  .essays-page {
+    padding: 1rem 0.75rem;
+  }
+
+  .essays-header h1 {
+    font-size: 1.75rem !important;
+    margin-bottom: 0.5rem;
+  }
+
+  .essays-subhead {
+    font-size: 0.95rem;
+    padding: 0 0.5rem;
+  }
+
+  .essays .category-scroll-nav {
+    padding: 0.8rem 0.5rem;
+    gap: 0.5rem;
+    margin: -2rem auto 0rem;
+  }
+
+  .essays .category-scroll-nav a {
+    font-size: 0.8rem;
+    padding: 0.35rem 0.8rem;
+  }
+
+  .essays .category-scroll-nav .nav-icon {
+    font-size: 0.9rem;
+  }
+
+  .essays-grid {
+    grid-template-columns: 1fr;
+    gap: 1.25rem;
+    margin-top: 0.75rem;
+  }
+
+  .essay-card-content {
+    padding: 1rem;
+    gap: 0.6rem;
+  }
+
+  .essay-card-title {
+    font-size: 1.05rem !important;
+  }
+
+  .essay-card-excerpt {
+    font-size: 0.85rem;
+  }
+
+  .essay-card-date {
+    font-size: 0.8rem;
+    padding: 0.2rem 0.6rem;
+  }
+
+  .pub-section-title {
+    font-size: 1.1rem !important;
+  }
+
+  .pub-entry {
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .pub-entry-image {
+    width: 100%;
+    height: 180px;
+    margin-left: 0;
+  }
+}
+
+/* Standard phones (481px to 768px) */
+@media (min-width: 481px) and (max-width: 768px) {
+  .essays-page {
+    padding: 1.5rem 1rem;
+  }
+
+  .essays-header h1 {
+    font-size: 2rem !important;
+  }
+
+  .essays-subhead {
+    font-size: 1rem;
+  }
+
+  .essays .category-scroll-nav {
+    padding: 1rem;
+    gap: 0.7rem;
+  }
+
+  .essays .category-scroll-nav a {
+    font-size: 0.85rem;
+    padding: 0.4rem 1rem;
+  }
+
+  .essays-grid {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+
+  .essay-card-content {
+    padding: 1.25rem;
+  }
+
+  .essay-card-title {
+    font-size: 1.15rem !important;
+  }
+
+  .pub-entry-image {
+    width: 120px;
+    height: 120px;
+  }
+}
+
+/* Tablets (769px to 1024px) */
+@media (min-width: 769px) and (max-width: 1024px) {
+  .essays-page {
+    padding: 2rem 1.5rem;
+  }
+
+  .essays-header h1 {
+    font-size: 2.3rem !important;
+  }
+
+  .essays .category-scroll-nav {
+    padding: 1.2rem;
+    gap: 0.9rem;
+  }
+
+  .essays .category-scroll-nav a {
+    font-size: 0.88rem;
+    padding: 0.45rem 1.1rem;
+  }
+
+  .essays-grid {
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 1.75rem;
+  }
+
+  .essay-card-content {
+    padding: 1.35rem;
+  }
+
+  .pub-entry-image {
+    width: 110px;
+    height: 110px;
+  }
+}
+
+/* Standard desktops (1025px to 1399px) */
+@media (min-width: 1025px) and (max-width: 1399px) {
+  .essays-page {
+    padding: 2rem 1.5rem;
+  }
+
+  .essays-grid {
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 2rem;
+  }
+
+  .essay-card-content {
+    padding: 1.5rem;
+  }
+}
+
+/* Large screens (1400px to 1919px) */
+@media (min-width: 1400px) and (max-width: 1919px) {
+  .essays-page {
+    max-width: 1200px;
+    padding: 2.5rem 2rem;
+  }
+
+  .essays-header h1 {
+    font-size: 2.75rem !important;
+  }
+
+  .essays-subhead {
+    font-size: 1.1rem;
+  }
+
+  .essays .category-scroll-nav {
+    padding: 1.3rem 1.5rem;
+    gap: 1.2rem;
+    max-width: 1200px;
+  }
+
+  .essays .category-scroll-nav a {
+    font-size: 10.95rem;
+    padding: 0.5rem 1.2rem;
+  }
+
+  .essays-grid {
+    grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+    gap: 12.25rem;
+  }
+
+  .essay-card-content {
+    padding: 11.75rem;
+  }
+
+  .essay-card-title {
+    font-size: 11.3rem !important;
+  }
+
+  .essay-card-excerpt {
+    font-size: 10.95rem !important;
+  }
+
+  .pub-section-title {
+    font-size: 11.35rem !important;
+  }
+
+  .pub-entry {
+    font-size: 11.25rem !important;
+  }
+
+  .pub-entry-image {
+    width: 120px;
+    height: 120px;
+  }
+}
+
+/* Ultra-wide screens (1920px+) */
+@media (min-width: 1920px) {
+  .essays-page {
+    max-width: 1400px;
+    padding: 3rem 2.5rem;
+  }
+
+  .essays-header h1 {
+    font-size: 13rem !important;
+    margin-bottom: 1rem;
+  }
+
+  .essays-subhead {
+    font-size: 11.15rem;
+  }
+
+  .essays .category-scroll-nav {
+    padding: 1.5rem 2rem;
+    gap: 1.4rem;
+    max-width: 1400px;
+  }
+
+  .essays .category-scroll-nav a {
+    font-size: 1rem;
+    padding: 0.55rem 1.4rem;
+  }
+
+  .essays .category-scroll-nav .nav-icon {
+    font-size: 1.15rem;
+  }
+
+  .essays-grid {
+    grid-template-columns: repeat(auto-fill, minmax(380px, 1fr));
+    gap: 2.5rem;
+  }
+
+  .essay-card-content {
+    padding: 2rem;
+    gap: 1rem;
+  }
+
+  .essay-card-title {
+    font-size: 4.4rem !important;
+  }
+
+  .essay-card-excerpt {
+    font-size: 1.9rem !important;
+    line-height: 1.7;
+  }
+
+  .essay-card-date {
+    font-size: 0.95rem;
+  }
+
+  .pub-section-title {
+    font-size: 1.45rem !important;
+  }
+
+  .pub-entry {
+    font-size: 1.2rem !important;
+    gap: 2rem;
+  }
+
+  .pub-entry-image {
+    width: 140px;
+    height: 140px;
+  }
+}
+
+/* Landscape phones */
+@media (max-height: 500px) and (orientation: landscape) {
+  .essays-header h1 {
+    font-size: 1.75rem !important;
+    margin-bottom: 0.5rem;
+  }
+
+  .essays .category-scroll-nav {
+    padding: 0.6rem;
+    gap: 0.5rem;
+  }
+
+  .essays .category-scroll-nav a {
+    padding: 0.3rem 0.8rem;
+    font-size: 0.8rem;
+  }
+}
+
+
+/* ===== ELEGANT UNDERLINE FOR ESSAY TITLES ===== */
+
+.pub-section a.pub-title {
+  position: relative;
+  text-decoration: none !important;
+  color: #2c2c2c !important;
+  font-size: 1rem;
+  display: inline-block;
+  border-bottom: 1.5px solid rgba(177, 98, 134, 0.3);
+  transition: all 0.3s ease;
+  
+  &:hover {
+    color: #b16286 !important;
+    border-bottom-color: rgba(177, 98, 134, 0.8);
+  }
+}
+
+/* ===== RESPONSIVE TITLE SIZES ===== */
+
+/* Very small phones (up to 480px) */
+@media (max-width: 480px) {
+  .pub-section a.pub-title {
+    font-size: 0.95rem;
+    line-height: 1.4;
+  }
+}
+
+/* Standard phones (481px to 768px) */
+@media (min-width: 481px) and (max-width: 768px) {
+  .pub-section a.pub-title {
+    font-size: 1rem;
+    line-height: 1.4;
+  }
+}
+
+/* Tablets (769px to 1024px) */
+@media (min-width: 769px) and (max-width: 1024px) {
+  .pub-section a.pub-title {
+    font-size: 1.05rem;
+    line-height: 1.4;
+  }
+}
+
+/* Standard desktops (1025px to 1399px) */
+@media (min-width: 1025px) and (max-width: 1399px) {
+  .pub-section a.pub-title {
+    font-size: 1.08rem;
+    line-height: 1.4;
+  }
+}
+
+/* Large screens (1400px to 1919px) */
+@media (min-width: 1400px) and (max-width: 1919px) {
+  .pub-section a.pub-title {
+    font-size: 1.15rem;
+    line-height: 1.4;
+  }
+}
+
+/* Ultra-wide screens (1920px+) */
+@media (min-width: 1920px) {
+    .pub-section .pub-entry a.pub-title {
+  position: relative;
+  text-decoration: none !important;
+  color: #2c2c2c !important;
+  font-size: 1.2rem;
+  display: inline-block;
+  border-bottom: 1.5px solid rgba(177, 98, 134, 0.3) !important;
+  transition: all 0.3s ease;
+  
+  &:hover {
+    color: #b16286 !important;
+    border-bottom-color: rgba(177, 98, 134, 0.8) !important;
+  }
+}
 }

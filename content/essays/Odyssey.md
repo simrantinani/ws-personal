@@ -7,7 +7,7 @@ tags: ["perceptron", "pocket-algorithm", "linear-classification", "r-programming
 draft: false
 math: true
 noNumbering: false
-summary: "I happened to pick up this classic at a book store, and read it without knowing much about Homer. The most striking thing about it is its ability to tell so complex and intermingled a story, with fantastic events and creatures, tragedy, suspense, and a medley of human states, all in the form of aesthetic poetry. This article is my brief set of comments on it."
+summary: " The most striking thing about this piece is its ability to tell so complex and intermingled a story, with fantastic events and creatures, tragedy, suspense, and a medley of human states, all in the form of aesthetic poetry. This article is my brief set of comments on it."
 ---
 
 I happened to pick up this classic at a book store, and read it without knowing much about Homer, or that this was, in fact, a sequel to Illiad. I later found out that the significance of this magnificent poem: it is the second-oldest extant work of Western literature, with Illiad being the first. As old, mystical and different to modern literature The Odyssey is, it is an enrapturing read with events, circumstances, and human emotions that are in no way unrelatable to. In fact, the adversities faced by each of the protagonists, and their reactions to these, may easily find counterparts in modern human life.

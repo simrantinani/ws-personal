@@ -6,7 +6,7 @@ categories: ["world-and-society"]
 draft: false
 math: true
 noNumbering: false
-summary: "An essay based on a presentation I made for my German language course exam and on my reading of the German translation of a book on Esther the Wonder Pig and her adoptive parents. A moving story on how one pig's colourful personality inspired millions to reconsider their treatment of farm animals and became a powerful case for veganism and animal welfare."
+summary: "An essay based on a presentation I made for my German language course exam and on my reading of the German translation of a book on Esther the Wonder Pig and her adoptive parents. A moving story on how one pig's colourful personality inspired millions to reconsider their treatment of farm animals."
 ---
 
 My latest language course had an open-ended theme for the presentation to be evaluated as the final exam. I chose to use the opportunity to read a new book, [_Esther, das Wunderschwein_](https://www.orellfuessli.ch/shop/home/artikeldetails/A1039481880) (German translation of _[Esther the Wonder Pig](https://www.goodreads.com/book/show/30334928)_) and speak about it during my 5-minute [<u>_presentation_</u>](https://drive.google.com/file/d/1jitCEDcW8KaeAhTHort390Z1L56u-cMl/view?usp=drive_link).

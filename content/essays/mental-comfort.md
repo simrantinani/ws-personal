@@ -6,7 +6,7 @@ categories: ["mind-and-self"]
 draft: false
 math: true
 noNumbering: true
-summary: "Some reflections on cultivating mental comfort and resisting everday and long-term emotional distress. Six key strategies for achieving mental peace by shifting away from common sources of emotional discomfort like rushing and perfectionism.."
+summary: "Some reflections on cultivating mental comfort and resisting everday and long-term emotional distress. Six key strategies for achieving mental peace by shifting away from common sources of emotional discomfort like rushing and perfectionism."
 ---
 
 What strategies do you use to increase comfort in your daily life?

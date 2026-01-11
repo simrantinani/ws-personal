@@ -6,7 +6,7 @@ categories: ["world-and-society"]
 draft: false
 math: true
 noNumbering: false
-summary: "This essay examines how anthropocentric biases in science, such as subjective beliefs, cultural norms, and material interests have shaped our understanding of nonhuman animals, paralleling historical biases against marginalized human groups, introdues the emerging fields of Animal Studies and Critical Animal Studies that challenge these human-centered perspectives."
+summary: "An essay that examines the anthropocentric biases, subjective beliefs, cultural norms, and material interests in science have shaped our understanding of nonhuman animals, paralleling historical biases against marginalized humans, and introdues the emerging fields of Animal Studies and Critical Animal Studies."
 ---
 
 

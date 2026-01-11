@@ -1,0 +1,238 @@
+/* Home page card layout */
+.home .home-section-card {
+  max-width: 1280px;
+  margin: 0rem auto;
+  padding: 0.8rem 1.5rem 1rem;
+  background: linear-gradient(to bottom, #fefafc, #fff);
+  background-color: rgba(177, 98, 134, 0.06);
+  border-left: 4px solid rgba(177, 98, 134, 0.25);
+  border-radius: 18px 18px 12px 12px;
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.03);
+}
+
+/* Main content */
+.home .home-content {
+  font-size: 1rem;
+  line-height: 1.1;
+  color: #2b2b2b;
+  font-family: "Lora", serif;
+}
+
+/* Paragraphs */
+.home .home-content p {
+  margin-bottom: 1.1rem;
+  line-height: 1.7;
+}
+
+/* Lists */
+.home .home-content ul {
+  list-style: none;
+  padding-left: 1.2rem;
+  margin-top: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.home .home-content ul li {
+  position: relative;
+  margin-bottom: 0.4rem;
+  padding-left: 1.2rem;
+  font-size: 0.96rem;
+}
+
+.home .home-content ul li::before {
+  content: "➝";
+  position: absolute;
+  left: 0;
+  color: #8c4d67;
+  font-weight: bold;
+}
+
+/* Links */
+.home .home-content a {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  color: inherit;
+}
+
+.home .home-content a:hover {
+  color: #b16286;
+}
+
+/* Fix double underline on headers with links */
+.home .home-content h3 a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* Refined section headings */
+.home .home-content h3 {
+  font-family: "Lora", serif;
+  font-size: 1.3rem;
+  font-weight: 600;
+  color: #2c2c2c;
+  border-bottom: 1px solid #e3d4db;
+  padding-bottom: 0.2rem;
+  margin-top: 2.2rem;
+  margin-bottom: 1rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+/* Contact block */
+.icon-links.vertical {
+  display: flex;
+  flex-direction: column;
+  gap: 0.7rem;
+  padding-top: 0.2rem;
+  margin-top: 0;
+  border-top: none !important;
+}
+
+.icon-links.vertical a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 1.9rem;
+  text-decoration: none;
+  color: #2b2b2b;
+  transition: color 0.2s ease;
+}
+
+.icon-links.vertical a:hover {
+  color: #b16286;
+}
+
+.icon-links.vertical i {
+  font-size: 1.4rem;
+  opacity: 0.8;
+}
+
+.home .home-content ul {
+  list-style: none;
+  padding-left: 0;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+
+
+
+
+/* Link inside bullets */
+.home .home-content ul {
+  list-style: none;
+  padding-left: 0;
+  margin-top: 0.9rem;
+  margin-bottom: 1rem;
+  display: grid;
+  gap: 0.8rem;
+}
+
+.home .home-content ul li {
+  position: relative;
+  padding: 0.4rem 1.4rem 0.4rem 3rem;  /* ← Changed from 3rem to 3.5rem */
+  font-size: 1rem;
+  line-height: 1.85rem;
+  background: linear-gradient(to right, rgba(245, 223, 232, 0.3), rgba(254, 250, 252, 0.6));
+  border-left: 4px solid rgba(177, 98, 134, 0.4);
+    border-bottom: 2px solid rgba(177, 98, 134, 0.15);  /* ← Added bottom border */
+  border-radius: 8px;
+  box-shadow: 0 1px 3px rgba(177, 98, 134, 0.06);
+  transition: all 0.25s ease;
+}
+
+.home .home-content ul li:hover {
+  background: linear-gradient(to right, rgba(245, 223, 232, 0.5), rgba(254, 250, 252, 0.8));
+  border-left-color: #b16286;
+  box-shadow: 0 2px 6px rgba(177, 98, 134, 0.12);
+  transform: translateX(2px);
+}
+
+.home .home-content ul li::before {
+  content: "◆";
+  position: absolute;
+  left: 0.9rem;
+  top: 50%;
+  transform: translateY(-50%);  /* ← Centers it vertically */
+  font-size: 1.25rem;
+  color: #b16286;
+  opacity: 0.8;
+}
+
+.home .home-content ul li a {
+  text-decoration: none;
+  color: #2b2b2b;
+  font-weight: 500;
+  line-height: 0.6;
+  transition: color 0.2s ease;
+  display: inline;
+}
+
+.home .home-content ul li a:hover {
+  color: #b16286;
+}
+
+/* Mobile: phones (up to 768px) */
+@media (max-width: 768px) {
+  .home .home-section-card {
+    padding: 0.6rem 1rem 0.8rem;
+    margin: 0 0.5rem;
+  }
+
+  .home .home-content ul li {
+    padding: 0.5rem 1rem 0.5rem 2.2rem;  /* Reduced left padding */
+    font-size: 0.95rem;
+    line-height: 1.6rem;
+  }
+
+  .home .home-content ul li::before {
+    left: 0.7rem;  /* Move diamond closer */
+    font-size: 1rem;  /* Smaller diamond */
+  }
+
+  .home .home-content h3 {
+    font-size: 1.15rem;
+  }
+}
+
+/* Very small phones (up to 480px) */
+@media (max-width: 480px) {
+  .home .home-content ul li {
+    padding: 0.5rem 0.8rem 0.5rem 2rem;
+  }
+
+  .home .home-content ul li::before {
+    left: 0.6rem;
+    font-size: 0.9rem;
+  }
+}
+
+/* Large screens (1400px+) */
+@media (min-width: 1400px) {
+  .home .home-section-card {
+    max-width: 1100px;  /* Slightly narrower for better readability */
+    padding: 1rem 2rem 1.2rem;
+  }
+
+  .home .home-content ul li {
+    font-size: 1.05rem;  /* Slightly larger text */
+    padding: 0.5rem 1.6rem 0.5rem 3.2rem;
+  }
+}
+
+/* Extra large screens (1920px+) */
+@media (min-width: 1920px) {
+  .home .home-section-card {
+    max-width: 1200px;  /* Keep content centered and readable */
+    margin: 0 auto;
+  }
+
+  .home .home-content {
+    font-size: 1.08rem;  /* Bump up base font */
+  }
+
+  .home .home-content ul li {
+    font-size: 1.08rem;
+  }
+}
