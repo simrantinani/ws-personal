@@ -7,10 +7,47 @@ noNumbering: false
 ---
 
 
-A personally curated directory of organizations and resources I've come across in the animal welfare space that seem to be doing interesting, high-impact work. Most organizations in this directory emphasize evidence-based approaches with rigorous research, data-driven decision-making, and measurable outcomes to maximize impact per dollar spent.  
+A personally curated directory of organizations and resources I've come across in the animal welfare space that seem to be doing important, high-impact work. Most organizations in this directory emphasize evidence-based approaches with rigorous research, data-driven decision-making, and measurable outcomes to maximize impact per dollar spent.  
 
-**Important caveats:** This is just a subset of what I've encountered, and is not based on comprehensive research. I've likely missed many excellent organizations, don't know everything about the ones listed here, and am not affiliated with or personally vouching for any of them. This directory is based on publicly available information as of January 2026. Organizations evolve rapidly, so visit their websites for current information about programs, impact, and funding needs. Use this as a starting point for your own research, not as definitive recommendations.
+**Important caveats:** This is just a subset of what I've encountered, and is not based on comprehensive research. I've likely missed many excellent organizations, don't know everything about the ones listed here, and am not affiliated with or personally vouching for any of them.  This directory is based on publicly available information as of January 2026. Organizations evolve rapidly, so visit their websites for current information about programs, impact, and funding needs. Use this as a starting point for your own research, not as definitive recommendations. Further, this directory does not have much material on individual change.....
 
+## A Starting Point
+
+### Understand the Problem
+
+Every year, humans kill more animals for food, clothing, and entertainment than the total number of humans who have ever existed—most in conditions of extreme confinement and suffering. Many philosophers, ethicists, and researchers have argued that animal exploitation represents one of the most severe and most neglected moral crises in human history.
+Animal exploitation affects trillions of individuals annually across multiple industries. In <a href="https://80000hours.org/problem-profiles/factory-farming/" target="_blank" rel="noopener noreferrer"><u>food production</u></a>, approximately <a href="https://animalclock.org/" target="_blank" rel="noopener noreferrer"><u>9 billion chickens</u></a>, <a href="https://www.statista.com/statistics/194382/number-of-hogs-slaughtered-in-the-us-since-2000/" target="_blank" rel="noopener noreferrer"><u>128 million pigs</u></a>, and <a href="https://awionline.org/content/farm-animals-at-slaughter" target="_blank" rel="noopener noreferrer"><u>36 million cattle</u></a> are killed yearly in the US alone, with <a href="https://fishcount.org.uk/fish-count-estimates-2" target="_blank" rel="noopener noreferrer"><u>1–3 trillion fish</u></a> caught from oceans and <a href="https://www.fishwelfareinitiative.org/" target="_blank" rel="noopener noreferrer"><u>100+ billion farmed in aquaculture</u></a>. The <a href="https://animalequality.org/issues/dairy/" target="_blank" rel="noopener noreferrer"><u>dairy industry</u></a> involves repeated forced impregnation and calf separation, while <a href="https://animalequality.org/campaign/stop-killing-chicks/" target="_blank" rel="noopener noreferrer"><u>7 billion male chicks globally</u></a> are killed annually in <a href="https://openwingalliance.org/" target="_blank" rel="noopener noreferrer"><u>egg production</u></a>. Beyond food, animals suffer in clothing production (<a href="https://www.four-paws.org/campaigns-topics/topics/fur" target="_blank" rel="noopener noreferrer"><u>fur</u></a>, <a href="https://www.peta.org/issues/animals-used-for-clothing/exotic-skins/" target="_blank" rel="noopener noreferrer"><u>leather</u></a>, <a href="https://www.four-paws.org/campaigns-topics/topics/wool" target="_blank" rel="noopener noreferrer"><u>wool</u></a>, <a href="https://www.peta.org/issues/animals-used-for-clothing/down/" target="_blank" rel="noopener noreferrer"><u>down</u></a>), <a href="https://www.bornfree.org.uk/zoo-inquiry" target="_blank" rel="noopener noreferrer"><u>entertainment</u></a> (<a href="https://www.youtube.com/watch?v=fLOeH-Oq_1Y" target="_blank" rel="noopener noreferrer"><u>marine parks</u></a>, <a href="https://www.ad-international.org/animals-in-entertainment/go/circuses/" target="_blank" rel="noopener noreferrer"><u>circuses</u></a>), <a href="https://horseracingwrongs.org/" target="_blank" rel="noopener noreferrer"><u>sport</u></a> (<a href="https://www.grey2kusa.org/" target="_blank" rel="noopener noreferrer"><u>racing</u></a>, <a href="https://sharkonline.org/rodeos/" target="_blank" rel="noopener noreferrer"><u>rodeos</u></a>), and <a href="https://crueltyfreeinternational.org/about-animal-testing" target="_blank" rel="noopener noreferrer"><u>animal testing</u></a> (<a href="https://www.pcrm.org/ethical-science/alternatives-to-animal-testing" target="_blank" rel="noopener noreferrer"><u>100+ million annually</u></a>). The <a href="https://www.worldanimalprotection.org/our-work/animals-wild/wildlife-not-entertainers" target="_blank" rel="noopener noreferrer"><u>exotic pet trade</u></a> and <a href="https://www.bornfree.org.uk/wildlife-trade" target="_blank" rel="noopener noreferrer"><u>wildlife trafficking</u></a> add millions more victims.
+For comprehensive overviews, see <a href="https://faunalytics.org/animal-product-impact-scales/" target="_blank" rel="noopener noreferrer"><u>Faunalytics' research library</u></a> and <a href="https://www.sentienceinstitute.org/us-factory-farming-estimates" target="_blank" rel="noopener noreferrer"><u>Sentience Institute's data</u></a>. Also see <a href="https://80000hours.org/problem-profiles/factory-farming/" target="_blank" rel="noopener noreferrer"><u><b>80,000 Hours: Factory Farming Problem Profile</b></u></a>, the most comprehensive introduction to factory farming as a global problem, which covers the scale of suffering, why the issue is neglected, and the most promising approaches to making progress.
+
+### Paths to Impact
+
+Individuals can help animals in many ways, including changing their diets and lifestyles to eliminate or reduce animal products, donating to animal welfare organizations, choosing advocacy-focused careers, and volunteering their free time and skills. 
+
+Some advocates emphasize individual behavior change as a way to express moral consistency and influence social norms. Others prioritize institutional strategies such as welfare reforms, <a href="https://animalcharityevaluators.org/better-for-animals/" target="_blank" rel="noopener noreferrer"><u>corporate campaigns</u></a>, and reduced-consumption messaging, arguing that these approaches can produce large, measurable, and cost-effective improvements for animals in the near term. Some organizations focus on reducing the greatest amount of suffering per unit of effort by considering <a href="https://animalcharityevaluators.org/charity-reviews/causes-we-consider/why-farmed-animals/" target="_blank" rel="noopener noreferrer"><u>scale, neglectedness, and tractability</u></a>. On this view, institutional interventions such as corporate policy shifts can affect large populations of animals at once. 
+
+### Where to Donate
+
+If you want to donate but aren't sure where, these options maximize your impact:
+
+**<a href="https://animalcharityevaluators.org/donation-advice/recommended-charity-fund/" target="_blank" rel="noopener noreferrer">ACE Recommended Charity Fund</a>**
+Your donation is distributed among ACE's 10 recommended charities—organizations rigorously evaluated for cost-effectiveness and impact. Good for donors who want expert allocation without researching individual charities.
+
+**<a href="https://funds.effectivealtruism.org/funds/animal-welfare" target="_blank" rel="noopener noreferrer">EA Animal Welfare Fund</a>**
+A grantmaking fund that identifies high-impact opportunities worldwide, including early-stage projects and neglected areas that individual donors might miss. Has distributed $23+ million since 2017.
+
+**<a href="https://www.givingwhatwecan.org/cause-areas/animal-welfare" target="_blank" rel="noopener noreferrer">Giving What We Can: Animal Welfare</a>**
+Overview of effective giving for animals, with fund recommendations and information about taking the 10% Pledge to donate effectively throughout your life.
+
+### Volunteer Opportunities
+
+**<a href="https://thehumaneleague.org/fast-action-network" target="_blank" rel="noopener noreferrer">The Humane League's Fast Action Network</a>**
+Take quick online actions (emails, social media, petitions) supporting corporate campaigns. Takes just minutes per action and contributes to campaigns that have secured thousands of corporate commitments.
+
+**<a href="https://mercyforanimals.org/action-center/" target="_blank" rel="noopener noreferrer">Mercy For Animals Action Center</a>**
+Similar to THL's network—quick digital actions supporting corporate and legislative campaigns.
+
+**<a href="https://animalcharityevaluators.org/advocacy-advice/volunteer-effectively/" target="_blank" rel="noopener noreferrer">ACE: Volunteer Effectively</a>**
+Guide to finding high-impact volunteer opportunities, with recommendations for which organizations and activities are most effective.
 
 
 ## Research & Evaluation Organizations
@@ -172,6 +209,21 @@ Comprehensive guide helping donors identify high-impact opportunities to support
 
 ### <a href="https://80000hours.org/problem-profiles/factory-farming/" target="_blank" rel="noopener noreferrer">80,000 Hours: Factory Farming Problem Profile</a>
 
+**Follow Key Research Organizations**:
+- Rethink Priorities: Animal welfare research
+- Welfare Footprint Project: Quantifying animal suffering
+- Animal Ask: Prioritizing interventions
+- Faunalytics: Behavioral and effectiveness research
+
+**Academic Journals**:
+- Animals (Open Access)
+- Animal Sentience
+- Journal of Applied Animal Welfare Science
+- Animal Welfare
+**EA Forum Animal Welfare Tag**  
+Ongoing discussions and analyses of effective animal advocacy strategies.
+- [EA Forum: Animal Welfare](https://forum.effectivealtruism.org/tag/animal-welfare)
+
 An in-depth analysis of factory farming as a global problem, including scale, neglectedness, and tractability. 80,000 Hours provides career advice for people who want to have a positive impact, and their factory farming profile offers an excellent introduction to why this cause area matters and what high-impact career paths are available.
 
 
@@ -217,3 +269,43 @@ A 20-minute academic podcast covering animals and ethics, animals and the law, a
 
 - **<a href="https://open.spotify.com/show/28Lko9aXhMl3l1T6GNxtvi" target="_blank" rel="noopener noreferrer">Hope for the Animals</a>**
 Longtime advocate Hope Bohanec covers farmed animal issues including ethics, environment, and effective outreach. Engaging conversations with guests on topics from the "humane hoax" to speciesism. A project of Compassionate Living.
+
+
+## 5d. Effective Communication & Advocacy Skills
+
+How you communicate about animal welfare significantly impacts your effectiveness. Evidence-based communication strategies help you reach more people, avoid common pitfalls, and maintain relationships.
+
+### Training & Skill Development
+
+**CEVA (Center for Effective Vegan Advocacy)**  
+Offers workshops and resources on effective communication based on social psychology research.
+- [Vegan Advocacy Initiative (formerly CEVA)](https://www.vegadvocacy.org/)
+
+**Vegan Strategist**  
+Tobias Leenaert's work on pragmatic, strategic approaches to vegan advocacy.
+- [Vegan Strategist](https://veganstrategist.org/)
+- Book: "How to Create a Vegan World: A Pragmatic Approach"
+
+**Faunalytics Research**  
+Evidence-based insights on effective messaging and outreach.
+- [Faunalytics: Advocacy Resources](https://faunalytics.org/category/advocacy-resources/)
+
+
+### Resources for Advocate Wellbeing
+
+**Vegan Psychologist**  
+Dr. Clare Mann specializes in the psychology of veganism and vegan trauma syndrome (experiencing trauma from awareness of animal suffering and social dismissal).
+- [Vegan Psychologist](https://veganpsychologist.com/)
+- Book: "Vystopia: The Anguish of Being Vegan in a Non-Vegan World"
+
+**Beyond Carnism**  
+Melanie Joy's organization addresses psychological issues in advocacy, including burnout prevention and effective communication strategies.
+- [Beyond Carnism: Advocate Burnout Resources](https://www.beyondcarnism.org/)
+
+**The Vegan RD**  
+Nutrition guidance for vegans, including eating during stress and emotional eating.
+- [The Vegan RD](https://www.theveganrd.com/)
+
+**Trauma-Informed Resources**:
+- National Alliance on Mental Illness (NAMI): [NAMI.org](https://www.nami.org/)
+- Psychology Today Therapist Finder (filter for vegan-friendly, trauma-informed): [PsychologyToday.com](https://www.psychologytoday.com/)
