@@ -8,6 +8,8 @@ Hello! My name is Simran. I work in computer security and have a background in m
 
 This present website is a canvas for the ideas and experiences that matter to me outside of work. My writing here touches on questions of mind and feeling, personal well-being, the social patterns we live within, and the ethics of how we treat other beings. Most of my writing takes the form of essays and notes drawn from reflection, reading, conversation, and lived experience. Some essays revisit the books I love, particularly classics, highlighting my favourite passages and the thoughts they left me with. I also occasionally write poems on the same themes that preoccupy my prose. 
 
+All opinions expressed on this site are solely my own and do not reflect the views of my employer or any affiliated organization.
+
 ### This website
 
 - [  _**Poems:**_ A collection of some of the poems I've written. Topics include the mind and emotions, observations of nature, life experiences, and animals. ](/poems/)
