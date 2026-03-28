@@ -1,4 +1,5 @@
 baseURL = "https://journal.simrantinani.com"
+canonifyURLs = true
 disqusShortname = ""
 enableGitInfo = true
 enableRobotsTXT = true
